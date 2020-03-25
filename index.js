@@ -34,7 +34,8 @@ function main() {
       'data_start_row: ' + dataStartRow
   ].join('\n') + '"'
 
-  const xlsx2seedCmd = path.join('node_modules', '.bin', 'xlsx2seed')
+  const xlsx2seedCmd = 'xlsx2seed'
+
   const cmdPrefix = [xlsx2seedCmd, '-R', targetVersion, '-n dummy', '-v version', '-i src', '-o dist', '-C', configContent].join(' ')
 
   glob(GLOB_TEXT, function(err, files) {
