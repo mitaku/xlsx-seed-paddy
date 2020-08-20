@@ -1,0 +1,35 @@
+name: GenerateSeeds
+
+on:
+  push:
+    branches:
+      - master
+      - develop
+      - 'dev/**'
+      - 'version/**'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+    - name: login github docker repo
+      run: docker login docker.pkg.github.com -u $GITHUB_ACTOR -p ${{ secrets.GITHUB_TOKEN }}
+    - uses: actions/checkout@v1
+    - name: setup dir
+      run: |
+        mkdir -p 'dist/zip'
+        touch MASTER_VERSION
+        echo HEAD > REF_NAME
+    - name: set version
+      if: contains(github.ref, 'refs/heads/version/')
+      run: |
+        echo $GITHUB_REF |awk -F '/' '{print $NF}' > MASTER_VERSION
+        cp MASTER_VERSION REF_NAME
+    - name: generate_yml
+      run: |
+        export VERSION=`cat MASTER_VERSION`
+        docker-compose run server_seed
+    - name: generate_zip
+      run: |
+        REF_NAME=`cat REF_NAME`
+        zip -j ./dist/zip/${{github['sha']}}@${REF_NAME}.zip ./dist/*.yml
