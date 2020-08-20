@@ -33,3 +33,12 @@ jobs:
       run: |
         REF_NAME=`cat REF_NAME`
         zip -j ./dist/zip/${{github['sha']}}@${REF_NAME}.zip ./dist/*.yml
+    - name: Publish to AWS S3
+      uses: opspresso/action-s3-sync@master
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        AWS_REGION: "ap-northeast-1"
+        FROM_PATH: "./dist/zip/"
+        DEST_PATH: "s3://hogehoge-level-design/"
+        OPTIONS: '--metadata github_ref=${{ github.ref }},github_actor=${{ github.actor }}'
