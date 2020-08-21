@@ -13,8 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: login github docker repo
-    - uses: actions/checkout@v1
       run: docker login docker.pkg.github.com -u $GITHUB_ACTOR -p ${{ secrets.GITHUB_TOKEN }}
+    - uses: actions/checkout@v1
     - name: setup dir
       run: |
         mkdir -p 'dist/zip'
