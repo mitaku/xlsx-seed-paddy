@@ -7,7 +7,6 @@ on:
       - develop
       - 'dev/**'
       - 'version/**'
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -33,7 +32,7 @@ jobs:
       run: |
         REF_NAME=`cat REF_NAME`
         zip -j ./dist/zip/${{github['sha']}}@${REF_NAME}.zip ./dist/*.yml
-    - name: Publish to AWS S3
+    - name: PublishToAWSS3
       uses: opspresso/action-s3-sync@master
       env:
         AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
@@ -69,4 +68,18 @@ jobs:
                 }
               ]
             }
-          ]:  
+          ]: 
+  slack:
+    name: Slack
+    needs: PublishToAWSS3 # 最後のJOBを指定
+    runs-on: ubuntu-latest
+    if: always() # alwaysを指定
+    steps:
+      - uses: technote-space/workflow-conclusion-action@v1 # Workflow の結果を取得するアクション
+      - uses: 8398a7/action-slack@v2
+        with:
+          status: ${{ env.WORKFLOW_CONCLUSION }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }} 
+
