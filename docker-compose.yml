@@ -1,7 +1,9 @@
 version: '3'
 services:
   server_seed:
-    image: docker.pkg.github.com/mitaku/xlsx-seed-paddy/xlsx-seed-paddy:latest
+    build:
+      context: .
+    # image: docker.pkg.github.com/mitaku/xlsx-seed-paddy/xlsx-seed-paddy:latest
     volumes:
         - ./src:/opt/node_app/app/src/
         - ./dist:/opt/node_app/app/dist/:rw
