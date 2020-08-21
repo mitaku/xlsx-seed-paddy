@@ -32,15 +32,28 @@ jobs:
       run: |
         REF_NAME=`cat REF_NAME`
         zip -j ./dist/zip/${{github['sha']}}@${REF_NAME}.zip ./dist/*.yml
-    - name: Publish to AWS S3
-      uses: Graffity-X/action-s3-sync@master
-      env:
-        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        AWS_REGION: "ap-northeast-1"
-        FROM_PATH: "./dist/zip/"
-        DEST_PATH: "s3://leaptrigger-admin/staging/"
-        OPTIONS: '--only-show-errors --metadata github_ref=${{ github.ref }},github_actor=${{ github.actor }}' 
+        
+        
+    - name: Configure AWS credentials
+      uses: aws-actions/configure-aws-credentials@v1
+      with:
+        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        aws-region: ap-northeast-1
+    - name: Upload file to S3
+      env: 
+        S3_UPLOAD_BUCKET: leaptrigger-admin/staging/
+      run: |
+        aws s3 sync ./dist/zip/ s3://leaptrigger-admin/staging/
+#     - name: Publish to AWS S3
+#       uses: Graffity-X/action-s3-sync@master
+#       env:
+#         AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+#         AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+#         AWS_REGION: "ap-northeast-1"
+#         FROM_PATH: "./dist/zip/"
+#         DEST_PATH: "s3://leaptrigger-admin/staging/"
+#         OPTIONS: '--only-show-errors --metadata github_ref=${{ github.ref }},github_actor=${{ github.actor }}' 
   slack:
     name: Slack
     needs: generate
