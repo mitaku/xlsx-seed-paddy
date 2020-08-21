@@ -40,35 +40,7 @@ jobs:
         AWS_REGION: "ap-northeast-1"
         FROM_PATH: "./dist/zip/"
         DEST_PATH: "s3://leaptrigger-admin/staging/"
-        OPTIONS: '--metadata github_ref=${{ github.ref }},github_actor=${{ github.actor }}'
-    - name: Slack Notification
-      uses: tokorom/action-slack-incoming-webhook@master
-      env:
-        INCOMING_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-      with:
-        text: マスターデータのS3アップロードだよ！
-        attachments: |
-          [
-            {
-              "color": "good",
-              "author_name": "${{ github.actor }}",
-              "author_icon": "${{ github.event.sender.avatar_url }}",
-              "fields": [
-                {
-                  "title": "Commit Message",
-                  "value": "${{ env.COMMIT_MESSAGE }}"
-                },
-                {
-                  "title": "GitHub Actions URL",
-                  "value": "${{ github.event.repository.url }}/actions/runs/${{ github.run_id }}"
-                },
-                {
-                  "title": "Compare URL",
-                  "value": "${{ github.event.compare }}"
-                }
-              ]
-            }
-          ]: 
+        OPTIONS: '--metadata github_ref=${{ github.ref }},github_actor=${{ github.actor }}' 
   slack:
     name: Slack
     needs: generate # 最後のJOBを指定
