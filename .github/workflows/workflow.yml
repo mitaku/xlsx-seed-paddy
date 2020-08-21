@@ -45,15 +45,6 @@ jobs:
         S3_UPLOAD_BUCKET: leaptrigger-admin/staging/
       run: |
         aws s3 sync ./dist/zip/ s3://leaptrigger-admin/staging/
-#     - name: Publish to AWS S3
-#       uses: Graffity-X/action-s3-sync@master
-#       env:
-#         AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-#         AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-#         AWS_REGION: "ap-northeast-1"
-#         FROM_PATH: "./dist/zip/"
-#         DEST_PATH: "s3://leaptrigger-admin/staging/"
-#         OPTIONS: '--only-show-errors --metadata github_ref=${{ github.ref }},github_actor=${{ github.actor }}' 
   slack:
     name: Slack
     needs: generate
