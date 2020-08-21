@@ -33,7 +33,7 @@ jobs:
         REF_NAME=`cat REF_NAME`
         zip -j ./dist/zip/${{github['sha']}}@${REF_NAME}.zip ./dist/*.yml
     - name: Publish to AWS S3
-      uses: opspresso/action-s3-sync@master
+      uses: Graffity-X/action-s3-sync@master
       env:
         AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
         AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
