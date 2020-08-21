@@ -40,14 +40,14 @@ jobs:
         AWS_REGION: "ap-northeast-1"
         FROM_PATH: "./dist/zip/"
         DEST_PATH: "s3://leaptrigger-admin/staging/"
-        OPTIONS: '--metadata github_ref=${{ github.ref }},github_actor=${{ github.actor }}' 
+        OPTIONS: '--only-show-errors --metadata github_ref=${{ github.ref }},github_actor=${{ github.actor }}' 
   slack:
     name: Slack
-    needs: generate # 最後のJOBを指定
+    needs: generate
     runs-on: ubuntu-latest
-    if: always() # alwaysを指定
+    if: always()
     steps:
-      - uses: technote-space/workflow-conclusion-action@v1 # Workflow の結果を取得するアクション
+      - uses: technote-space/workflow-conclusion-action@v1
       - uses: 8398a7/action-slack@v2
         with:
           status: ${{ env.WORKFLOW_CONCLUSION }}
