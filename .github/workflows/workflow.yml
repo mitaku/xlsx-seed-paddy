@@ -71,7 +71,7 @@ jobs:
           ]: 
   slack:
     name: Slack
-    needs: Slack Notification # 最後のJOBを指定
+    needs: generate # 最後のJOBを指定
     runs-on: ubuntu-latest
     if: always() # alwaysを指定
     steps:
