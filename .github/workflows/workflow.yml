@@ -40,5 +40,5 @@ jobs:
         AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         AWS_REGION: "ap-northeast-1"
         FROM_PATH: "./dist/zip/"
-        DEST_PATH: "s3://hogehoge-level-design/"
+        DEST_PATH: "s3://leaptrigger-admin/staging/"
         OPTIONS: '--metadata github_ref=${{ github.ref }},github_actor=${{ github.actor }}'
