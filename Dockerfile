@@ -25,16 +25,9 @@ COPY package.json package-lock.json* ./
 RUN npm install --no-optional && npm cache clean --force
 ENV PATH /opt/node_app/node_modules/.bin:$PATH
 
-# check every 30s to ensure this service returns HTTP 200
-HEALTHCHECK --interval=30s CMD node healthcheck.js
-
 # copy in our source code last, as it changes the most
 WORKDIR /opt/node_app/app
 COPY . .
-
-COPY docker-entrypoint.sh /usr/local/bin/
-ENTRYPOINT ["docker-entrypoint.sh"]
-
 
 # if you want to use npm start instead, then use `docker run --init in production`
 # so that signals are passed properly. Note the code in index.js is needed to catch Docker signals
