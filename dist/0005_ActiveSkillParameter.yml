@@ -1,0 +1,2380 @@
+data2:
+  id: 2
+  active_skill_id: 1
+  name: skill_effect_scale
+  value: 1
+data3:
+  id: 3
+  active_skill_id: 1
+  name: bullet_count
+  value: 1
+data4:
+  id: 4
+  active_skill_id: 1
+  name: range
+  value: 5
+data5:
+  id: 5
+  active_skill_id: 1
+  name: bullet_speed
+  value: 3
+data6:
+  id: 6
+  active_skill_id: 1
+  name: bullet_size
+  value: 0.25
+data7:
+  id: 7
+  active_skill_id: 1
+  name: charge_time
+  value: 1.2
+data8:
+  id: 8
+  active_skill_id: 1
+  name: push_back_effect
+  value: 0
+data9:
+  id: 9
+  active_skill_id: 2
+  name: skill_effect_scale
+  value: 2.5
+data10:
+  id: 10
+  active_skill_id: 2
+  name: skill_cooldown
+  value: 50
+data11:
+  id: 11
+  active_skill_id: 2
+  name: push_back_effect
+  value: 0
+data12:
+  id: 12
+  active_skill_id: 2
+  name: area_attack_pretime
+  value: 1.5
+data13:
+  id: 13
+  active_skill_id: 2
+  name: area_size_x
+  value: 0.2
+data14:
+  id: 14
+  active_skill_id: 2
+  name: area_size_y
+  value: 0.2
+data15:
+  id: 15
+  active_skill_id: 2
+  name: area_size_z
+  value: 10
+data16:
+  id: 16
+  active_skill_id: 3
+  name: action_type
+  value: none
+data17:
+  id: 17
+  active_skill_id: 3
+  name: skill_effect_scale
+  value: 0.35
+data18:
+  id: 18
+  active_skill_id: 3
+  name: bullet_count
+  value: 3
+data19:
+  id: 19
+  active_skill_id: 3
+  name: burst_interval
+  value: 0.35
+data20:
+  id: 20
+  active_skill_id: 3
+  name: range
+  value: 5
+data21:
+  id: 21
+  active_skill_id: 3
+  name: bullet_speed
+  value: 3
+data22:
+  id: 22
+  active_skill_id: 3
+  name: bullet_size
+  value: 0.25
+data23:
+  id: 23
+  active_skill_id: 3
+  name: charge_time
+  value: 1.2
+data24:
+  id: 24
+  active_skill_id: 3
+  name: push_back_effect
+  value: 0
+data25:
+  id: 25
+  active_skill_id: 4
+  name: action_type
+  value: Replace
+data26:
+  id: 26
+  active_skill_id: 4
+  name: skill_effect_scale
+  value: 1.2
+data27:
+  id: 27
+  active_skill_id: 4
+  name: bullet_count
+  value: 1
+data28:
+  id: 28
+  active_skill_id: 4
+  name: range
+  value: 5
+data29:
+  id: 29
+  active_skill_id: 4
+  name: bullet_speed
+  value: 4
+data30:
+  id: 30
+  active_skill_id: 4
+  name: bullet_size
+  value: 0.15
+data31:
+  id: 31
+  active_skill_id: 4
+  name: charge_time
+  value: 1
+data32:
+  id: 32
+  active_skill_id: 4
+  name: skill_cooldown
+  value: 40
+data33:
+  id: 33
+  active_skill_id: 4
+  name: effect_duration
+  value: 10
+data34:
+  id: 34
+  active_skill_id: 4
+  name: push_back_effect
+  value: 0
+data35:
+  id: 35
+  active_skill_id: 4
+  name: area_attack_pretime
+  value: 0
+data36:
+  id: 36
+  active_skill_id: 4
+  name: area_size_x
+  value: 0.4
+data37:
+  id: 37
+  active_skill_id: 4
+  name: area_size_y
+  value: 0.4
+data38:
+  id: 38
+  active_skill_id: 4
+  name: area_size_z
+  value: 0.4
+data39:
+  id: 39
+  active_skill_id: 4
+  name: activate_range
+  value: 0.1
+data40:
+  id: 40
+  active_skill_id: 5
+  name: action_type
+  value: none
+data41:
+  id: 41
+  active_skill_id: 5
+  name: skill_effect_scale
+  value: 1
+data42:
+  id: 42
+  active_skill_id: 5
+  name: bullet_count
+  value: 1
+data43:
+  id: 43
+  active_skill_id: 5
+  name: range
+  value: 5
+data44:
+  id: 44
+  active_skill_id: 5
+  name: bullet_speed
+  value: 1.8
+data45:
+  id: 45
+  active_skill_id: 5
+  name: bullet_size
+  value: 0.15
+data46:
+  id: 46
+  active_skill_id: 5
+  name: push_back_effect
+  value: 0
+data47:
+  id: 47
+  active_skill_id: 6
+  name: skill_effect_scale
+  value: 1.5
+data48:
+  id: 48
+  active_skill_id: 6
+  name: bullet_count
+  value: 1
+data49:
+  id: 49
+  active_skill_id: 6
+  name: skill_cooldown
+  value: 4
+data50:
+  id: 50
+  active_skill_id: 6
+  name: push_back_effect
+  value: 0
+data51:
+  id: 51
+  active_skill_id: 6
+  name: area_attack_pretime
+  value: 0.3
+data52:
+  id: 52
+  active_skill_id: 6
+  name: area_size_x
+  value: 0.1
+data53:
+  id: 53
+  active_skill_id: 6
+  name: area_size_y
+  value: 0.1
+data54:
+  id: 54
+  active_skill_id: 6
+  name: area_size_z
+  value: 5
+data55:
+  id: 55
+  active_skill_id: 7
+  name: action_type
+  value: none
+data56:
+  id: 56
+  active_skill_id: 7
+  name: skill_effect_scale
+  value: 1
+data57:
+  id: 57
+  active_skill_id: 7
+  name: bullet_count
+  value: 1
+data58:
+  id: 58
+  active_skill_id: 7
+  name: range
+  value: 3
+data59:
+  id: 59
+  active_skill_id: 7
+  name: bullet_speed
+  value: 1.8
+data60:
+  id: 60
+  active_skill_id: 7
+  name: bullet_size
+  value: 0.25
+data61:
+  id: 61
+  active_skill_id: 7
+  name: push_back_effect
+  value: 0
+data62:
+  id: 62
+  active_skill_id: 8
+  name: skill_effect_scale
+  value: 0.5
+data63:
+  id: 63
+  active_skill_id: 8
+  name: bullet_count
+  value: 1
+data64:
+  id: 64
+  active_skill_id: 8
+  name: skill_cooldown
+  value: 6
+data65:
+  id: 65
+  active_skill_id: 8
+  name: effect_duration
+  value: 2.5
+data66:
+  id: 66
+  active_skill_id: 8
+  name: push_back_effect
+  value: 0
+data67:
+  id: 67
+  active_skill_id: 8
+  name: area_attack_pretime
+  value: 0.5
+data68:
+  id: 68
+  active_skill_id: 8
+  name: area_size_x
+  value: 0.3
+data69:
+  id: 69
+  active_skill_id: 8
+  name: area_size_y
+  value: 0.3
+data70:
+  id: 70
+  active_skill_id: 8
+  name: area_size_z
+  value: 2
+data71:
+  id: 71
+  active_skill_id: 8
+  name: status_effect
+  value: DoT（火傷
+data72:
+  id: 72
+  active_skill_id: 8
+  name: status_effect_duration
+  value: 3
+data73:
+  id: 73
+  active_skill_id: 9
+  name: action_type
+  value: none
+data74:
+  id: 74
+  active_skill_id: 9
+  name: skill_effect_scale
+  value: 1
+data75:
+  id: 75
+  active_skill_id: 9
+  name: bullet_count
+  value: 1
+data76:
+  id: 76
+  active_skill_id: 9
+  name: range
+  value: 5
+data77:
+  id: 77
+  active_skill_id: 9
+  name: bullet_speed
+  value: 1.8
+data78:
+  id: 78
+  active_skill_id: 9
+  name: bullet_size
+  value: 0.25
+data79:
+  id: 79
+  active_skill_id: 9
+  name: push_back_effect
+  value: 0
+data80:
+  id: 80
+  active_skill_id: 10
+  name: bullet_count
+  value: 1
+data81:
+  id: 81
+  active_skill_id: 10
+  name: skill_cooldown
+  value: 10
+data82:
+  id: 82
+  active_skill_id: 10
+  name: effect_duration
+  value: 3
+data83:
+  id: 83
+  active_skill_id: 10
+  name: area_size_x
+  value: 0.5
+data84:
+  id: 84
+  active_skill_id: 10
+  name: area_size_y
+  value: 1
+data85:
+  id: 85
+  active_skill_id: 10
+  name: area_size_z
+  value: 0.3
+data86:
+  id: 86
+  active_skill_id: 10
+  name: hp
+  value: 400
+data87:
+  id: 87
+  active_skill_id: 10
+  name: summon_place_adjust_forward
+  value: 0.25
+data88:
+  id: 88
+  active_skill_id: 10
+  name: summon_place_adjust_height
+  value: -0.05
+data89:
+  id: 89
+  active_skill_id: 10
+  name: summon_place_adjust_side
+  value: 0
+data90:
+  id: 90
+  active_skill_id: 11
+  name: action_type
+  value: none
+data91:
+  id: 91
+  active_skill_id: 11
+  name: skill_effect_scale
+  value: 1
+data92:
+  id: 92
+  active_skill_id: 11
+  name: bullet_count
+  value: 1
+data93:
+  id: 93
+  active_skill_id: 11
+  name: range
+  value: 5
+data94:
+  id: 94
+  active_skill_id: 11
+  name: bullet_speed
+  value: 1.8
+data95:
+  id: 95
+  active_skill_id: 11
+  name: bullet_size
+  value: 0.25
+data96:
+  id: 96
+  active_skill_id: 11
+  name: push_back_effect
+  value: 0
+data97:
+  id: 97
+  active_skill_id: 12
+  name: skill_cooldown
+  value: 10
+data98:
+  id: 98
+  active_skill_id: 12
+  name: area_size_x
+  value: 2
+data99:
+  id: 99
+  active_skill_id: 12
+  name: area_size_y
+  value: 1.75
+data100:
+  id: 100
+  active_skill_id: 12
+  name: area_size_z
+  value: 2
+data101:
+  id: 101
+  active_skill_id: 12
+  name: ball_radius
+  value: 0.3
+data102:
+  id: 102
+  active_skill_id: 12
+  name: hp
+  value: 300
+data103:
+  id: 103
+  active_skill_id: 12
+  name: hp_damege_per_sec
+  value: 50
+data104:
+  id: 104
+  active_skill_id: 12
+  name: summon_place_adjust_forward
+  value: 0
+data105:
+  id: 105
+  active_skill_id: 12
+  name: summon_place_adjust_height
+  value: 0.5
+data106:
+  id: 106
+  active_skill_id: 12
+  name: summon_place_adjust_side
+  value: 0
+data107:
+  id: 107
+  active_skill_id: 12
+  name: buff_effect_scale_1
+  value: 1.2
+data108:
+  id: 108
+  active_skill_id: 13
+  name: action_type
+  value: none
+data109:
+  id: 109
+  active_skill_id: 13
+  name: skill_effect_scale
+  value: 1
+data110:
+  id: 110
+  active_skill_id: 13
+  name: bullet_count
+  value: 1
+data111:
+  id: 111
+  active_skill_id: 13
+  name: range
+  value: 5
+data112:
+  id: 112
+  active_skill_id: 13
+  name: bullet_speed
+  value: 1.8
+data113:
+  id: 113
+  active_skill_id: 13
+  name: bullet_size
+  value: 0.25
+data114:
+  id: 114
+  active_skill_id: 13
+  name: push_back_effect
+  value: 0
+data115:
+  id: 115
+  active_skill_id: 14
+  name: skill_effect_scale
+  value: 1.5
+data116:
+  id: 116
+  active_skill_id: 14
+  name: bullet_count
+  value: 1
+data117:
+  id: 117
+  active_skill_id: 14
+  name: skill_cooldown
+  value: 4
+data118:
+  id: 118
+  active_skill_id: 14
+  name: push_back_effect
+  value: 0
+data119:
+  id: 119
+  active_skill_id: 14
+  name: area_attack_pretime
+  value: 0.5
+data120:
+  id: 120
+  active_skill_id: 14
+  name: area_size_x
+  value: 1.1
+data121:
+  id: 121
+  active_skill_id: 14
+  name: area_size_y
+  value: 1.1
+data122:
+  id: 122
+  active_skill_id: 14
+  name: area_size_z
+  value: 1.1
+data123:
+  id: 123
+  active_skill_id: 15
+  name: action_type
+  value: none
+data124:
+  id: 124
+  active_skill_id: 15
+  name: skill_effect_scale
+  value: 1
+data125:
+  id: 125
+  active_skill_id: 15
+  name: bullet_count
+  value: 1
+data126:
+  id: 126
+  active_skill_id: 15
+  name: range
+  value: 5
+data127:
+  id: 127
+  active_skill_id: 15
+  name: bullet_speed
+  value: 1.8
+data128:
+  id: 128
+  active_skill_id: 15
+  name: bullet_size
+  value: 0.25
+data129:
+  id: 129
+  active_skill_id: 15
+  name: push_back_effect
+  value: 0
+data130:
+  id: 130
+  active_skill_id: 16
+  name: skill_effect_scale
+  value: 1.2
+data131:
+  id: 131
+  active_skill_id: 16
+  name: bullet_count
+  value: 1
+data132:
+  id: 132
+  active_skill_id: 16
+  name: skill_cooldown
+  value: 6
+data133:
+  id: 133
+  active_skill_id: 16
+  name: push_back_effect
+  value: 1
+data134:
+  id: 134
+  active_skill_id: 16
+  name: area_attack_pretime
+  value: 0
+data135:
+  id: 135
+  active_skill_id: 16
+  name: rush_speed
+  value: 3
+data136:
+  id: 136
+  active_skill_id: 16
+  name: status_effect
+  value: スタン
+data137:
+  id: 137
+  active_skill_id: 16
+  name: status_effect_duration
+  value: 0.1
+data138:
+  id: 138
+  active_skill_id: 17
+  name: action_type
+  value: none
+data139:
+  id: 139
+  active_skill_id: 17
+  name: skill_effect_scale
+  value: 1
+data140:
+  id: 140
+  active_skill_id: 17
+  name: bullet_count
+  value: 1
+data141:
+  id: 141
+  active_skill_id: 17
+  name: range
+  value: 5
+data142:
+  id: 142
+  active_skill_id: 17
+  name: bullet_speed
+  value: 1.8
+data143:
+  id: 143
+  active_skill_id: 17
+  name: bullet_size
+  value: 0.25
+data144:
+  id: 144
+  active_skill_id: 17
+  name: push_back_effect
+  value: 0
+data145:
+  id: 145
+  active_skill_id: 18
+  name: action_type
+  value: none
+data146:
+  id: 146
+  active_skill_id: 18
+  name: skill_effect_scale
+  value: 0.6
+data147:
+  id: 147
+  active_skill_id: 18
+  name: bullet_count
+  value: 1
+data148:
+  id: 148
+  active_skill_id: 18
+  name: range
+  value: 2
+data149:
+  id: 149
+  active_skill_id: 18
+  name: bullet_speed
+  value: 4
+data150:
+  id: 150
+  active_skill_id: 18
+  name: bullet_size
+  value: 0.1
+data151:
+  id: 151
+  active_skill_id: 18
+  name: skill_cooldown
+  value: 6
+data152:
+  id: 152
+  active_skill_id: 18
+  name: push_back_effect
+  value: 0
+data153:
+  id: 153
+  active_skill_id: 19
+  name: action_type
+  value: none
+data154:
+  id: 154
+  active_skill_id: 19
+  name: skill_effect_scale
+  value: 1
+data155:
+  id: 155
+  active_skill_id: 19
+  name: bullet_count
+  value: 1
+data156:
+  id: 156
+  active_skill_id: 19
+  name: range
+  value: 5
+data157:
+  id: 157
+  active_skill_id: 19
+  name: bullet_speed
+  value: 1.8
+data158:
+  id: 158
+  active_skill_id: 19
+  name: bullet_size
+  value: 0.25
+data159:
+  id: 159
+  active_skill_id: 19
+  name: push_back_effect
+  value: 0
+data160:
+  id: 160
+  active_skill_id: 20
+  name: skill_cooldown
+  value: 10
+data161:
+  id: 161
+  active_skill_id: 20
+  name: push_back_effect
+  value: 0
+data162:
+  id: 162
+  active_skill_id: 20
+  name: area_size_x
+  value: 1.5
+data163:
+  id: 163
+  active_skill_id: 20
+  name: area_size_y
+  value: 1.75
+data164:
+  id: 164
+  active_skill_id: 20
+  name: area_size_z
+  value: 1.5
+data165:
+  id: 165
+  active_skill_id: 20
+  name: ball_radius
+  value: 0.3
+data166:
+  id: 166
+  active_skill_id: 20
+  name: hp
+  value: 300
+data167:
+  id: 167
+  active_skill_id: 20
+  name: hp_damege_per_sec
+  value: 50
+data168:
+  id: 168
+  active_skill_id: 20
+  name: summon_place_adjust_forward
+  value: 1
+data169:
+  id: 169
+  active_skill_id: 20
+  name: summon_place_adjust_height
+  value: 0.5
+data170:
+  id: 170
+  active_skill_id: 20
+  name: summon_place_adjust_side
+  value: 0
+data171:
+  id: 171
+  active_skill_id: 20
+  name: buff_effect_scale_1
+  value: 0.5
+data172:
+  id: 172
+  active_skill_id: 20
+  name: buff_effect_scale_2
+  value: 0.25
+data173:
+  id: 173
+  active_skill_id: 20
+  name: buff_effect_scale_3
+  value: 0.1
+data174:
+  id: 174
+  active_skill_id: 20
+  name: buff_effect_scale_4
+  value: 0.5
+data175:
+  id: 175
+  active_skill_id: 21
+  name: action_type
+  value: none
+data176:
+  id: 176
+  active_skill_id: 21
+  name: skill_effect_scale
+  value: 1
+data177:
+  id: 177
+  active_skill_id: 21
+  name: bullet_count
+  value: 1
+data178:
+  id: 178
+  active_skill_id: 21
+  name: range
+  value: 5
+data179:
+  id: 179
+  active_skill_id: 21
+  name: bullet_speed
+  value: 3
+data180:
+  id: 180
+  active_skill_id: 21
+  name: bullet_size
+  value: 0.25
+data181:
+  id: 181
+  active_skill_id: 21
+  name: charge_time
+  value: 1.2
+data182:
+  id: 182
+  active_skill_id: 21
+  name: push_back_effect
+  value: 0
+data183:
+  id: 183
+  active_skill_id: 22
+  name: bullet_count
+  value: 1
+data184:
+  id: 184
+  active_skill_id: 22
+  name: skill_cooldown
+  value: 30
+data185:
+  id: 185
+  active_skill_id: 22
+  name: effect_duration
+  value: 7.5
+data186:
+  id: 186
+  active_skill_id: 22
+  name: area_size_x
+  value: 1.2
+data187:
+  id: 187
+  active_skill_id: 22
+  name: area_size_y
+  value: 2
+data188:
+  id: 188
+  active_skill_id: 22
+  name: area_size_z
+  value: 0.3
+data189:
+  id: 189
+  active_skill_id: 22
+  name: hp
+  value: 1000
+data190:
+  id: 190
+  active_skill_id: 22
+  name: summon_place_adjust_forward
+  value: 0.25
+data191:
+  id: 191
+  active_skill_id: 22
+  name: summon_place_adjust_height
+  value: -0.2
+data192:
+  id: 192
+  active_skill_id: 22
+  name: summon_place_adjust_side
+  value: 0
+data193:
+  id: 193
+  active_skill_id: 23
+  name: action_type
+  value: none
+data194:
+  id: 194
+  active_skill_id: 23
+  name: skill_effect_scale
+  value: 1
+data195:
+  id: 195
+  active_skill_id: 23
+  name: bullet_count
+  value: 1
+data196:
+  id: 196
+  active_skill_id: 23
+  name: range
+  value: 5
+data197:
+  id: 197
+  active_skill_id: 23
+  name: bullet_speed
+  value: 4.5
+data198:
+  id: 198
+  active_skill_id: 23
+  name: bullet_size
+  value: 0.1
+data199:
+  id: 199
+  active_skill_id: 23
+  name: charge_time
+  value: 1.5
+data200:
+  id: 200
+  active_skill_id: 23
+  name: push_back_effect
+  value: 0
+data201:
+  id: 201
+  active_skill_id: 24
+  name: action_type
+  value: Replace
+data202:
+  id: 202
+  active_skill_id: 24
+  name: skill_effect_scale
+  value: 1
+data203:
+  id: 203
+  active_skill_id: 24
+  name: bullet_count
+  value: 1
+data204:
+  id: 204
+  active_skill_id: 24
+  name: range
+  value: 5
+data205:
+  id: 205
+  active_skill_id: 24
+  name: bullet_speed
+  value: 5
+data206:
+  id: 206
+  active_skill_id: 24
+  name: bullet_size
+  value: 0.3
+data207:
+  id: 207
+  active_skill_id: 24
+  name: charge_time
+  value: 0.9
+data208:
+  id: 208
+  active_skill_id: 24
+  name: skill_cooldown
+  value: 30
+data209:
+  id: 209
+  active_skill_id: 24
+  name: effect_duration
+  value: 7.5
+data210:
+  id: 210
+  active_skill_id: 24
+  name: buff_effect_scale_1
+  value: 2
+data211:
+  id: 211
+  active_skill_id: 25
+  name: action_type
+  value: none
+data212:
+  id: 212
+  active_skill_id: 25
+  name: skill_effect_scale
+  value: 1
+data213:
+  id: 213
+  active_skill_id: 25
+  name: bullet_count
+  value: 1
+data214:
+  id: 214
+  active_skill_id: 25
+  name: range
+  value: 5
+data215:
+  id: 215
+  active_skill_id: 25
+  name: bullet_speed
+  value: 4.5
+data216:
+  id: 216
+  active_skill_id: 25
+  name: bullet_size
+  value: 0.1
+data217:
+  id: 217
+  active_skill_id: 25
+  name: charge_time
+  value: 1.5
+data218:
+  id: 218
+  active_skill_id: 25
+  name: push_back_effect
+  value: 0
+data219:
+  id: 219
+  active_skill_id: 26
+  name: action_type
+  value: Replace
+data220:
+  id: 220
+  active_skill_id: 26
+  name: skill_effect_scale
+  value: 2
+data221:
+  id: 221
+  active_skill_id: 26
+  name: bullet_count
+  value: 1
+data222:
+  id: 222
+  active_skill_id: 26
+  name: range
+  value: 5
+data223:
+  id: 223
+  active_skill_id: 26
+  name: bullet_speed
+  value: 4
+data224:
+  id: 224
+  active_skill_id: 26
+  name: bullet_size
+  value: 0.25
+data225:
+  id: 225
+  active_skill_id: 26
+  name: charge_time
+  value: 1.2
+data226:
+  id: 226
+  active_skill_id: 26
+  name: skill_cooldown
+  value: 30
+data227:
+  id: 227
+  active_skill_id: 26
+  name: effect_duration
+  value: 40
+data228:
+  id: 228
+  active_skill_id: 26
+  name: attack_num
+  value: 7
+data229:
+  id: 229
+  active_skill_id: 27
+  name: action_type
+  value: none
+data230:
+  id: 230
+  active_skill_id: 27
+  name: skill_effect_scale
+  value: 1
+data231:
+  id: 231
+  active_skill_id: 27
+  name: bullet_count
+  value: 1
+data232:
+  id: 232
+  active_skill_id: 27
+  name: range
+  value: 5
+data233:
+  id: 233
+  active_skill_id: 27
+  name: bullet_speed
+  value: 3.5
+data234:
+  id: 234
+  active_skill_id: 27
+  name: bullet_size
+  value: 0.25
+data235:
+  id: 235
+  active_skill_id: 27
+  name: charge_time
+  value: 1.2
+data236:
+  id: 236
+  active_skill_id: 27
+  name: push_back_effect
+  value: 0
+data237:
+  id: 237
+  active_skill_id: 28
+  name: skill_effect_scale
+  value: 1.2
+data238:
+  id: 238
+  active_skill_id: 28
+  name: bullet_count
+  value: 1
+data239:
+  id: 239
+  active_skill_id: 28
+  name: bullet_speed
+  value: 1.5
+data240:
+  id: 240
+  active_skill_id: 28
+  name: bullet_size
+  value: 0.2
+data241:
+  id: 241
+  active_skill_id: 28
+  name: skill_cooldown
+  value: 20
+data242:
+  id: 242
+  active_skill_id: 28
+  name: effect_duration
+  value: 3
+data243:
+  id: 243
+  active_skill_id: 28
+  name: area_size_x
+  value: 1
+data244:
+  id: 244
+  active_skill_id: 28
+  name: area_size_y
+  value: 1
+data245:
+  id: 245
+  active_skill_id: 28
+  name: area_size_z
+  value: 1
+data246:
+  id: 246
+  active_skill_id: 28
+  name: status_effect
+  value: スタン
+data247:
+  id: 247
+  active_skill_id: 28
+  name: status_effect_duration
+  value: 0.5
+data248:
+  id: 248
+  active_skill_id: 29
+  name: action_type
+  value: none
+data249:
+  id: 249
+  active_skill_id: 29
+  name: skill_effect_scale
+  value: 1
+data250:
+  id: 250
+  active_skill_id: 29
+  name: bullet_count
+  value: 1
+data251:
+  id: 251
+  active_skill_id: 29
+  name: range
+  value: 5
+data252:
+  id: 252
+  active_skill_id: 29
+  name: bullet_speed
+  value: 1.8
+data253:
+  id: 253
+  active_skill_id: 29
+  name: bullet_size
+  value: 0.25
+data254:
+  id: 254
+  active_skill_id: 29
+  name: push_back_effect
+  value: 0
+data255:
+  id: 255
+  active_skill_id: 30
+  name: skill_effect_scale
+  value: 1.5
+data256:
+  id: 256
+  active_skill_id: 30
+  name: bullet_count
+  value: 1
+data257:
+  id: 257
+  active_skill_id: 30
+  name: skill_cooldown
+  value: 7.5
+data258:
+  id: 258
+  active_skill_id: 30
+  name: push_back_effect
+  value: 0
+data259:
+  id: 259
+  active_skill_id: 30
+  name: area_attack_pretime
+  value: 0
+data260:
+  id: 260
+  active_skill_id: 30
+  name: area_size_x
+  value: 0.75
+data261:
+  id: 261
+  active_skill_id: 30
+  name: area_size_y
+  value: 0.75
+data262:
+  id: 262
+  active_skill_id: 30
+  name: area_size_z
+  value: 0.75
+data263:
+  id: 263
+  active_skill_id: 30
+  name: status_effect
+  value: スタン
+data264:
+  id: 264
+  active_skill_id: 30
+  name: status_effect_duration
+  value: 0.5
+data265:
+  id: 265
+  active_skill_id: 31
+  name: action_type
+  value: none
+data266:
+  id: 266
+  active_skill_id: 31
+  name: skill_effect_scale
+  value: 1
+data267:
+  id: 267
+  active_skill_id: 31
+  name: bullet_count
+  value: 1
+data268:
+  id: 268
+  active_skill_id: 31
+  name: range
+  value: 5
+data269:
+  id: 269
+  active_skill_id: 31
+  name: bullet_speed
+  value: 1.8
+data270:
+  id: 270
+  active_skill_id: 31
+  name: bullet_size
+  value: 0.25
+data271:
+  id: 271
+  active_skill_id: 31
+  name: push_back_effect
+  value: 0
+data272:
+  id: 272
+  active_skill_id: 32
+  name: action_type
+  value: none
+data273:
+  id: 273
+  active_skill_id: 32
+  name: skill_effect_scale
+  value: 1.2
+data274:
+  id: 274
+  active_skill_id: 32
+  name: bullet_count
+  value: 1
+data275:
+  id: 275
+  active_skill_id: 32
+  name: range
+  value: 5
+data276:
+  id: 276
+  active_skill_id: 32
+  name: bullet_speed
+  value: 3
+data277:
+  id: 277
+  active_skill_id: 32
+  name: bullet_size
+  value: 0.25
+data278:
+  id: 278
+  active_skill_id: 32
+  name: skill_cooldown
+  value: 5
+data279:
+  id: 279
+  active_skill_id: 32
+  name: push_back_effect
+  value: 3
+data280:
+  id: 280
+  active_skill_id: 32
+  name: status_effect
+  value: スタン
+data281:
+  id: 281
+  active_skill_id: 32
+  name: status_effect_duration
+  value: 0.5
+data282:
+  id: 282
+  active_skill_id: 33
+  name: action_type
+  value: none
+data283:
+  id: 283
+  active_skill_id: 33
+  name: skill_effect_scale
+  value: 1
+data284:
+  id: 284
+  active_skill_id: 33
+  name: bullet_count
+  value: 1
+data285:
+  id: 285
+  active_skill_id: 33
+  name: range
+  value: 5
+data286:
+  id: 286
+  active_skill_id: 33
+  name: bullet_speed
+  value: 1.8
+data287:
+  id: 287
+  active_skill_id: 33
+  name: bullet_size
+  value: 0.25
+data288:
+  id: 288
+  active_skill_id: 33
+  name: push_back_effect
+  value: 0
+data289:
+  id: 289
+  active_skill_id: 34
+  name: action_type
+  value: none
+data290:
+  id: 290
+  active_skill_id: 34
+  name: skill_effect_scale
+  value: 1
+data291:
+  id: 291
+  active_skill_id: 34
+  name: bullet_count
+  value: 5
+data292:
+  id: 292
+  active_skill_id: 34
+  name: burst_interval
+  value: 0.4
+data293:
+  id: 293
+  active_skill_id: 34
+  name: range
+  value: 5
+data294:
+  id: 294
+  active_skill_id: 34
+  name: bullet_speed
+  value: 1.5
+data295:
+  id: 295
+  active_skill_id: 34
+  name: bullet_size
+  value: 0.25
+data296:
+  id: 296
+  active_skill_id: 34
+  name: skill_cooldown
+  value: 7.5
+data297:
+  id: 297
+  active_skill_id: 34
+  name: effect_duration
+  value: 7.5
+data298:
+  id: 298
+  active_skill_id: 34
+  name: push_back_effect
+  value: 0
+data299:
+  id: 299
+  active_skill_id: 34
+  name: area_attack_pretime
+  value: 1.25
+data300:
+  id: 300
+  active_skill_id: 34
+  name: ball_radius
+  value: 1.5
+data301:
+  id: 301
+  active_skill_id: 34
+  name: hp
+  value: 99999
+data302:
+  id: 302
+  active_skill_id: 34
+  name: summon_place_adjust_height
+  value: 0.4
+data303:
+  id: 303
+  active_skill_id: 35
+  name: action_type
+  value: none
+data304:
+  id: 304
+  active_skill_id: 35
+  name: skill_effect_scale
+  value: 1
+data305:
+  id: 305
+  active_skill_id: 35
+  name: bullet_count
+  value: 1
+data306:
+  id: 306
+  active_skill_id: 35
+  name: range
+  value: 5
+data307:
+  id: 307
+  active_skill_id: 35
+  name: bullet_speed
+  value: 1.8
+data308:
+  id: 308
+  active_skill_id: 35
+  name: bullet_size
+  value: 0.25
+data309:
+  id: 309
+  active_skill_id: 35
+  name: push_back_effect
+  value: 0
+data310:
+  id: 310
+  active_skill_id: 36
+  name: action_type
+  value: none
+data311:
+  id: 311
+  active_skill_id: 36
+  name: skill_effect_scale
+  value: 3
+data312:
+  id: 312
+  active_skill_id: 36
+  name: bullet_count
+  value: 1
+data313:
+  id: 313
+  active_skill_id: 36
+  name: range
+  value: 5
+data314:
+  id: 314
+  active_skill_id: 36
+  name: bullet_speed
+  value: 1
+data315:
+  id: 315
+  active_skill_id: 36
+  name: bullet_size
+  value: 0.3
+data316:
+  id: 316
+  active_skill_id: 36
+  name: skill_cooldown
+  value: 10
+data317:
+  id: 317
+  active_skill_id: 36
+  name: push_back_effect
+  value: 0
+data318:
+  id: 318
+  active_skill_id: 36
+  name: area_attack_pretime
+  value: 3
+data319:
+  id: 319
+  active_skill_id: 36
+  name: area_size_x
+  value: 1.2
+data320:
+  id: 320
+  active_skill_id: 36
+  name: area_size_y
+  value: 1.2
+data321:
+  id: 321
+  active_skill_id: 36
+  name: area_size_z
+  value: 1.2
+data322:
+  id: 322
+  active_skill_id: 36
+  name: summon_place_adjust_forward
+  value: 0.5
+data323:
+  id: 323
+  active_skill_id: 36
+  name: summon_place_adjust_height
+  value: 0.5
+data324:
+  id: 324
+  active_skill_id: 37
+  name: action_type
+  value: none
+data325:
+  id: 325
+  active_skill_id: 37
+  name: skill_effect_scale
+  value: 1
+data326:
+  id: 326
+  active_skill_id: 37
+  name: bullet_count
+  value: 1
+data327:
+  id: 327
+  active_skill_id: 37
+  name: range
+  value: 5
+data328:
+  id: 328
+  active_skill_id: 37
+  name: bullet_speed
+  value: 1.8
+data329:
+  id: 329
+  active_skill_id: 37
+  name: bullet_size
+  value: 0.25
+data330:
+  id: 330
+  active_skill_id: 37
+  name: push_back_effect
+  value: 0
+data331:
+  id: 331
+  active_skill_id: 38
+  name: bullet_count
+  value: 1
+data332:
+  id: 332
+  active_skill_id: 38
+  name: skill_cooldown
+  value: 10
+data333:
+  id: 333
+  active_skill_id: 38
+  name: effect_duration
+  value: 15
+data334:
+  id: 334
+  active_skill_id: 38
+  name: area_size_x
+  value: 1
+data335:
+  id: 335
+  active_skill_id: 38
+  name: area_size_y
+  value: 1
+data336:
+  id: 336
+  active_skill_id: 38
+  name: area_size_z
+  value: 0.3
+data337:
+  id: 337
+  active_skill_id: 38
+  name: hp
+  value: 300
+data338:
+  id: 338
+  active_skill_id: 38
+  name: summon_place_adjust_forward
+  value: 0.25
+data339:
+  id: 339
+  active_skill_id: 38
+  name: summon_place_adjust_height
+  value: -0.2
+data340:
+  id: 340
+  active_skill_id: 38
+  name: summon_place_adjust_side
+  value: 0
+data341:
+  id: 341
+  active_skill_id: 38
+  name: buff_effect_scale_1
+  value: 1.5
+data342:
+  id: 342
+  active_skill_id: 39
+  name: action_type
+  value: none
+data343:
+  id: 343
+  active_skill_id: 39
+  name: skill_effect_scale
+  value: 1
+data344:
+  id: 344
+  active_skill_id: 39
+  name: bullet_count
+  value: 1
+data345:
+  id: 345
+  active_skill_id: 39
+  name: range
+  value: 5
+data346:
+  id: 346
+  active_skill_id: 39
+  name: bullet_speed
+  value: 1.8
+data347:
+  id: 347
+  active_skill_id: 39
+  name: bullet_size
+  value: 0.25
+data348:
+  id: 348
+  active_skill_id: 39
+  name: push_back_effect
+  value: 0
+data349:
+  id: 349
+  active_skill_id: 40
+  name: skill_cooldown
+  value: 15
+data350:
+  id: 350
+  active_skill_id: 40
+  name: area_size_x
+  value: 1.2
+data351:
+  id: 351
+  active_skill_id: 40
+  name: area_size_y
+  value: 1.5
+data352:
+  id: 352
+  active_skill_id: 40
+  name: area_size_z
+  value: 1.2
+data353:
+  id: 353
+  active_skill_id: 40
+  name: ball_radius
+  value: 0.3
+data354:
+  id: 354
+  active_skill_id: 40
+  name: hp
+  value: 300
+data355:
+  id: 355
+  active_skill_id: 40
+  name: hp_damege_per_sec
+  value: 30
+data356:
+  id: 356
+  active_skill_id: 40
+  name: summon_place_adjust_forward
+  value: 0
+data357:
+  id: 357
+  active_skill_id: 40
+  name: summon_place_adjust_height
+  value: 0.5
+data358:
+  id: 358
+  active_skill_id: 40
+  name: summon_place_adjust_side
+  value: 0
+data359:
+  id: 359
+  active_skill_id: 40
+  name: hp_heal_per_sec
+  value: 60
+data360:
+  id: 360
+  active_skill_id: 41
+  name: action_type
+  value: none
+data361:
+  id: 361
+  active_skill_id: 41
+  name: skill_effect_scale
+  value: 1
+data362:
+  id: 362
+  active_skill_id: 41
+  name: bullet_count
+  value: 1
+data363:
+  id: 363
+  active_skill_id: 41
+  name: range
+  value: 5
+data364:
+  id: 364
+  active_skill_id: 41
+  name: bullet_speed
+  value: 1.8
+data365:
+  id: 365
+  active_skill_id: 41
+  name: bullet_size
+  value: 0.25
+data366:
+  id: 366
+  active_skill_id: 41
+  name: push_back_effect
+  value: 0
+data367:
+  id: 367
+  active_skill_id: 42
+  name: skill_cooldown
+  value: 10
+data368:
+  id: 368
+  active_skill_id: 42
+  name: ball_radius
+  value: 1
+data369:
+  id: 369
+  active_skill_id: 42
+  name: hp
+  value: 900
+data370:
+  id: 370
+  active_skill_id: 42
+  name: hp_damege_per_sec
+  value: 90
+data371:
+  id: 371
+  active_skill_id: 42
+  name: summon_place_adjust_forward
+  value: 0.35
+data372:
+  id: 372
+  active_skill_id: 42
+  name: summon_place_adjust_height
+  value: 0
+data373:
+  id: 373
+  active_skill_id: 42
+  name: summon_place_adjust_side
+  value: 0.1
+data374:
+  id: 374
+  active_skill_id: 43
+  name: action_type
+  value: none
+data375:
+  id: 375
+  active_skill_id: 43
+  name: skill_effect_scale
+  value: 1
+data376:
+  id: 376
+  active_skill_id: 43
+  name: bullet_count
+  value: 1
+data377:
+  id: 377
+  active_skill_id: 43
+  name: range
+  value: 5
+data378:
+  id: 378
+  active_skill_id: 43
+  name: bullet_speed
+  value: 1.8
+data379:
+  id: 379
+  active_skill_id: 43
+  name: bullet_size
+  value: 0.25
+data380:
+  id: 380
+  active_skill_id: 43
+  name: push_back_effect
+  value: 0
+data381:
+  id: 381
+  active_skill_id: 44
+  name: skill_effect_scale
+  value: 0.75
+data382:
+  id: 382
+  active_skill_id: 44
+  name: bullet_count
+  value: 1
+data383:
+  id: 383
+  active_skill_id: 44
+  name: skill_cooldown
+  value: 5
+data384:
+  id: 384
+  active_skill_id: 44
+  name: effect_duration
+  value: 3
+data385:
+  id: 385
+  active_skill_id: 44
+  name: area_size_x
+  value: 1.2
+data386:
+  id: 386
+  active_skill_id: 44
+  name: area_size_y
+  value: 0.5
+data387:
+  id: 387
+  active_skill_id: 44
+  name: area_size_z
+  value: 1.2
+data388:
+  id: 388
+  active_skill_id: 44
+  name: status_effect
+  value: DoT（毒
+data389:
+  id: 389
+  active_skill_id: 44
+  name: status_effect_duration
+  value: 3
+data390:
+  id: 390
+  active_skill_id: 45
+  name: action_type
+  value: none
+data391:
+  id: 391
+  active_skill_id: 45
+  name: skill_effect_scale
+  value: 1
+data392:
+  id: 392
+  active_skill_id: 45
+  name: bullet_count
+  value: 1
+data393:
+  id: 393
+  active_skill_id: 45
+  name: range
+  value: 5
+data394:
+  id: 394
+  active_skill_id: 45
+  name: bullet_speed
+  value: 1.8
+data395:
+  id: 395
+  active_skill_id: 45
+  name: bullet_size
+  value: 0.25
+data396:
+  id: 396
+  active_skill_id: 45
+  name: push_back_effect
+  value: 0
+data397:
+  id: 397
+  active_skill_id: 46
+  name: skill_cooldown
+  value: 5
+data398:
+  id: 398
+  active_skill_id: 46
+  name: effect_duration
+  value: 5
+data399:
+  id: 399
+  active_skill_id: 46
+  name: buff_effect_scale_1
+  value: 1.5
+data400:
+  id: 400
+  active_skill_id: 47
+  name: action_type
+  value: none
+data401:
+  id: 401
+  active_skill_id: 47
+  name: skill_effect_scale
+  value: 1
+data402:
+  id: 402
+  active_skill_id: 47
+  name: bullet_count
+  value: 1
+data403:
+  id: 403
+  active_skill_id: 47
+  name: range
+  value: 5
+data404:
+  id: 404
+  active_skill_id: 47
+  name: bullet_speed
+  value: 1.8
+data405:
+  id: 405
+  active_skill_id: 47
+  name: bullet_size
+  value: 0.25
+data406:
+  id: 406
+  active_skill_id: 47
+  name: push_back_effect
+  value: 0
+data407:
+  id: 407
+  active_skill_id: 48
+  name: skill_effect_scale
+  value: 1.75
+data408:
+  id: 408
+  active_skill_id: 48
+  name: skill_cooldown
+  value: 10
+data409:
+  id: 409
+  active_skill_id: 48
+  name: push_back_effect
+  value: 0
+data410:
+  id: 410
+  active_skill_id: 48
+  name: area_attack_pretime
+  value: 1
+data411:
+  id: 411
+  active_skill_id: 48
+  name: area_size_x
+  value: 0.2
+data412:
+  id: 412
+  active_skill_id: 48
+  name: area_size_y
+  value: 0.2
+data413:
+  id: 413
+  active_skill_id: 48
+  name: area_size_z
+  value: 10
+data414:
+  id: 414
+  active_skill_id: 48
+  name: status_effect
+  value: スタン
+data415:
+  id: 415
+  active_skill_id: 48
+  name: status_effect_duration
+  value: 0.3
+data416:
+  id: 416
+  active_skill_id: 49
+  name: action_type
+  value: none
+data417:
+  id: 417
+  active_skill_id: 49
+  name: skill_effect_scale
+  value: 1
+data418:
+  id: 418
+  active_skill_id: 49
+  name: bullet_count
+  value: 1
+data419:
+  id: 419
+  active_skill_id: 49
+  name: range
+  value: 5
+data420:
+  id: 420
+  active_skill_id: 49
+  name: bullet_speed
+  value: 1.8
+data421:
+  id: 421
+  active_skill_id: 49
+  name: bullet_size
+  value: 0.25
+data422:
+  id: 422
+  active_skill_id: 49
+  name: push_back_effect
+  value: 0
+data423:
+  id: 423
+  active_skill_id: 50
+  name: bullet_count
+  value: 1
+data424:
+  id: 424
+  active_skill_id: 50
+  name: skill_cooldown
+  value: 10
+data425:
+  id: 425
+  active_skill_id: 50
+  name: effect_duration
+  value: 6
+data426:
+  id: 426
+  active_skill_id: 50
+  name: area_size_x
+  value: 1.25
+data427:
+  id: 427
+  active_skill_id: 50
+  name: area_size_y
+  value: 1.5
+data428:
+  id: 428
+  active_skill_id: 50
+  name: area_size_z
+  value: 0.3
+data429:
+  id: 429
+  active_skill_id: 50
+  name: hp
+  value: 1000
+data430:
+  id: 430
+  active_skill_id: 50
+  name: summon_place_adjust_forward
+  value: 0.25
+data431:
+  id: 431
+  active_skill_id: 50
+  name: summon_place_adjust_height
+  value: -0.2
+data432:
+  id: 432
+  active_skill_id: 50
+  name: summon_place_adjust_side
+  value: 0
+data433:
+  id: 433
+  active_skill_id: 51
+  name: action_type
+  value: none
+data434:
+  id: 434
+  active_skill_id: 51
+  name: skill_effect_scale
+  value: 1
+data435:
+  id: 435
+  active_skill_id: 51
+  name: bullet_count
+  value: 1
+data436:
+  id: 436
+  active_skill_id: 51
+  name: range
+  value: 5
+data437:
+  id: 437
+  active_skill_id: 51
+  name: bullet_speed
+  value: 1.8
+data438:
+  id: 438
+  active_skill_id: 51
+  name: bullet_size
+  value: 0.25
+data439:
+  id: 439
+  active_skill_id: 51
+  name: push_back_effect
+  value: 0
+data440:
+  id: 440
+  active_skill_id: 52
+  name: skill_effect_scale
+  value: 0.5
+data441:
+  id: 441
+  active_skill_id: 52
+  name: bullet_count
+  value: 3
+data442:
+  id: 442
+  active_skill_id: 52
+  name: burst_interval
+  value: 0.2
+data443:
+  id: 443
+  active_skill_id: 52
+  name: range
+  value: 5
+data444:
+  id: 444
+  active_skill_id: 52
+  name: bullet_speed
+  value: 1.5
+data445:
+  id: 445
+  active_skill_id: 52
+  name: bullet_size
+  value: 0.25
+data446:
+  id: 446
+  active_skill_id: 52
+  name: skill_cooldown
+  value: 7.5
+data447:
+  id: 447
+  active_skill_id: 52
+  name: push_back_effect
+  value: 0
+data448:
+  id: 448
+  active_skill_id: 52
+  name: area_size_x
+  value: 1
+data449:
+  id: 449
+  active_skill_id: 52
+  name: area_size_y
+  value: 1
+data450:
+  id: 450
+  active_skill_id: 52
+  name: area_size_z
+  value: 1
+data451:
+  id: 451
+  active_skill_id: 53
+  name: action_type
+  value: none
+data452:
+  id: 452
+  active_skill_id: 53
+  name: skill_effect_scale
+  value: 1
+data453:
+  id: 453
+  active_skill_id: 53
+  name: bullet_count
+  value: 1
+data454:
+  id: 454
+  active_skill_id: 53
+  name: range
+  value: 5
+data455:
+  id: 455
+  active_skill_id: 53
+  name: bullet_speed
+  value: 1.8
+data456:
+  id: 456
+  active_skill_id: 53
+  name: bullet_size
+  value: 0.25
+data457:
+  id: 457
+  active_skill_id: 53
+  name: push_back_effect
+  value: 0
+data458:
+  id: 458
+  active_skill_id: 54
+  name: skill_cooldown
+  value: 7.5
+data459:
+  id: 459
+  active_skill_id: 54
+  name: hp
+  value: 300
+data460:
+  id: 460
+  active_skill_id: 54
+  name: summon_place_adjust_forward
+  value: 0
+data461:
+  id: 461
+  active_skill_id: 54
+  name: summon_place_adjust_height
+  value: 0
+data462:
+  id: 462
+  active_skill_id: 54
+  name: summon_place_adjust_side
+  value: 0.5
+data463:
+  id: 463
+  active_skill_id: 55
+  name: action_type
+  value: none
+data464:
+  id: 464
+  active_skill_id: 55
+  name: skill_effect_scale
+  value: 1
+data465:
+  id: 465
+  active_skill_id: 55
+  name: bullet_count
+  value: 1
+data466:
+  id: 466
+  active_skill_id: 55
+  name: range
+  value: 3
+data467:
+  id: 467
+  active_skill_id: 55
+  name: bullet_speed
+  value: 1.2
+data468:
+  id: 468
+  active_skill_id: 55
+  name: bullet_size
+  value: 0.25
+data469:
+  id: 469
+  active_skill_id: 55
+  name: charge_time
+  value: 1.2
+data470:
+  id: 470
+  active_skill_id: 55
+  name: push_back_effect
+  value: 0
+data471:
+  id: 471
+  active_skill_id: 56
+  name: skill_effect_scale
+  value: 2.5
+data472:
+  id: 472
+  active_skill_id: 56
+  name: skill_cooldown
+  value: 50
+data473:
+  id: 473
+  active_skill_id: 56
+  name: push_back_effect
+  value: 0
+data474:
+  id: 474
+  active_skill_id: 56
+  name: area_attack_pretime
+  value: 2
+data475:
+  id: 475
+  active_skill_id: 56
+  name: area_size_x
+  value: 0.2
+data476:
+  id: 476
+  active_skill_id: 56
+  name: area_size_y
+  value: 0.2
+data477:
+  id: 477
+  active_skill_id: 56
+  name: area_size_z
+  value: 10

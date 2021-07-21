@@ -1,0 +1,40 @@
+data2:
+  id: 2
+  name: emerald_panel
+  panel_item_num: 6
+data3:
+  id: 3
+  name: gold_panel
+  panel_item_num: 6
+data4:
+  id: 4
+  name: jobticket_panel
+  panel_item_num: 6
+data5:
+  id: 5
+  name: skinticket_panel
+  panel_item_num: 6
+data6:
+  id: 6
+  name: treasure_box_panel
+  panel_item_num: 6
+data7:
+  id: 7
+  name: daily_sale_panel
+  panel_item_num: 6
+data8:
+  id: 8
+  name: subscription_panel
+  panel_item_num: 6
+data9:
+  id: 9
+  name: job_panel
+  panel_item_num: -1
+data10:
+  id: 10
+  name: event_shop_stock_panel
+  panel_item_num: 6
+data11:
+  id: 11
+  name: event_shop_infinite_panel
+  panel_item_num: 6

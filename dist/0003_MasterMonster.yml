@@ -1,0 +1,333 @@
+data2:
+  id: 2
+  name: LEOBLAZE
+  description: >-
+    The bloodthirsty Leoblaze is a flame-winged monster that embodies innocent
+    vigor, and the flames that spew from its mouth inflict inflammatory damage
+    on its enemies.
+  role_id: Attacker
+  passive_skill_id: 2
+  hp: 2200
+  attack_power: 150
+  unlock_league_num: 1
+  master_growth_type_id: 11
+  rarity_id: Legendary
+  default_state: 2
+  able_to_push_back: 0
+  summon_cool_down: 2.5
+  action_cool_down: 3
+  move_speed: 0.6
+  distance_limit: 1.25
+  push_back_resist: 0
+data3:
+  id: 3
+  name: LEADRA
+  description: >-
+    Thought to be monsters that control the forest. They are often referred to
+    as forest fairies because they protect the forest from outside enemies by
+    manipulating the power of nature.
+  role_id: Forcer
+  passive_skill_id: 3
+  hp: 1800
+  attack_power: 100
+  unlock_league_num: 1
+  master_growth_type_id: 3
+  rarity_id: Common
+  default_state: 1
+  able_to_push_back: 1
+  summon_cool_down: 1
+  action_cool_down: 2.75
+  move_speed: 0.5
+  distance_limit: 1.25
+  push_back_resist: 0
+data4:
+  id: 4
+  name: LUFFY
+  description: >-
+    LUFFY is said to appear when there are more happy people. It heals people's
+    hearts and makes them feel kind, but when many people's hearts are troubled,
+    it stops appearing.
+  role_id: Forcer
+  passive_skill_id: 3
+  hp: 1800
+  attack_power: 110
+  unlock_league_num: 1
+  master_growth_type_id: 4
+  rarity_id: Rare
+  default_state: 0
+  able_to_push_back: 1
+  summon_cool_down: 1.5
+  action_cool_down: 2.75
+  move_speed: 0.5
+  distance_limit: 1.25
+  push_back_resist: 0
+data5:
+  id: 5
+  name: FLAMANDRA
+  description: >-
+    FLAMANDRA often appears in places where hot fights to the death take place.
+    Its heat is like an explosion, damaging all enemies around it.
+  role_id: Attacker
+  passive_skill_id: 2
+  hp: 1700
+  attack_power: 150
+  unlock_league_num: 2
+  master_growth_type_id: 5
+  rarity_id: Rare
+  default_state: 2
+  able_to_push_back: 0
+  summon_cool_down: 1.5
+  action_cool_down: 2.75
+  move_speed: 0.6
+  distance_limit: 0.7
+  push_back_resist: 0
+data6:
+  id: 6
+  name: SURGE
+  description: >-
+    An aggressive drone capable of rushing towards the enemy. It was designed
+    with the idea of blowing up swarms of monsters together and at the same time
+    avoiding danger.
+  role_id: Attacker
+  passive_skill_id: 2
+  hp: 1700
+  attack_power: 150
+  unlock_league_num: 3
+  master_growth_type_id: 7
+  rarity_id: Epic
+  default_state: 1
+  able_to_push_back: 0
+  summon_cool_down: 2
+  action_cool_down: 3
+  move_speed: 0.6
+  distance_limit: 1.5
+  push_back_resist: 0.5
+data7:
+  id: 7
+  name: BACKSTICKER
+  description: >-
+    It is designed so that its projectiles return to itself in a boomerang-like
+    curve. It was developed to neutralize monsters that are armored against the
+    front.
+  role_id: Attacker
+  passive_skill_id: 2
+  hp: 1800
+  attack_power: 130
+  unlock_league_num: 1
+  master_growth_type_id: 2
+  rarity_id: Common
+  default_state: 1
+  able_to_push_back: 0
+  summon_cool_down: 1
+  action_cool_down: 3
+  move_speed: 0.6
+  distance_limit: 1.25
+  push_back_resist: 0
+data8:
+  id: 8
+  name: BLEAKER
+  description: >-
+    It is designed to observe fast-moving monsters by slowing them down, and has
+    been updated for competitions to slow down the opponent's skill cooldowns as
+    well.
+  role_id: Forcer
+  passive_skill_id: 3
+  hp: 1800
+  attack_power: 120
+  unlock_league_num: 1
+  master_growth_type_id: 7
+  rarity_id: Epic
+  default_state: 1
+  able_to_push_back: 1
+  summon_cool_down: 2
+  action_cool_down: 2.75
+  move_speed: 0.5
+  distance_limit: 1.25
+  push_back_resist: 0.3
+data11:
+  id: 11
+  name: SOMNIRD
+  description: >-
+    SOMNIRD is a mysterious monster that floats around, appearing and
+    disappearing, and is often seen in graveyards, suggesting that it has
+    something to do with departed souls.
+  role_id: Tank
+  passive_skill_id: 1
+  hp: 1900
+  attack_power: 110
+  unlock_league_num: 2
+  master_growth_type_id: 8
+  rarity_id: Epic
+  default_state: 0
+  able_to_push_back: 0
+  summon_cool_down: 2
+  action_cool_down: 3
+  move_speed: 0.4
+  distance_limit: 1.5
+  push_back_resist: 0.75
+data12:
+  id: 12
+  name: GRADION
+  description: >-
+    The GRADION, with its disaster-grade danger and majestic appearance, is said
+    to bring good luck and bad luck at the same time to those who see it, and it
+    sleeps for many years.
+  role_id: Tank
+  passive_skill_id: 1
+  hp: 2000
+  attack_power: 150
+  unlock_league_num: 2
+  master_growth_type_id: 12
+  rarity_id: Legendary
+  default_state: 1
+  able_to_push_back: 0
+  summon_cool_down: 2.5
+  action_cool_down: 3
+  move_speed: 0.4
+  distance_limit: 1.5
+  push_back_resist: 0.75
+data13:
+  id: 13
+  name: BOOSTER
+  description: >-
+    A highly versatile model that can be utilized for a variety of tactics.
+    Protect allies behind your ship by staying in the place where the skill is
+    activated and deploying a shield.
+  role_id: Attacker
+  passive_skill_id: 2
+  hp: 2100
+  attack_power: 120
+  unlock_league_num: 3
+  master_growth_type_id: 6
+  rarity_id: Rare
+  default_state: 0
+  able_to_push_back: 0
+  summon_cool_down: 1.5
+  action_cool_down: 3
+  move_speed: 0.6
+  distance_limit: 1.25
+  push_back_resist: 0.5
+data14:
+  id: 14
+  name: BLLURE
+  description: >-
+    With its bewitching atmosphere, spreads its aura to heal the friendly
+    creatures within. If you see a single glowing flower blooming in the midst
+    of fantastic nature, it may be a BLLURE.
+  role_id: Tank
+  passive_skill_id: 1
+  hp: 2000
+  attack_power: 100
+  unlock_league_num: 1
+  master_growth_type_id: 9
+  rarity_id: Epic
+  default_state: 0
+  able_to_push_back: 0
+  summon_cool_down: 2
+  action_cool_down: 3
+  move_speed: 0.4
+  distance_limit: 1.5
+  push_back_resist: 0.75
+data15:
+  id: 15
+  name: BAITER
+  description: >-
+    A tactical drone equipped with a function for generating decoys. This drone
+    was developed to avoid danger when observing a monster that unleashes a
+    powerful blow.
+  role_id: Tank
+  passive_skill_id: 1
+  hp: 1800
+  attack_power: 120
+  unlock_league_num: 3
+  master_growth_type_id: 5
+  rarity_id: Rare
+  default_state: 1
+  able_to_push_back: 0
+  summon_cool_down: 1.5
+  action_cool_down: 3
+  move_speed: 0.4
+  distance_limit: 1.25
+  push_back_resist: 0.75
+data16:
+  id: 16
+  name: DECERPENT
+  description: >-
+    It corrupts any lifeless organism, so when a DECERPENT is nearby, the smell
+    of decay will waft through the air. It will not stick around in clean
+    places.
+  role_id: Tank
+  passive_skill_id: 1
+  hp: 1900
+  attack_power: 110
+  unlock_league_num: 1
+  master_growth_type_id: 4
+  rarity_id: Rare
+  default_state: 2
+  able_to_push_back: 0
+  summon_cool_down: 1.5
+  action_cool_down: 3
+  move_speed: 0.3
+  distance_limit: 0.85
+  push_back_resist: 0.75
+data17:
+  id: 17
+  name: SPHEROG
+  description: >-
+    With a tail that makes its small body look large, it has a habit of boldly
+    challenging opponents who are larger than it. It gives courage to those near
+    it.
+  role_id: Forcer
+  passive_skill_id: 3
+  hp: 1700
+  attack_power: 120
+  unlock_league_num: 2
+  master_growth_type_id: 1
+  rarity_id: Common
+  default_state: 1
+  able_to_push_back: 1
+  summon_cool_down: 1
+  action_cool_down: 2.75
+  move_speed: 0.5
+  distance_limit: 1.25
+  push_back_resist: 0
+data18:
+  id: 18
+  name: ELIMINATOR
+  description: >-
+    It was developed to protect the safety of investigators during
+    investigations that involve dangers of being attacked by multiple monsters.
+  role_id: Forcer
+  passive_skill_id: 3
+  hp: 1800
+  attack_power: 150
+  unlock_league_num: 3
+  master_growth_type_id: 10
+  rarity_id: Legendary
+  default_state: 1
+  able_to_push_back: 0
+  summon_cool_down: 2.5
+  action_cool_down: 2.75
+  move_speed: 0.5
+  distance_limit: 1.25
+  push_back_resist: 0.5
+data19:
+  id: 19
+  name: DIATRESS
+  description: >-
+    Embodied as a shell of solid thoughts, the DIATRESS is as sturdy as a
+    fortress, and is useful to players who use defensive tactics.
+  role_id: Tank
+  passive_skill_id: 1
+  hp: 2000
+  attack_power: 90
+  unlock_league_num: 1
+  master_growth_type_id: 3
+  rarity_id: Common
+  default_state: 1
+  able_to_push_back: 0
+  summon_cool_down: 1
+  action_cool_down: 3
+  move_speed: 0.4
+  distance_limit: 1.5
+  push_back_resist: 0.75

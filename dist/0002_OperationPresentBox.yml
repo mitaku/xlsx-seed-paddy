@@ -1,0 +1,149 @@
+data2:
+  id: 2
+  description: We're sincerely apologize for your inconvinience.
+  itemable_1_type: ConsumptionResourceItem
+  itemable_1_id: 144
+  itemable_1_quantity: 1
+  itemable_2_type: ConsumptionResourceItem
+  itemable_2_id: 39
+  itemable_2_quantity: 1
+  itemable_3_type: null
+  itemable_3_id: null
+  itemable_3_quantity: null
+  itemable_4_type: null
+  itemable_4_id: null
+  itemable_4_quantity: null
+data3:
+  id: 3
+  description: |-
+    Kickstarter Item Pack reward.
+    Thanks for supporting us on Kickstarter!
+  itemable_1_type: MasterTreasureBox
+  itemable_1_id: 10
+  itemable_1_quantity: 1
+  itemable_2_type: ConsumptionResourceItem
+  itemable_2_id: 66
+  itemable_2_quantity: 1
+  itemable_3_type: ConsumptionResourceItem
+  itemable_3_id: 78
+  itemable_3_quantity: 1
+  itemable_4_type: ConsumptionResourceItem
+  itemable_4_id: 25
+  itemable_4_quantity: 1
+data4:
+  id: 4
+  description: |-
+    Kickstarter 2 Skins Pack reward.
+    Thanks for supporting us on Kickstarter!
+  itemable_1_type: MasterSkin
+  itemable_1_id: 67
+  itemable_1_quantity: 1
+  itemable_2_type: MasterSkin
+  itemable_2_id: 68
+  itemable_2_quantity: 1
+  itemable_3_type: null
+  itemable_3_id: null
+  itemable_3_quantity: null
+  itemable_4_type: null
+  itemable_4_id: null
+  itemable_4_quantity: null
+data5:
+  id: 5
+  description: |-
+    Kickstarter 2 Skins Pack reward.
+    Thanks for supporting us on Kickstarter!
+  itemable_1_type: MasterSkin
+  itemable_1_id: 68
+  itemable_1_quantity: 1
+  itemable_2_type: MasterSkin
+  itemable_2_id: 69
+  itemable_2_quantity: 1
+  itemable_3_type: null
+  itemable_3_id: null
+  itemable_3_quantity: null
+  itemable_4_type: null
+  itemable_4_id: null
+  itemable_4_quantity: null
+data6:
+  id: 6
+  description: |-
+    Kickstarter 2 Skins Pack reward.
+    Thanks for supporting us on Kickstarter!
+  itemable_1_type: MasterSkin
+  itemable_1_id: 67
+  itemable_1_quantity: 1
+  itemable_2_type: MasterSkin
+  itemable_2_id: 69
+  itemable_2_quantity: 1
+  itemable_3_type: null
+  itemable_3_id: null
+  itemable_3_quantity: null
+  itemable_4_type: null
+  itemable_4_id: null
+  itemable_4_quantity: null
+data7:
+  id: 7
+  description: |-
+    Kickstarter 1 Skin Pack reward.
+    Thanks for supporting us on Kickstarter!
+  itemable_1_type: MasterSkin
+  itemable_1_id: 67
+  itemable_1_quantity: 1
+  itemable_2_type: null
+  itemable_2_id: null
+  itemable_2_quantity: null
+  itemable_3_type: null
+  itemable_3_id: null
+  itemable_3_quantity: null
+  itemable_4_type: null
+  itemable_4_id: null
+  itemable_4_quantity: null
+data8:
+  id: 8
+  description: |-
+    Kickstarter 1 Skin Pack reward.
+    Thanks for supporting us on Kickstarter!
+  itemable_1_type: MasterSkin
+  itemable_1_id: 68
+  itemable_1_quantity: 1
+  itemable_2_type: null
+  itemable_2_id: null
+  itemable_2_quantity: null
+  itemable_3_type: null
+  itemable_3_id: null
+  itemable_3_quantity: null
+  itemable_4_type: null
+  itemable_4_id: null
+  itemable_4_quantity: null
+data9:
+  id: 9
+  description: |-
+    Kickstarter 1 Skin Pack reward.
+    Thanks for supporting us on Kickstarter!
+  itemable_1_type: MasterSkin
+  itemable_1_id: 69
+  itemable_1_quantity: 1
+  itemable_2_type: null
+  itemable_2_id: null
+  itemable_2_quantity: null
+  itemable_3_type: null
+  itemable_3_id: null
+  itemable_3_quantity: null
+  itemable_4_type: null
+  itemable_4_id: null
+  itemable_4_quantity: null
+data10:
+  id: 10
+  description: We sincerely apologize for your inconvinience.
+  itemable_1_type: ConsumptionResourceItem
+  itemable_1_id: 145
+  itemable_1_quantity: 1
+  itemable_2_type: null
+  itemable_2_id: null
+  itemable_2_quantity: null
+  itemable_3_type: null
+  itemable_3_id: null
+  itemable_3_quantity: null
+  itemable_4_type: null
+  itemable_4_id: null
+  itemable_4_quantity: null

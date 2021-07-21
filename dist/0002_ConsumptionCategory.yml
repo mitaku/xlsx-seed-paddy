@@ -1,0 +1,25 @@
+data2:
+  id: 2
+  name: secondary_emerald
+  kind: 1
+  event_id: null
+data3:
+  id: 3
+  name: real_currency
+  kind: 2
+  event_id: null
+data4:
+  id: 4
+  name: jobticket
+  kind: 3
+  event_id: null
+data5:
+  id: 5
+  name: skinticket
+  kind: 4
+  event_id: null
+data6:
+  id: 6
+  name: event_token1
+  kind: 10001
+  event_id: 1

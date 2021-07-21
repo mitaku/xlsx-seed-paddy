@@ -1,0 +1,6 @@
+data2:
+  id: 2
+  subscription_pack_id: 2
+  subscrable_type: ConsumptionResourceItem
+  subscrable_id: 34
+  description: Daily Gems of Premier Gem Pass

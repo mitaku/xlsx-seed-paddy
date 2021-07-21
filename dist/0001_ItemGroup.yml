@@ -1,0 +1,12 @@
+data2:
+  id: 2
+  label: Rare
+data3:
+  id: 3
+  label: Epic
+data4:
+  id: 4
+  label: Legendary
+data5:
+  id: 5
+  label: Random

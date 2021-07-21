@@ -1,0 +1,240 @@
+data2:
+  id: 2
+  master_mission_category_id: daily
+  name: sign_in
+data3:
+  id: 3
+  master_mission_category_id: daily
+  name: league_battle_num
+data4:
+  id: 4
+  master_mission_category_id: daily
+  name: league_battle_win
+data5:
+  id: 5
+  master_mission_category_id: daily
+  name: defeat_player_num
+data6:
+  id: 6
+  master_mission_category_id: daily
+  name: summon_monster
+data7:
+  id: 7
+  master_mission_category_id: tutorial
+  name: clear_all_tutorial
+data8:
+  id: 8
+  master_mission_category_id: tutorial
+  name: finish_tutorial_battle
+data9:
+  id: 9
+  master_mission_category_id: tutorial
+  name: monster_lvup_tutorial
+data10:
+  id: 10
+  master_mission_category_id: tutorial
+  name: edit_deck_tutorial
+data11:
+  id: 11
+  master_mission_category_id: tutorial
+  name: edit_job_skin_tutorial
+data12:
+  id: 12
+  master_mission_category_id: tutorial
+  name: buy_dailysale_item_tutorial
+data13:
+  id: 13
+  master_mission_category_id: tutorial
+  name: friend_request_tutorial
+data14:
+  id: 14
+  master_mission_category_id: tutorial
+  name: friend_num_tutorial
+data15:
+  id: 15
+  master_mission_category_id: tutorial
+  name: friend_battle_tutorial
+data16:
+  id: 16
+  master_mission_category_id: general
+  name: local_friend_battle_kind
+data17:
+  id: 17
+  master_mission_category_id: general
+  name: online_firend_battle_kind
+data18:
+  id: 18
+  master_mission_category_id: general
+  name: total_sign_in_days
+data19:
+  id: 19
+  master_mission_category_id: general
+  name: sign_in_streak
+data20:
+  id: 20
+  master_mission_category_id: general
+  name: days_from_start
+data21:
+  id: 21
+  master_mission_category_id: general
+  name: treasurebox_open
+data22:
+  id: 22
+  master_mission_category_id: general
+  name: get_monsters
+data23:
+  id: 23
+  master_mission_category_id: general
+  name: use_gold
+data24:
+  id: 24
+  master_mission_category_id: general
+  name: get_monster_kind
+data25:
+  id: 25
+  master_mission_category_id: general
+  name: get_job_kind
+data26:
+  id: 26
+  master_mission_category_id: general
+  name: get_job_skin_kind
+data27:
+  id: 27
+  master_mission_category_id: general
+  name: enter_league_num
+data28:
+  id: 28
+  master_mission_category_id: general
+  name: league_battle_num
+data29:
+  id: 29
+  master_mission_category_id: general
+  name: friend_battle_num
+data30:
+  id: 30
+  master_mission_category_id: general
+  name: league_battle_win
+data31:
+  id: 31
+  master_mission_category_id: general
+  name: league_battle_winning_streak
+data32:
+  id: 32
+  master_mission_category_id: general
+  name: league_battle_perfect_win
+data33:
+  id: 33
+  master_mission_category_id: general
+  name: defeat_player_num
+data34:
+  id: 34
+  master_mission_category_id: general
+  name: defeat_monster_num
+data35:
+  id: 35
+  master_mission_category_id: general
+  name: summon_monster
+data36:
+  id: 36
+  master_mission_category_id: general
+  name: battle_move_distance
+data37:
+  id: 37
+  master_mission_category_id: general
+  name: activate_ult
+data38:
+  id: 38
+  master_mission_category_id: general
+  name: activate_monster_skill
+data39:
+  id: 39
+  master_mission_category_id: item
+  name: item_mission_clear_num
+data40:
+  id: 40
+  master_mission_category_id: item
+  name: league_battle_num
+data41:
+  id: 41
+  master_mission_category_id: item
+  name: league_battle_win
+data42:
+  id: 42
+  master_mission_category_id: item
+  name: league_battle_perfect_win
+data43:
+  id: 43
+  master_mission_category_id: item
+  name: defeat_player_num
+data44:
+  id: 44
+  master_mission_category_id: item
+  name: defeat_monster_num
+data45:
+  id: 45
+  master_mission_category_id: item
+  name: activate_ult
+data46:
+  id: 46
+  master_mission_category_id: item
+  name: summon_monster
+data47:
+  id: 47
+  master_mission_category_id: item
+  name: activate_monster_skill
+data48:
+  id: 48
+  master_mission_category_id: event_daily
+  name: event_friend_battle_num1
+data49:
+  id: 49
+  master_mission_category_id: event_daily
+  name: event_friend_battle_num2
+data50:
+  id: 50
+  master_mission_category_id: event_daily
+  name: event_friend_battle_num3
+data51:
+  id: 51
+  master_mission_category_id: event_daily
+  name: activate_ult
+data52:
+  id: 52
+  master_mission_category_id: event_daily
+  name: league_battle_num
+data53:
+  id: 53
+  master_mission_category_id: event_general
+  name: league_battle_num
+data54:
+  id: 54
+  master_mission_category_id: event_general
+  name: league_battle_perfect_win
+data55:
+  id: 55
+  master_mission_category_id: event_general
+  name: league_battle_winning_streak
+data56:
+  id: 56
+  master_mission_category_id: event_general
+  name: summon_monster
+data57:
+  id: 57
+  master_mission_category_id: event_general
+  name: activate_ult
+data58:
+  id: 58
+  master_mission_category_id: event_general
+  name: battle_move_distance
+data59:
+  id: 59
+  master_mission_category_id: event_daily
+  name: sign_in
+data60:
+  id: 60
+  master_mission_category_id: event_daily
+  name: league_battle_num2
+data61:
+  id: 61
+  master_mission_category_id: event_daily
+  name: league_battle_win

@@ -1,0 +1,182 @@
+data2:
+  id: 2
+  master_league_stage_id: 1
+  name: 頑固
+  rewardable_type: MasterMonster
+  rewardable_id: 19
+  quantity: 10
+data3:
+  id: 3
+  master_league_stage_id: 2
+  name: Jobticket 100
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 66
+  quantity: 1
+data4:
+  id: 4
+  master_league_stage_id: 3
+  name: Gold 100
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 2
+  quantity: 1
+data5:
+  id: 5
+  master_league_stage_id: 4
+  name: 親切心
+  rewardable_type: MasterMonster
+  rewardable_id: 4
+  quantity: 5
+data6:
+  id: 6
+  master_league_stage_id: 4
+  name: 腐敗
+  rewardable_type: MasterMonster
+  rewardable_id: 16
+  quantity: 5
+data7:
+  id: 7
+  master_league_stage_id: 5
+  name: Immidiate Leader Crate1
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 52
+  quantity: 1
+data8:
+  id: 8
+  master_league_stage_id: 6
+  name: Fixed Common Crate
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 2
+  quantity: 1
+data9:
+  id: 9
+  master_league_stage_id: 7
+  name: Gold 150
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 3
+  quantity: 1
+data10:
+  id: 10
+  master_league_stage_id: 8
+  name: Immidiate Leader Crate2
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 56
+  quantity: 1
+data11:
+  id: 11
+  master_league_stage_id: 9
+  name: Gold 150
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 3
+  quantity: 1
+data12:
+  id: 12
+  master_league_stage_id: 10
+  name: Jobticket 10
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 53
+  quantity: 1
+data13:
+  id: 13
+  master_league_stage_id: 11
+  name: Gold 150
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 3
+  quantity: 1
+data14:
+  id: 14
+  master_league_stage_id: 12
+  name: Immidiate Pro Crate2
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 57
+  quantity: 1
+data15:
+  id: 15
+  master_league_stage_id: 13
+  name: Fixed Common Crate
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 2
+  quantity: 1
+data16:
+  id: 16
+  master_league_stage_id: 14
+  name: Gold 300
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 5
+  quantity: 1
+data17:
+  id: 17
+  master_league_stage_id: 15
+  name: Jobticket 10
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 53
+  quantity: 1
+data18:
+  id: 18
+  master_league_stage_id: 16
+  name: 死闘
+  rewardable_type: MasterMonster
+  rewardable_id: 5
+  quantity: 5
+data19:
+  id: 19
+  master_league_stage_id: 16
+  name: デコイ
+  rewardable_type: MasterMonster
+  rewardable_id: 15
+  quantity: 5
+data20:
+  id: 20
+  master_league_stage_id: 17
+  name: Immidiate Leader Crate3
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 60
+  quantity: 1
+data21:
+  id: 21
+  master_league_stage_id: 18
+  name: 霊魂
+  rewardable_type: MasterMonster
+  rewardable_id: 11
+  quantity: 1
+data22:
+  id: 22
+  master_league_stage_id: 18
+  name: 突進
+  rewardable_type: MasterMonster
+  rewardable_id: 6
+  quantity: 1
+data23:
+  id: 23
+  master_league_stage_id: 19
+  name: Gold 300
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 5
+  quantity: 1
+data24:
+  id: 24
+  master_league_stage_id: 20
+  name: Immidiate Pro Crate3
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 61
+  quantity: 1
+data25:
+  id: 25
+  master_league_stage_id: 21
+  name: Secondary_Emerald 100
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 37
+  quantity: 1
+data26:
+  id: 26
+  master_league_stage_id: 22
+  name: Immidiate Ace Crate3
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 62
+  quantity: 1
+data27:
+  id: 27
+  master_league_stage_id: 23
+  name: Gold 300
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 5
+  quantity: 1

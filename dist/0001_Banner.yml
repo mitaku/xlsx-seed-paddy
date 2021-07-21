@@ -1,0 +1,7 @@
+data2:
+  id: 2
+  image: 00_CBT
+  url: 'https://leaptrigger.com/news/join-discord'
+  start_at: null
+  end_at: null
+  priority: 2

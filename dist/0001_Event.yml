@@ -1,0 +1,8 @@
+data2:
+  id: 2
+  title: buddy_power_up_challenge
+  description: Buddy power up challenge
+  kind: challenge_event
+  start_at: '2021-06-02 4:00:00'
+  end_at: '2021-06-16 3:59:59'
+  expire_at: '2021-06-16 3:59:59'

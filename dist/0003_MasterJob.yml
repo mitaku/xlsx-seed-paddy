@@ -1,0 +1,71 @@
+data2:
+  id: 2
+  name: DEMOLITION
+  description: >-
+    Known as an excellent engineer, she is a stoic Champion who quietly
+    calculates and pursues the means to reach victory. 
+  role_id: Attacker
+  passive_skill_id: 2
+  hp: 1500
+  attack_power: 200
+  unlock_league_num: 1
+  life_stock: 3
+  respawn_time: 5
+  cooldown_accelerration: 0.015
+data3:
+  id: 3
+  name: ATHENA
+  description: >-
+    Their ability to bounce back from a pinch and turn the tables on their
+    opponents is a source of excitement for many spectators, and they have a
+    large core fan base.
+  role_id: Tank
+  passive_skill_id: 1
+  hp: 2000
+  attack_power: 130
+  unlock_league_num: 1
+  life_stock: 3
+  respawn_time: 5
+  cooldown_accelerration: 0.015
+data4:
+  id: 4
+  name: HERMIT
+  description: >-
+    He has a quiet and calm temperament, but his explosive power to turn the
+    tide in a match has created many famous scenes.
+  role_id: Tank
+  passive_skill_id: 1
+  hp: 1700
+  attack_power: 140
+  unlock_league_num: 1
+  life_stock: 3
+  respawn_time: 5
+  cooldown_accelerration: 0.015
+data5:
+  id: 5
+  name: SUNSHINE
+  description: >-
+    A Champion with pure curiosity and energy who yearns to be a ninja. Even
+    though she is a young girl, she is a hard worker and a top player. 
+  role_id: Forcer
+  passive_skill_id: 3
+  hp: 1500
+  attack_power: 160
+  unlock_league_num: 1
+  life_stock: 3
+  respawn_time: 5
+  cooldown_accelerration: 0.015
+data6:
+  id: 6
+  name: ORCA
+  description: >-
+    This Champion exudes the dignity of an aggressive emperor, which stems from
+    his absolute confidence and high-handedness in cornering his opponents. 
+  role_id: Forcer
+  passive_skill_id: 3
+  hp: 1600
+  attack_power: 150
+  unlock_league_num: 1
+  life_stock: 3
+  respawn_time: 5
+  cooldown_accelerration: 0.015

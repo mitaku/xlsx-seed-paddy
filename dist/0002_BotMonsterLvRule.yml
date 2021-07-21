@@ -1,0 +1,100 @@
+data2:
+  id: 2
+  bot_matching_rule_id: 2
+  min_level: 1
+  max_level: 1
+data3:
+  id: 3
+  bot_matching_rule_id: 3
+  min_level: 1
+  max_level: 1
+data4:
+  id: 4
+  bot_matching_rule_id: 4
+  min_level: 1
+  max_level: 1
+data5:
+  id: 5
+  bot_matching_rule_id: 5
+  min_level: 1
+  max_level: 1
+data6:
+  id: 6
+  bot_matching_rule_id: 6
+  min_level: 1
+  max_level: 1
+data7:
+  id: 7
+  bot_matching_rule_id: 7
+  min_level: 1
+  max_level: 1
+data8:
+  id: 8
+  bot_matching_rule_id: 8
+  min_level: 1
+  max_level: 1
+data9:
+  id: 9
+  bot_matching_rule_id: 9
+  min_level: 1
+  max_level: 2
+data10:
+  id: 10
+  bot_matching_rule_id: 10
+  min_level: 1
+  max_level: 2
+data11:
+  id: 11
+  bot_matching_rule_id: 11
+  min_level: 1
+  max_level: 2
+data12:
+  id: 12
+  bot_matching_rule_id: 12
+  min_level: 1
+  max_level: 3
+data13:
+  id: 13
+  bot_matching_rule_id: 13
+  min_level: 1
+  max_level: 3
+data14:
+  id: 14
+  bot_matching_rule_id: 14
+  min_level: 1
+  max_level: 3
+data15:
+  id: 15
+  bot_matching_rule_id: 15
+  min_level: 2
+  max_level: 3
+data16:
+  id: 16
+  bot_matching_rule_id: 16
+  min_level: 2
+  max_level: 3
+data17:
+  id: 17
+  bot_matching_rule_id: 17
+  min_level: 2
+  max_level: 3
+data18:
+  id: 18
+  bot_matching_rule_id: 18
+  min_level: 2
+  max_level: 3
+data19:
+  id: 19
+  bot_matching_rule_id: 19
+  min_level: 1
+  max_level: 1
+data20:
+  id: 20
+  bot_matching_rule_id: 20
+  min_level: 1
+  max_level: 1
+data21:
+  id: 21
+  bot_matching_rule_id: 21
+  min_level: 1
+  max_level: 1

@@ -1,0 +1,96 @@
+data2:
+  id: 2
+  group_id: 2
+  weight: 1
+  itemable_type: Rarity
+  itemable_id: 2
+  max_num: 5
+  min_num: 5
+data3:
+  id: 3
+  group_id: 3
+  weight: 1
+  itemable_type: Rarity
+  itemable_id: 3
+  max_num: 3
+  min_num: 3
+data4:
+  id: 4
+  group_id: 4
+  weight: 1
+  itemable_type: Rarity
+  itemable_id: 4
+  max_num: 1
+  min_num: 1
+data5:
+  id: 5
+  group_id: 5
+  weight: 0.819
+  itemable_type: Rarity
+  itemable_id: 1
+  max_num: 1
+  min_num: 1
+data6:
+  id: 6
+  group_id: 5
+  weight: 0.15
+  itemable_type: Rarity
+  itemable_id: 2
+  max_num: 1
+  min_num: 1
+data7:
+  id: 7
+  group_id: 5
+  weight: 0.03
+  itemable_type: Rarity
+  itemable_id: 3
+  max_num: 1
+  min_num: 1
+data8:
+  id: 8
+  group_id: 5
+  weight: 0.001
+  itemable_type: Rarity
+  itemable_id: 4
+  max_num: 1
+  min_num: 1
+data9:
+  id: 9
+  group_id: 6
+  weight: 0.749
+  itemable_type: Rarity
+  itemable_id: 1
+  max_num: 1
+  min_num: 1
+data10:
+  id: 10
+  group_id: 6
+  weight: 0.15
+  itemable_type: Rarity
+  itemable_id: 2
+  max_num: 1
+  min_num: 1
+data11:
+  id: 11
+  group_id: 6
+  weight: 0.1
+  itemable_type: Rarity
+  itemable_id: 3
+  max_num: 1
+  min_num: 1
+data12:
+  id: 12
+  group_id: 6
+  weight: 0.001
+  itemable_type: Rarity
+  itemable_id: 4
+  max_num: 1
+  min_num: 1
+data13:
+  id: 13
+  group_id: 3
+  weight: 1
+  itemable_type: Rarity
+  itemable_id: 3
+  max_num: 1
+  min_num: 1

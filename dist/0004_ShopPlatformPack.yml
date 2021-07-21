@@ -1,0 +1,186 @@
+data2:
+  id: 2
+  platform_product_id: 2
+  shop_fixed_panel_id: 1
+  priority: 2
+  status: 'TRUE'
+  name: Premier Gem Pass
+  description: |-
+    300 Gems Immidiately +
+    70 Gems per Daily Login for 30days
+  image: item_pack_subscription_large
+  player_rank_border: 1
+  stock: 1
+  start_at: null
+  end_at: null
+data3:
+  id: 3
+  platform_product_id: 3
+  shop_fixed_panel_id: 2
+  priority: 1
+  status: 'TRUE'
+  name: Release Bundle
+  description: 55 Gems + Leader Crate
+  image: item_pack_start_dash_small
+  player_rank_border: 1
+  stock: 1
+  start_at: null
+  end_at: '2021-04-01 4:00:00'
+data4:
+  id: 4
+  platform_product_id: 4
+  shop_fixed_panel_id: 2
+  priority: 2
+  status: 'TRUE'
+  name: Special Release Bundle
+  description: '150 Gems + Royal Crate + 3,000 Credits'
+  image: item_pack_start_dash_medium
+  player_rank_border: 1
+  stock: 1
+  start_at: null
+  end_at: '2021-04-01 4:00:00'
+data5:
+  id: 5
+  platform_product_id: 5
+  shop_fixed_panel_id: 2
+  priority: 3
+  status: 'TRUE'
+  name: Grand Release Bundle
+  description: '300 Gems + 2 Royal Crates + 6,000 Credits'
+  image: item_pack_start_dash_large
+  player_rank_border: 1
+  stock: 1
+  start_at: null
+  end_at: '2021-04-01 4:00:00'
+data6:
+  id: 6
+  platform_product_id: 6
+  shop_fixed_panel_id: 3
+  priority: 1
+  status: 'TRUE'
+  name: Premier Release Bundle
+  description: |-
+    1,450 Gems + Legendary Crate + 
+    300 Champion Tokens + 20,000 Credits
+  image: item_pack_premier_start_dash_pack
+  player_rank_border: 1
+  stock: 1
+  start_at: null
+  end_at: '2021-04-01 4:00:00'
+data7:
+  id: 7
+  platform_product_id: 7
+  shop_fixed_panel_id: 4
+  priority: 1
+  status: 'TRUE'
+  name: 'Gems: 80'
+  description: 80 Gems
+  image: consumption_resource_1_1
+  player_rank_border: 1
+  stock: null
+  start_at: null
+  end_at: null
+data8:
+  id: 8
+  platform_product_id: 8
+  shop_fixed_panel_id: 4
+  priority: 2
+  status: 'TRUE'
+  name: 'Pile of Gems: 500'
+  description: 500 Gems
+  image: consumption_resource_1_2
+  player_rank_border: 1
+  stock: null
+  start_at: null
+  end_at: null
+data9:
+  id: 9
+  platform_product_id: 9
+  shop_fixed_panel_id: 4
+  priority: 3
+  status: 'TRUE'
+  name: 'Box of Gems: 1,200'
+  description: '1,200 Gems'
+  image: consumption_resource_1_3
+  player_rank_border: 1
+  stock: null
+  start_at: null
+  end_at: null
+data10:
+  id: 10
+  platform_product_id: 10
+  shop_fixed_panel_id: 4
+  priority: 4
+  status: 'TRUE'
+  name: 'Crate of Gems: 2,500'
+  description: '2,500 Gems'
+  image: consumption_resource_1_4
+  player_rank_border: 1
+  stock: null
+  start_at: null
+  end_at: null
+data11:
+  id: 11
+  platform_product_id: 11
+  shop_fixed_panel_id: 4
+  priority: 5
+  status: 'TRUE'
+  name: 'Gem Trunk: 6,500'
+  description: '6,500 Gems'
+  image: consumption_resource_1_5
+  player_rank_border: 1
+  stock: null
+  start_at: null
+  end_at: null
+data12:
+  id: 12
+  platform_product_id: 12
+  shop_fixed_panel_id: 4
+  priority: 6
+  status: 'TRUE'
+  name: 'Gem Vault: 14,000'
+  description: '14,000 Gems'
+  image: consumption_resource_1_6
+  player_rank_border: 1
+  stock: null
+  start_at: null
+  end_at: null
+data13:
+  id: 13
+  platform_product_id: 13
+  shop_fixed_panel_id: 19
+  priority: 1
+  status: 'TRUE'
+  name: Credit & Gem Bundle
+  description: '80 Gems + 2,500 Credits'
+  image: item_pack_gem_credit_bundle_small
+  player_rank_border: 1
+  stock: 1
+  start_at: '2021-04-01 4:00:00'
+  end_at: '2021-05-19 3:59:59'
+data14:
+  id: 14
+  platform_product_id: 14
+  shop_fixed_panel_id: 19
+  priority: 2
+  status: 'TRUE'
+  name: Special Credit & Gem Bundle
+  description: '750 Gems + 5,000 Credits+ Supply Crate'
+  image: item_pack_gem_credit_bundle_medium
+  player_rank_border: 1
+  stock: 1
+  start_at: '2021-04-01 4:00:00'
+  end_at: '2021-05-19 3:59:59'
+data15:
+  id: 15
+  platform_product_id: 15
+  shop_fixed_panel_id: 19
+  priority: 3
+  status: 'TRUE'
+  name: Grand Credit & Gem Bundle
+  description: '1,500 Gems + 12,000 Credits+ Supply Crate'
+  image: item_pack_gem_credit_bundle_large
+  player_rank_border: 1
+  stock: 1
+  start_at: '2021-04-01 4:00:00'
+  end_at: '2021-05-19 3:59:59'

@@ -1,0 +1,472 @@
+data2:
+  id: 2
+  description: トータルのログイン日数
+  name: sign_in_days1
+data3:
+  id: 3
+  description: トータルのログイン日数
+  name: sign_in_days2
+data4:
+  id: 4
+  description: トータルのログイン日数
+  name: sign_in_days3
+data5:
+  id: 5
+  description: 連続ログイン日数
+  name: signin_streak1
+data6:
+  id: 6
+  description: 連続ログイン日数
+  name: signin_streak2
+data7:
+  id: 7
+  description: 連続ログイン日数
+  name: signin_streak3
+data8:
+  id: 8
+  description: アカウント作成からの日数
+  name: total_signin1
+data9:
+  id: 9
+  description: アカウント作成からの日数
+  name: total_signin2
+data10:
+  id: 10
+  description: アカウント作成からの日数
+  name: total_signin3
+data11:
+  id: 11
+  description: ゴールド消費量
+  name: use_gold1
+data12:
+  id: 12
+  description: ゴールド消費量
+  name: use_gold2
+data13:
+  id: 13
+  description: ゴールド消費量
+  name: use_gold3
+data14:
+  id: 14
+  description: 獲得モンスター種類
+  name: monster_kind1
+data15:
+  id: 15
+  description: 獲得モンスター種類
+  name: monster_kind2
+data16:
+  id: 16
+  description: 獲得モンスター種類
+  name: monster_kind3
+data17:
+  id: 17
+  description: リーグ到達
+  name: league2
+data18:
+  id: 18
+  description: リーグ到達
+  name: league3
+data19:
+  id: 19
+  description: リーグ到達
+  name: league4
+data20:
+  id: 20
+  description: リーグ到達
+  name: league5
+data21:
+  id: 21
+  description: リーグバトル勝利数
+  name: league_battle_win1
+data22:
+  id: 22
+  description: リーグバトル勝利数
+  name: league_battle_win2
+data23:
+  id: 23
+  description: リーグバトル勝利数
+  name: league_battle_win3
+data24:
+  id: 24
+  description: リーグバトル連勝数
+  name: league_battle_win_streak1
+data25:
+  id: 25
+  description: リーグバトル連勝数
+  name: league_battle_win_streak2
+data26:
+  id: 26
+  description: リーグバトル連勝数
+  name: league_battle_win_streak3
+data27:
+  id: 27
+  description: リーグ完勝数
+  name: league_perfect_win1
+data28:
+  id: 28
+  description: リーグ完勝数
+  name: league_perfect_win2
+data29:
+  id: 29
+  description: リーグ完勝数
+  name: league_perfect_win3
+data30:
+  id: 30
+  description: プレイヤー撃破数
+  name: player_defeat_num1
+data31:
+  id: 31
+  description: プレイヤー撃破数
+  name: player_defeat_num2
+data32:
+  id: 32
+  description: プレイヤー撃破数
+  name: player_defeat_num3
+data33:
+  id: 33
+  description: モンスター撃破数
+  name: buddy_defeat_num1
+data34:
+  id: 34
+  description: モンスター撃破数
+  name: buddy_defeat_num2
+data35:
+  id: 35
+  description: モンスター撃破数
+  name: buddy_defeat_num3
+data36:
+  id: 36
+  description: バトル移動距離
+  name: short_run
+data37:
+  id: 37
+  description: バトル移動距離
+  name: half_marathon
+data38:
+  id: 38
+  description: バトル移動距離
+  name: full_marathon
+data39:
+  id: 39
+  description: 愛着ミッションクリア数
+  name: satellite_master1
+data40:
+  id: 40
+  description: 愛着ミッションクリア数
+  name: satellite_master2
+data41:
+  id: 41
+  description: 愛着ミッションクリア数
+  name: satellite_master3
+data42:
+  id: 42
+  description: 愛着ミッションクリア数
+  name: demolition_master1
+data43:
+  id: 43
+  description: 愛着ミッションクリア数
+  name: demolition_master2
+data44:
+  id: 44
+  description: 愛着ミッションクリア数
+  name: demolition_master3
+data45:
+  id: 45
+  description: 愛着ミッションクリア数
+  name: athena_master1
+data46:
+  id: 46
+  description: 愛着ミッションクリア数
+  name: athena_master2
+data47:
+  id: 47
+  description: 愛着ミッションクリア数
+  name: athena_master3
+data48:
+  id: 48
+  description: 愛着ミッションクリア数
+  name: hermit_master1
+data49:
+  id: 49
+  description: 愛着ミッションクリア数
+  name: hermit_master2
+data50:
+  id: 50
+  description: 愛着ミッションクリア数
+  name: hermit_master3
+data51:
+  id: 51
+  description: 愛着ミッションクリア数
+  name: sunshine_master1
+data52:
+  id: 52
+  description: 愛着ミッションクリア数
+  name: sunshine_master2
+data53:
+  id: 53
+  description: 愛着ミッションクリア数
+  name: sunshine_master3
+data54:
+  id: 54
+  description: 愛着ミッションクリア数
+  name: orca_master1
+data55:
+  id: 55
+  description: 愛着ミッションクリア数
+  name: orca_master2
+data56:
+  id: 56
+  description: 愛着ミッションクリア数
+  name: orca_master3
+data57:
+  id: 57
+  description: 愛着ミッションクリア数
+  name: highlla_master1
+data58:
+  id: 58
+  description: 愛着ミッションクリア数
+  name: highlla_master2
+data59:
+  id: 59
+  description: 愛着ミッションクリア数
+  name: highlla_master3
+data60:
+  id: 60
+  description: 愛着ミッションクリア数
+  name: bleaker_master1
+data61:
+  id: 61
+  description: 愛着ミッションクリア数
+  name: bleaker_master2
+data62:
+  id: 62
+  description: 愛着ミッションクリア数
+  name: bleaker_master3
+data63:
+  id: 63
+  description: 愛着ミッションクリア数
+  name: somnird_master1
+data64:
+  id: 64
+  description: 愛着ミッションクリア数
+  name: somnird_master2
+data65:
+  id: 65
+  description: 愛着ミッションクリア数
+  name: somnird_master3
+data66:
+  id: 66
+  description: 愛着ミッションクリア数
+  name: surge_master1
+data67:
+  id: 67
+  description: 愛着ミッションクリア数
+  name: surge_master2
+data68:
+  id: 68
+  description: 愛着ミッションクリア数
+  name: surge_master3
+data69:
+  id: 69
+  description: 愛着ミッションクリア数
+  name: leadra_master1
+data70:
+  id: 70
+  description: 愛着ミッションクリア数
+  name: leadra_master2
+data71:
+  id: 71
+  description: 愛着ミッションクリア数
+  name: leadra_master3
+data72:
+  id: 72
+  description: 愛着ミッションクリア数
+  name: bllure_master1
+data73:
+  id: 73
+  description: 愛着ミッションクリア数
+  name: bllure_master2
+data74:
+  id: 74
+  description: 愛着ミッションクリア数
+  name: bllure_master3
+data75:
+  id: 75
+  description: 愛着ミッションクリア数
+  name: backsticker_master1
+data76:
+  id: 76
+  description: 愛着ミッションクリア数
+  name: backsticker_master2
+data77:
+  id: 77
+  description: 愛着ミッションクリア数
+  name: backsticker_master3
+data78:
+  id: 78
+  description: 愛着ミッションクリア数
+  name: diatress_master1
+data79:
+  id: 79
+  description: 愛着ミッションクリア数
+  name: diatress_master2
+data80:
+  id: 80
+  description: 愛着ミッションクリア数
+  name: diatress_master3
+data81:
+  id: 81
+  description: 愛着ミッションクリア数
+  name: spherog_master1
+data82:
+  id: 82
+  description: 愛着ミッションクリア数
+  name: spherog_master2
+data83:
+  id: 83
+  description: 愛着ミッションクリア数
+  name: spherog_master3
+data84:
+  id: 84
+  description: 愛着ミッションクリア数
+  name: allurfly_master1
+data85:
+  id: 85
+  description: 愛着ミッションクリア数
+  name: allurfly_master2
+data86:
+  id: 86
+  description: 愛着ミッションクリア数
+  name: allurfly_master3
+data87:
+  id: 87
+  description: 愛着ミッションクリア数
+  name: geminatt_master1
+data88:
+  id: 88
+  description: 愛着ミッションクリア数
+  name: geminatt_master2
+data89:
+  id: 89
+  description: 愛着ミッションクリア数
+  name: geminatt_master3
+data90:
+  id: 90
+  description: 愛着ミッションクリア数
+  name: sofluf_master1
+data91:
+  id: 91
+  description: 愛着ミッションクリア数
+  name: sofluf_master2
+data92:
+  id: 92
+  description: 愛着ミッションクリア数
+  name: sofluf_master3
+data93:
+  id: 93
+  description: 愛着ミッションクリア数
+  name: decerpent_master1
+data94:
+  id: 94
+  description: 愛着ミッションクリア数
+  name: decerpent_master2
+data95:
+  id: 95
+  description: 愛着ミッションクリア数
+  name: decerpent_master3
+data96:
+  id: 96
+  description: 愛着ミッションクリア数
+  name: flamandra_master1
+data97:
+  id: 97
+  description: 愛着ミッションクリア数
+  name: flamandra_master2
+data98:
+  id: 98
+  description: 愛着ミッションクリア数
+  name: flamandra_master3
+data99:
+  id: 99
+  description: 愛着ミッションクリア数
+  name: baiter_master1
+data100:
+  id: 100
+  description: 愛着ミッションクリア数
+  name: baiter_master2
+data101:
+  id: 101
+  description: 愛着ミッションクリア数
+  name: baiter_master3
+data102:
+  id: 102
+  description: 愛着ミッションクリア数
+  name: leoblaze_master1
+data103:
+  id: 103
+  description: 愛着ミッションクリア数
+  name: leoblaze_master2
+data104:
+  id: 104
+  description: 愛着ミッションクリア数
+  name: leoblaze_master3
+data105:
+  id: 105
+  description: 愛着ミッションクリア数
+  name: booster_master1
+data106:
+  id: 106
+  description: 愛着ミッションクリア数
+  name: booster_master2
+data107:
+  id: 107
+  description: 愛着ミッションクリア数
+  name: booster_master3
+data108:
+  id: 108
+  description: 愛着ミッションクリア数
+  name: eliminator_master1
+data109:
+  id: 109
+  description: 愛着ミッションクリア数
+  name: eliminator_master2
+data110:
+  id: 110
+  description: 愛着ミッションクリア数
+  name: eliminator_master3
+data111:
+  id: 111
+  description: 愛着ミッションクリア数
+  name: gradion_master1
+data112:
+  id: 112
+  description: 愛着ミッションクリア数
+  name: gradion_master2
+data113:
+  id: 113
+  description: 愛着ミッションクリア数
+  name: gradion_master3
+data114:
+  id: 114
+  description: 愛着ミッションクリア数
+  name: winsel_master1
+data115:
+  id: 115
+  description: 愛着ミッションクリア数
+  name: winsel_master2
+data116:
+  id: 116
+  description: 愛着ミッションクリア数
+  name: winsel_master3
+data117:
+  id: 117
+  description: 愛着ミッションクリア数
+  name: awend_master1
+data118:
+  id: 118
+  description: 愛着ミッションクリア数
+  name: awend_master2
+data119:
+  id: 119
+  description: 愛着ミッションクリア数
+  name: awend_master3

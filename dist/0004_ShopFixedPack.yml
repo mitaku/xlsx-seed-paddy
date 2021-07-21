@@ -1,0 +1,1451 @@
+data2:
+  id: 2
+  panelable_type: ShopFixedPanel
+  panelable_id: 5
+  priority: 2
+  name: 'Pile of Credits: 10,000'
+  description: '10,000 Credits'
+  image: null
+  player_rank_border: 1
+  price: 500
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: null
+  start_at: null
+  end_at: null
+data3:
+  id: 3
+  panelable_type: ShopFixedPanel
+  panelable_id: 5
+  priority: 3
+  name: 'Box of Credits: 100,000'
+  description: '100,000 Credits'
+  image: null
+  player_rank_border: 1
+  price: 4500
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: null
+  start_at: null
+  end_at: null
+data4:
+  id: 4
+  panelable_type: ShopFixedPanel
+  panelable_id: 6
+  priority: 1
+  name: 'Champion Tokens: 10'
+  description: 10 Champion Tokens
+  image: null
+  player_rank_border: 1
+  price: 150
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: null
+  start_at: null
+  end_at: null
+data5:
+  id: 5
+  panelable_type: ShopFixedPanel
+  panelable_id: 6
+  priority: 2
+  name: 'Pile of Champion Tokens: 50'
+  description: 50 Champion Tokens
+  image: null
+  player_rank_border: 1
+  price: 600
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: null
+  start_at: null
+  end_at: null
+data6:
+  id: 6
+  panelable_type: ShopFixedPanel
+  panelable_id: 6
+  priority: 3
+  name: 'Box of Champion Tokens: 100'
+  description: 100 Champion Tokens
+  image: null
+  player_rank_border: 1
+  price: 1000
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: null
+  start_at: null
+  end_at: null
+data7:
+  id: 7
+  panelable_type: ShopFixedPanel
+  panelable_id: 7
+  priority: 1
+  name: 'Skin Tickets: 10'
+  description: 10 Skin Tickets
+  image: null
+  player_rank_border: 1
+  price: 270
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: null
+  start_at: null
+  end_at: null
+data8:
+  id: 8
+  panelable_type: ShopFixedPanel
+  panelable_id: 7
+  priority: 2
+  name: 'Pile of Skin Tickets: 50'
+  description: 50 Skin Tickets
+  image: null
+  player_rank_border: 1
+  price: 1200
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: null
+  start_at: null
+  end_at: null
+data9:
+  id: 9
+  panelable_type: ShopFixedPanel
+  panelable_id: 7
+  priority: 3
+  name: 'Box of Skin Tickets: 100'
+  description: 100 Skin Tickets
+  image: null
+  player_rank_border: 1
+  price: 2000
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: null
+  start_at: null
+  end_at: null
+data10:
+  id: 10
+  panelable_type: ShopFixedPanel
+  panelable_id: 8
+  priority: 1
+  name: LeaderCrate
+  description: 1 Leader Crate
+  image: null
+  player_rank_border: 1
+  price: 270
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: null
+  start_at: null
+  end_at: null
+data11:
+  id: 11
+  panelable_type: ShopFixedPanel
+  panelable_id: 8
+  priority: 2
+  name: ProCrate
+  description: 1 Pro Crate
+  image: null
+  player_rank_border: 1
+  price: 400
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: null
+  start_at: null
+  end_at: null
+data12:
+  id: 12
+  panelable_type: ShopFixedPanel
+  panelable_id: 8
+  priority: 3
+  name: AceCrate
+  description: 1 Royal Crate
+  image: null
+  player_rank_border: 1
+  price: 2400
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: null
+  start_at: null
+  end_at: null
+data13:
+  id: 13
+  panelable_type: ShopFixedPanel
+  panelable_id: 9
+  priority: 1
+  name: Champion Bundle
+  description: 10 Champion Tokens + 10 Skin Tickets
+  image: item_pack_job_skin_bundle_small
+  player_rank_border: 1
+  price: 320
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: 1
+  start_at: null
+  end_at: '2021-04-01 4:00:00'
+data14:
+  id: 14
+  panelable_type: ShopFixedPanel
+  panelable_id: 9
+  priority: 2
+  name: Special Champion Bundle
+  description: 55 Champion Tokens + 30 Skin Tickets
+  image: item_pack_job_skin_bundle_medium
+  player_rank_border: 1
+  price: 1200
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: 1
+  start_at: null
+  end_at: '2021-04-01 4:00:00'
+data15:
+  id: 15
+  panelable_type: ShopFixedPanel
+  panelable_id: 9
+  priority: 3
+  name: Grand Champion Bundle
+  description: 125 Champion Tokens + 50 Skin Tickets
+  image: item_pack_job_skin_bundle_large
+  player_rank_border: 1
+  price: 2400
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: 1
+  start_at: null
+  end_at: '2021-04-01 4:00:00'
+data16:
+  id: 16
+  panelable_type: ShopFixedPanel
+  panelable_id: 10
+  priority: 1
+  name: Rank5 Value Pack
+  description: |-
+    Pro Crate + 25  Champion Tokens + 
+    15 Skin Tickets
+  image: item_pack_rank_up_bundle5
+  player_rank_border: 5
+  price: 350
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: 1
+  start_at: null
+  end_at: null
+data17:
+  id: 17
+  panelable_type: ShopFixedPanel
+  panelable_id: 10
+  priority: 2
+  name: Rank10 Value Pack
+  description: |-
+    Pro Crate + 25  Champion Tokens + 
+    15 Skin Tickets
+  image: item_pack_rank_up_bundle10
+  player_rank_border: 10
+  price: 350
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: 1
+  start_at: null
+  end_at: null
+data18:
+  id: 18
+  panelable_type: ShopFixedPanel
+  panelable_id: 10
+  priority: 3
+  name: Rank15 Value Pack
+  description: |-
+    Pro Crate + 25  Champion Tokens + 
+    15 Skin Tickets
+  image: item_pack_rank_up_bundle15
+  player_rank_border: 15
+  price: 350
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: 1
+  start_at: null
+  end_at: null
+data19:
+  id: 19
+  panelable_type: ShopFixedPanel
+  panelable_id: 10
+  priority: 4
+  name: Rank20 Value Pack
+  description: |-
+    Pro Crate + 25  Champion Tokens + 
+    15 Skin Tickets
+  image: item_pack_rank_up_bundle20
+  player_rank_border: 20
+  price: 350
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: 1
+  start_at: null
+  end_at: null
+data20:
+  id: 20
+  panelable_type: ShopFixedPanel
+  panelable_id: 10
+  priority: 5
+  name: Rank30 Value Pack
+  description: |-
+    Pro Crate + 25  Champion Tokens + 
+    15 Skin Tickets + 800 Credits
+  image: item_pack_rank_up_bundle30
+  player_rank_border: 30
+  price: 350
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: 1
+  start_at: null
+  end_at: null
+data21:
+  id: 21
+  panelable_type: ShopFixedPanel
+  panelable_id: 10
+  priority: 6
+  name: Rank40 Value Pack
+  description: |-
+    Pro Crate + 25  Champion Tokens + 
+    15 Skin Tickets + 800 Credits
+  image: item_pack_rank_up_bundle40
+  player_rank_border: 40
+  price: 350
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: 1
+  start_at: null
+  end_at: null
+data22:
+  id: 22
+  panelable_type: ShopFixedPanel
+  panelable_id: 11
+  priority: 1
+  name: Rank50 Value Pack
+  description: |-
+    Pro Crate + 25  Champion Tokens + 
+    15 Skin Tickets + 800 Credits
+  image: item_pack_rank_up_bundle50
+  player_rank_border: 50
+  price: 350
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: 1
+  start_at: null
+  end_at: null
+data23:
+  id: 23
+  panelable_type: ShopFixedPanel
+  panelable_id: 11
+  priority: 2
+  name: Rank60 Value Pack
+  description: |-
+    Pro Crate + 25  Champion Tokens + 
+    15 Skin Tickets + 800 Credits
+  image: item_pack_rank_up_bundle60
+  player_rank_border: 60
+  price: 350
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: 1
+  start_at: null
+  end_at: null
+data24:
+  id: 24
+  panelable_type: ShopFixedPanel
+  panelable_id: 11
+  priority: 3
+  name: Rank70 Value Pack
+  description: |-
+    Royal Crate + 40  Champion Tokens + 
+    15 Skin Tickets + 1,500 Credits
+  image: item_pack_rank_up_bundle70
+  player_rank_border: 70
+  price: 350
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: 1
+  start_at: null
+  end_at: null
+data25:
+  id: 25
+  panelable_type: ShopFixedPanel
+  panelable_id: 11
+  priority: 4
+  name: Rank80 Value Pack
+  description: |-
+    Royal Crate + 40  Champion Tokens + 
+    15 Skin Tickets + 1,500 Credits
+  image: item_pack_rank_up_bundle80
+  player_rank_border: 80
+  price: 350
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: 1
+  start_at: null
+  end_at: null
+data26:
+  id: 26
+  panelable_type: ShopFixedPanel
+  panelable_id: 11
+  priority: 5
+  name: Rank90 Value Pack
+  description: |-
+    Royal Crate + 40  Champion Tokens + 
+    15 Skin Tickets + 1,500 Credits
+  image: item_pack_rank_up_bundle90
+  player_rank_border: 90
+  price: 350
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: 1
+  start_at: null
+  end_at: null
+data27:
+  id: 27
+  panelable_type: ShopFixedPanel
+  panelable_id: 11
+  priority: 6
+  name: Rank100 Value Pack
+  description: |-
+    Royal Crate + 40  Champion Tokens + 
+    15 Skin Tickets + 1,500 Credits
+  image: item_pack_rank_up_bundle100
+  player_rank_border: 100
+  price: 350
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: 1
+  start_at: null
+  end_at: null
+data28:
+  id: 28
+  panelable_type: ShopFixedPanel
+  panelable_id: 12
+  priority: 1
+  name: Pro Crate + Token Value Pack
+  description: Pro Crate + 150 Champion Tokens
+  image: item_pack_treasure_box_job_bundle_small
+  player_rank_border: 1
+  price: 1200
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: 1
+  start_at: null
+  end_at: '2021-04-01 4:00:00'
+data29:
+  id: 29
+  panelable_type: ShopFixedPanel
+  panelable_id: 12
+  priority: 2
+  name: Ace Crate + Token Value Pack
+  description: Royal Crate + 150 Champion Tokens
+  image: item_pack_treasure_box_job_bundle_large
+  player_rank_border: 1
+  price: 2100
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: 1
+  start_at: null
+  end_at: '2021-04-01 4:00:00'
+data30:
+  id: 30
+  panelable_type: ShopFixedPanel
+  panelable_id: 13
+  priority: 1
+  name: Power Up Bundle
+  description: 'Leader Crate + 3,500 Credits'
+  image: item_pack_growth_bundle_small
+  player_rank_border: 1
+  price: 350
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: 1
+  start_at: null
+  end_at: '2021-04-01 4:00:00'
+data31:
+  id: 31
+  panelable_type: ShopFixedPanel
+  panelable_id: 13
+  priority: 2
+  name: Special Power Up Bundle
+  description: 'Pro Crate + 8,000 Credits'
+  image: item_pack_growth_bundle_medium
+  player_rank_border: 1
+  price: 1000
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: 1
+  start_at: null
+  end_at: '2021-04-01 4:00:00'
+data32:
+  id: 32
+  panelable_type: ShopFixedPanel
+  panelable_id: 13
+  priority: 3
+  name: Grand Power Up Bundle
+  description: 'Royal Crate + 28,000 Credits'
+  image: item_pack_growth_bundle_large
+  player_rank_border: 1
+  price: 2000
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: 1
+  start_at: null
+  end_at: '2021-04-01 4:00:00'
+data33:
+  id: 33
+  panelable_type: ShopFixedPanel
+  panelable_id: 14
+  priority: 1
+  name: Premier Power Up Bundle
+  description: |-
+    Royal Crate + 100 Champion Tokens + 
+    35 Skin Tickets + 35,000 Credits
+  image: item_pack_premier_bundle
+  player_rank_border: 1
+  price: 3500
+  quantity: 1
+  purchase_resource_type: emerald
+  stock: 1
+  start_at: null
+  end_at: '2021-04-01 4:00:00'
+data34:
+  id: 34
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 1
+  name: Satellite
+  description: Unlock SATELLITE
+  image: null
+  player_rank_border: 1
+  price: 0
+  quantity: 1
+  purchase_resource_type: jobticket
+  stock: 1
+  start_at: null
+  end_at: null
+data35:
+  id: 35
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 2
+  name: Demolition
+  description: Unlock DEMOLITION
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 1
+  purchase_resource_type: jobticket
+  stock: 1
+  start_at: null
+  end_at: null
+data36:
+  id: 36
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 3
+  name: Athena
+  description: Unlock ATHENA
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 1
+  purchase_resource_type: jobticket
+  stock: 1
+  start_at: null
+  end_at: null
+data37:
+  id: 37
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 4
+  name: Hermit
+  description: Unlock HERMIT
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: jobticket
+  stock: 1
+  start_at: null
+  end_at: null
+data38:
+  id: 38
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 5
+  name: Sunshine
+  description: Unlock SUNSHINE
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 1
+  purchase_resource_type: jobticket
+  stock: 1
+  start_at: null
+  end_at: null
+data39:
+  id: 39
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 6
+  name: Orca
+  description: Unlock ORCA
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: jobticket
+  stock: 1
+  start_at: null
+  end_at: null
+data40:
+  id: 40
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 7
+  name: Standard Red
+  description: SATTELITE Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data41:
+  id: 41
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 8
+  name: Standard Purple
+  description: SATTELITE Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data42:
+  id: 42
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 9
+  name: Standard Orange
+  description: SATTELITE Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data43:
+  id: 43
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 10
+  name: Monochrome
+  description: SATTELITE Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data44:
+  id: 44
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 11
+  name: Brave Heart
+  description: SATTELITE Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data45:
+  id: 45
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 12
+  name: Warning Grand
+  description: SATTELITE Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data46:
+  id: 46
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 13
+  name: Fleeting Flower
+  description: SATTELITE Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data47:
+  id: 47
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 14
+  name: Ukiyo-e
+  description: SATTELITE Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 500
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data48:
+  id: 48
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 15
+  name: Standard Red
+  description: DEMOLITION Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data49:
+  id: 49
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 16
+  name: Standard Purple
+  description: DEMOLITION Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data50:
+  id: 50
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 17
+  name: Standard Orange
+  description: DEMOLITION Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data51:
+  id: 51
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 18
+  name: Monochrome
+  description: DEMOLITION Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data52:
+  id: 52
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 19
+  name: Noble Maiden
+  description: DEMOLITION Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data53:
+  id: 53
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 20
+  name: Ambush Ghillie
+  description: DEMOLITION Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data54:
+  id: 54
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 21
+  name: Healing Ranger
+  description: DEMOLITION Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data55:
+  id: 55
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 22
+  name: Anti Splash
+  description: DEMOLITION Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 500
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data56:
+  id: 56
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 23
+  name: Standard Red
+  description: ATHENA Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data57:
+  id: 57
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 24
+  name: Standard Purple
+  description: ATHENA Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data58:
+  id: 58
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 25
+  name: Standard Orange
+  description: ATHENA Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data59:
+  id: 59
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 26
+  name: Monochrome
+  description: ATHENA Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data60:
+  id: 60
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 27
+  name: Future Navy
+  description: ATHENA Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data61:
+  id: 61
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 28
+  name: Honey Queen
+  description: ATHENA Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data62:
+  id: 62
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 29
+  name: Tropic Liberty
+  description: ATHENA Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data63:
+  id: 63
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 30
+  name: Triangle Vitamin
+  description: ATHENA Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 500
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data64:
+  id: 64
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 31
+  name: Standard Red
+  description: HERMIT Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data65:
+  id: 65
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 32
+  name: Standard Purple
+  description: HERMIT Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data66:
+  id: 66
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 33
+  name: Standard Orange
+  description: HERMIT Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data67:
+  id: 67
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 34
+  name: Monochrome
+  description: HERMIT Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data68:
+  id: 68
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 35
+  name: Crimson Strike
+  description: HERMIT Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data69:
+  id: 69
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 36
+  name: Sky Force
+  description: HERMIT Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data70:
+  id: 70
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 37
+  name: Army Snake
+  description: HERMIT Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data71:
+  id: 71
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 38
+  name: Frontier Discovery
+  description: HERMIT Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 500
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data72:
+  id: 72
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 39
+  name: Standard Red
+  description: SUNSHINE Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data73:
+  id: 73
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 40
+  name: Standard Purple
+  description: SUNSHINE Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data74:
+  id: 74
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 41
+  name: Standard Orange
+  description: SUNSHINE Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data75:
+  id: 75
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 42
+  name: Monochrome
+  description: SUNSHINE Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data76:
+  id: 76
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 43
+  name: Sleeping Beauty
+  description: SUNSHINE Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data77:
+  id: 77
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 44
+  name: Oriental Hakama
+  description: SUNSHINE Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data78:
+  id: 78
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 45
+  name: Mandarin Twilight
+  description: SUNSHINE Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data79:
+  id: 79
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 46
+  name: Demonic Gaze
+  description: SUNSHINE Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 500
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data80:
+  id: 80
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 47
+  name: Standard Red
+  description: ORCA Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data81:
+  id: 81
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 48
+  name: Standard Purple
+  description: ORCA Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data82:
+  id: 82
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 49
+  name: Standard Orange
+  description: ORCA Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data83:
+  id: 83
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 50
+  name: Monochrome
+  description: ORCA Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data84:
+  id: 84
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 51
+  name: Reflection Bourbon
+  description: ORCA Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data85:
+  id: 85
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 52
+  name: Sharp Ray
+  description: ORCA Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data86:
+  id: 86
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 53
+  name: Deep Water
+  description: ORCA Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data87:
+  id: 87
+  panelable_type: ShopFixedPanel
+  panelable_id: 15
+  priority: 54
+  name: Big Bang Wars
+  description: ORCA Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 500
+  quantity: 1
+  purchase_resource_type: skinticket
+  stock: 1
+  start_at: null
+  end_at: null
+data89:
+  id: 89
+  panelable_type: ShopFixedPanel
+  panelable_id: 17
+  priority: 1
+  name: LeaderCrate
+  description: 1 Leader Crate
+  image: null
+  player_rank_border: 1
+  price: 300
+  quantity: 1
+  purchase_resource_type: event_token1
+  stock: 3
+  start_at: '2021-04-01 4:00:00'
+  end_at: '2021-05-26 3:59:59'
+data90:
+  id: 90
+  panelable_type: ShopFixedPanel
+  panelable_id: 17
+  priority: 2
+  name: ProCrate
+  description: 1 Pro Crate
+  image: null
+  player_rank_border: 1
+  price: 600
+  quantity: 1
+  purchase_resource_type: event_token1
+  stock: 2
+  start_at: '2021-04-01 4:00:00'
+  end_at: '2021-05-26 3:59:59'
+data91:
+  id: 91
+  panelable_type: ShopFixedPanel
+  panelable_id: 17
+  priority: 3
+  name: 'Credits: 1000'
+  description: 1000 Credits
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 1
+  purchase_resource_type: event_token1
+  stock: 10
+  start_at: '2021-04-01 4:00:00'
+  end_at: '2021-05-26 3:59:59'
+data92:
+  id: 92
+  panelable_type: ShopFixedPanel
+  panelable_id: 17
+  priority: 4
+  name: Bllure
+  description: 1 Bllure
+  image: null
+  player_rank_border: 1
+  price: 600
+  quantity: 1
+  purchase_resource_type: event_token1
+  stock: 2
+  start_at: '2021-04-01 4:00:00'
+  end_at: '2021-05-26 3:59:59'
+data93:
+  id: 93
+  panelable_type: ShopFixedPanel
+  panelable_id: 17
+  priority: 5
+  name: 'Champion Token: 5'
+  description: 5 Champion Tokens
+  image: null
+  player_rank_border: 1
+  price: 250
+  quantity: 1
+  purchase_resource_type: event_token1
+  stock: 4
+  start_at: '2021-04-01 4:00:00'
+  end_at: '2021-05-26 3:59:59'
+data94:
+  id: 94
+  panelable_type: ShopFixedPanel
+  panelable_id: 17
+  priority: 6
+  name: 'Skin Tickets: 5'
+  description: 5 Skin Tickets
+  image: null
+  player_rank_border: 1
+  price: 450
+  quantity: 1
+  purchase_resource_type: event_token1
+  stock: 6
+  start_at: '2021-04-01 4:00:00'
+  end_at: '2021-05-26 3:59:59'
+data95:
+  id: 95
+  panelable_type: ShopFixedPanel
+  panelable_id: 18
+  priority: 1
+  name: 'Credits: 10'
+  description: 10 Credits
+  image: null
+  player_rank_border: 1
+  price: 10
+  quantity: 1
+  purchase_resource_type: event_token1
+  stock: null
+  start_at: '2021-04-01 4:00:00'
+  end_at: '2021-05-26 3:59:59'
+data96:
+  id: 96
+  panelable_type: ShopFixedPanel
+  panelable_id: 18
+  priority: 2
+  name: 'Champion Token: 1'
+  description: 1 Champion Token
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: event_token1
+  stock: null
+  start_at: '2021-04-01 4:00:00'
+  end_at: '2021-05-26 3:59:59'
+data97:
+  id: 97
+  panelable_type: ShopFixedPanel
+  panelable_id: 18
+  priority: 3
+  name: 'Skin Tickets: 1'
+  description: 1 Skin Ticket
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 1
+  purchase_resource_type: event_token1
+  stock: null
+  start_at: '2021-04-01 4:00:00'
+  end_at: '2021-05-26 3:59:59'

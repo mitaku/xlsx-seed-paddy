@@ -1,0 +1,503 @@
+data2:
+  id: 2
+  client_id: 2
+  name: SATELLITE LASER
+  description: >-
+    Transform your weapon into a satellite laser and fire a huge laser cannon
+    with 250% attack power.
+  active_skillable_id: 1
+  active_skillable_type: MasterJob
+  skill_type: ult
+data3:
+  id: 3
+  client_id: 3
+  name: BURST SHOT
+  description: 'Fire 3-shot burst, each bullets has 35% damage of attack power.'
+  active_skillable_id: 2
+  active_skillable_type: MasterJob
+  skill_type: normal_attack
+data4:
+  id: 4
+  client_id: 4
+  name: DEMOLITION OVERRIDE
+  description: >-
+    This skill overloads your weapon, changing the performance of your normal
+    attacks for a certain amount of time. The skill detonates near the enemy and
+    fires a missile that deals 120% damage over a certain area.
+  active_skillable_id: 2
+  active_skillable_type: MasterJob
+  skill_type: ult
+data5:
+  id: 5
+  client_id: 5
+  name: N/A
+  description: N/A
+  active_skillable_id: 1
+  active_skillable_type: MasterMonster
+  skill_type: normal_attack
+data6:
+  id: 6
+  client_id: 6
+  name: SPLASH BLUE
+  description: >-
+    Spits out a stream of water compressed inside the body, dealing 150% damage
+    to all enemies in range.
+  active_skillable_id: 1
+  active_skillable_type: MasterMonster
+  skill_type: ult
+data7:
+  id: 7
+  client_id: 7
+  name: N/A
+  description: N/A
+  active_skillable_id: 2
+  active_skillable_type: MasterMonster
+  skill_type: normal_attack
+data8:
+  id: 8
+  client_id: 8
+  name: FLAME BLAST
+  description: >-
+    Spits out a scorching flame that causes a burn effect on the opponent for
+    2.5 seconds. The burn condition simultaneously damages 50% of power per
+    second to the opponent's armor and HP.
+  active_skillable_id: 2
+  active_skillable_type: MasterMonster
+  skill_type: ult
+data9:
+  id: 9
+  client_id: 9
+  name: N/A
+  description: N/A
+  active_skillable_id: 3
+  active_skillable_type: MasterMonster
+  skill_type: normal_attack
+data10:
+  id: 10
+  client_id: 10
+  name: LEAF SHIELD
+  description: >-
+    Deploy a shield in front of you. The shield will be deployed for 3 seconds,
+    preventing 400 amount of damage. LEADRA can still attack while the shield is
+    deployed.
+  active_skillable_id: 3
+  active_skillable_type: MasterMonster
+  skill_type: ult
+data11:
+  id: 11
+  client_id: 11
+  name: N/A
+  description: N/A
+  active_skillable_id: 4
+  active_skillable_type: MasterMonster
+  skill_type: normal_attack
+data12:
+  id: 12
+  client_id: 12
+  name: ENRICHED AURA
+  description: >-
+    Generates an orb filled with positive energy, increasing the attack power of
+    allies in range by 20%.
+  active_skillable_id: 4
+  active_skillable_type: MasterMonster
+  skill_type: ult
+data13:
+  id: 13
+  client_id: 13
+  name: N/A
+  description: N/A
+  active_skillable_id: 5
+  active_skillable_type: MasterMonster
+  skill_type: normal_attack
+data14:
+  id: 14
+  client_id: 14
+  name: BURST FLARE
+  description: >-
+    The heat energy stored in his body is released at once, dealing 150% damage
+    to opponents around him.
+  active_skillable_id: 5
+  active_skillable_type: MasterMonster
+  skill_type: ult
+data15:
+  id: 15
+  client_id: 15
+  name: N/A
+  description: N/A
+  active_skillable_id: 6
+  active_skillable_type: MasterMonster
+  skill_type: normal_attack
+data16:
+  id: 16
+  client_id: 16
+  name: PENETRATE SURGE
+  description: >-
+    Activates the booster and rush towards the opponent at high speed. Deals
+    120% damage to all opponents it touches while rushing, and stuns them for
+    0.1 seconds.
+  active_skillable_id: 6
+  active_skillable_type: MasterMonster
+  skill_type: ult
+data17:
+  id: 17
+  client_id: 17
+  name: N/A
+  description: N/A
+  active_skillable_id: 7
+  active_skillable_type: MasterMonster
+  skill_type: normal_attack
+data18:
+  id: 18
+  client_id: 18
+  name: BACK HOOKER
+  description: >-
+    Fires a boomerang-like projectile travels a certain distance, and then turns
+    around and comes back. Each round of this bullet deals 60% damage to the
+    opponent.
+  active_skillable_id: 7
+  active_skillable_type: MasterMonster
+  skill_type: ult
+data19:
+  id: 19
+  client_id: 19
+  name: N/A
+  description: N/A
+  active_skillable_id: 8
+  active_skillable_type: MasterMonster
+  skill_type: normal_attack
+data20:
+  id: 20
+  client_id: 20
+  name: ICE FIELD
+  description: >-
+    Creates a core that generates a blizzard field, reducing the attack charge
+    and skill charge speed of Champions within the range. If a Buddy is in
+    range, it reduces move and attack speed.
+  active_skillable_id: 8
+  active_skillable_type: MasterMonster
+  skill_type: ult
+data21:
+  id: 21
+  client_id: 21
+  name: RIFLE
+  description: Fire single shot with 100% damage.
+  active_skillable_id: 3
+  active_skillable_type: MasterJob
+  skill_type: normal_attack
+data22:
+  id: 22
+  client_id: 22
+  name: ATHENA PROTECTION
+  description: >-
+    The energy stored in the weapon is converted into a shield that prevents
+    attack. The shield will disappear after 7.5 seconds or when it takes 1,000
+    amount of damage.
+  active_skillable_id: 3
+  active_skillable_type: MasterJob
+  skill_type: ult
+data23:
+  id: 23
+  client_id: 23
+  name: SNIPE SHOT
+  description: Fire fast and small bullet with 100% damage.
+  active_skillable_id: 4
+  active_skillable_type: MasterJob
+  skill_type: normal_attack
+data24:
+  id: 24
+  client_id: 24
+  name: CAUSAL RETRIBUTION
+  description: >-
+    Increases attack power according to damage taken, and changing the
+    performance of normal attacks. During the duration of the effect, the armor
+    will disappear.
+  active_skillable_id: 4
+  active_skillable_type: MasterJob
+  skill_type: ult
+data25:
+  id: 25
+  client_id: 25
+  name: SNIPE SHOT
+  description: Fire fast and small bullet with 100% damage.
+  active_skillable_id: 5
+  active_skillable_type: MasterJob
+  skill_type: normal_attack
+data26:
+  id: 26
+  client_id: 26
+  name: SAKURA CLOAKER
+  description: >-
+    Distract the opponent and enhance the damage of normal attacks to 200% for 7
+    amount of time. If SUNSHINE receives a damage, the increase in attack power
+    will be canceled.
+  active_skillable_id: 5
+  active_skillable_type: MasterJob
+  skill_type: ult
+data27:
+  id: 27
+  client_id: 27
+  name: RIFLE
+  description: Fire single shot with 100% damage.
+  active_skillable_id: 6
+  active_skillable_type: MasterJob
+  skill_type: normal_attack
+data28:
+  id: 28
+  client_id: 28
+  name: SNARE ORDER
+  description: >-
+    This skill fires a bomb that stuns the damaged opponent. The bomb will
+    detonate after a certain amount of time or when it hits an enemy, dealing
+    120% damage to a certain area and stuns the enemy for 0.5 seconds.
+  active_skillable_id: 6
+  active_skillable_type: MasterJob
+  skill_type: ult
+data29:
+  id: 29
+  client_id: 29
+  name: test
+  description: XXXX
+  active_skillable_id: 9
+  active_skillable_type: MasterMonster
+  skill_type: normal_attack
+data30:
+  id: 30
+  client_id: 30
+  name: test
+  description: XXXX
+  active_skillable_id: 9
+  active_skillable_type: MasterMonster
+  skill_type: ult
+data31:
+  id: 31
+  client_id: 31
+  name: test
+  description: XXXX
+  active_skillable_id: 10
+  active_skillable_type: MasterMonster
+  skill_type: normal_attack
+data32:
+  id: 32
+  client_id: 32
+  name: test
+  description: XXXX
+  active_skillable_id: 10
+  active_skillable_type: MasterMonster
+  skill_type: ult
+data33:
+  id: 33
+  client_id: 33
+  name: test
+  description: XXXX
+  active_skillable_id: 11
+  active_skillable_type: MasterMonster
+  skill_type: normal_attack
+data34:
+  id: 34
+  client_id: 34
+  name: SPILIT SEAR
+  description: >-
+    Summons the 5 amount of flames of underground, each dealing 100% damage to
+    the opponent. Also, while the skill is active, it will not take any damage.
+  active_skillable_id: 11
+  active_skillable_type: MasterMonster
+  skill_type: ult
+data35:
+  id: 35
+  client_id: 35
+  name: test
+  description: XXXX
+  active_skillable_id: 12
+  active_skillable_type: MasterMonster
+  skill_type: normal_attack
+data36:
+  id: 36
+  client_id: 36
+  name: METEOR IMPACT
+  description: >-
+    Generates a meteorite deals 300% damage to a certain area when it hits the
+    enemy, it is defenseless while being created, and if it is stunned, the
+    attack will be canceled.
+  active_skillable_id: 12
+  active_skillable_type: MasterMonster
+  skill_type: ult
+data37:
+  id: 37
+  client_id: 37
+  name: test
+  description: XXXX
+  active_skillable_id: 13
+  active_skillable_type: MasterMonster
+  skill_type: normal_attack
+data38:
+  id: 38
+  client_id: 38
+  name: TURRET TRANSFORM
+  description: >-
+    Creates a shield that prevents 300 amount of damage for 15 seconds. While
+    the shield is being created, BOOSTER cannot be moved but increases its own
+    attack power by 50%.
+  active_skillable_id: 13
+  active_skillable_type: MasterMonster
+  skill_type: ult
+data39:
+  id: 39
+  client_id: 39
+  name: test
+  description: XXXX
+  active_skillable_id: 14
+  active_skillable_type: MasterMonster
+  skill_type: normal_attack
+data40:
+  id: 40
+  client_id: 40
+  name: HEALING PETAL
+  description: >-
+    Generates an orb of condensed energy of vitality, restoring 60 HP per second
+    to allies in range.
+  active_skillable_id: 14
+  active_skillable_type: MasterMonster
+  skill_type: ult
+data41:
+  id: 41
+  client_id: 41
+  name: test
+  description: XXXX
+  active_skillable_id: 15
+  active_skillable_type: MasterMonster
+  skill_type: normal_attack
+data42:
+  id: 42
+  client_id: 42
+  name: ATTRACTING DECOY
+  description: >-
+    Launches a mounted decoy unit. The decoy unit will distract your opponent's
+    Buddies. Decoys will be destroyed after a 10 sec or if they take more than
+    900 damage.
+  active_skillable_id: 15
+  active_skillable_type: MasterMonster
+  skill_type: ult
+data43:
+  id: 43
+  client_id: 43
+  name: test
+  description: XXXX
+  active_skillable_id: 16
+  active_skillable_type: MasterMonster
+  skill_type: normal_attack
+data44:
+  id: 44
+  client_id: 44
+  name: ERODED ZONE
+  description: >-
+    Poisoning enemies in the area of effect for 3 seconds. The poisoned state
+    will preferentially deals damage of 75% power per second to armor, and if
+    there is no armor, it will deal damage to the HP.
+  active_skillable_id: 16
+  active_skillable_type: MasterMonster
+  skill_type: ult
+data45:
+  id: 45
+  client_id: 45
+  name: test
+  description: XXXX
+  active_skillable_id: 17
+  active_skillable_type: MasterMonster
+  skill_type: normal_attack
+data46:
+  id: 46
+  client_id: 46
+  name: BRAVE GALE
+  description: >-
+    Opens its tail wide to inspire allied Champions, and reduces the charge
+    speed of normal attacks by 50% for a certain period of time.
+  active_skillable_id: 17
+  active_skillable_type: MasterMonster
+  skill_type: ult
+data47:
+  id: 47
+  client_id: 47
+  name: test
+  description: XXXX
+  active_skillable_id: 18
+  active_skillable_type: MasterMonster
+  skill_type: normal_attack
+data48:
+  id: 48
+  client_id: 48
+  name: ELIMINATE LASER
+  description: >-
+    Activates Eliminate Mode, which fires a laser cannon that stuns for 0.3
+    seconds while dealing 175% damage to any opponent it touches.
+  active_skillable_id: 18
+  active_skillable_type: MasterMonster
+  skill_type: ult
+data49:
+  id: 49
+  client_id: 49
+  name: test
+  description: XXXX
+  active_skillable_id: 19
+  active_skillable_type: MasterMonster
+  skill_type: normal_attack
+data50:
+  id: 50
+  client_id: 50
+  name: HARDEND SHELL
+  description: >-
+    Creates a shield that prevents 1,000 amount of damage for 6 seconds. While
+    the shield is being created, DIATRESS cannot be moved or attacked as it
+    concentrates on defense.
+  active_skillable_id: 19
+  active_skillable_type: MasterMonster
+  skill_type: ult
+data51:
+  id: 51
+  client_id: 51
+  name: test
+  description: XXXX
+  active_skillable_id: 20
+  active_skillable_type: MasterMonster
+  skill_type: normal_attack
+data52:
+  id: 52
+  client_id: 52
+  name: test
+  description: XXXX
+  active_skillable_id: 20
+  active_skillable_type: MasterMonster
+  skill_type: ult
+data53:
+  id: 53
+  client_id: 53
+  name: test
+  description: XXXX
+  active_skillable_id: 21
+  active_skillable_type: MasterMonster
+  skill_type: normal_attack
+data54:
+  id: 54
+  client_id: 54
+  name: test
+  description: XXXX
+  active_skillable_id: 21
+  active_skillable_type: MasterMonster
+  skill_type: ult
+data55:
+  id: 55
+  client_id: 998
+  name: RIFLE
+  description: Fire single shot with 100% damage.
+  active_skillable_id: null
+  active_skillable_type: MasterJob
+  skill_type: normal_attack
+data56:
+  id: 56
+  client_id: 999
+  name: SATELLITE LASER
+  description: >-
+    Transform your weapon into a satellite laser and fire a huge laser cannon
+    with 250% attack power.
+  active_skillable_id: null
+  active_skillable_type: MasterJob
+  skill_type: ult

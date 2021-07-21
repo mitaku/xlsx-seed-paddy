@@ -1,0 +1,5 @@
+data2:
+  id: 2
+  game_mode: BattleRoyale
+  time_limit: 120
+  peak_time: 40

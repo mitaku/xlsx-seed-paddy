@@ -1,0 +1,5 @@
+data2:
+  id: 2
+  battle_mode: online_match
+  max: 45
+  min: 35

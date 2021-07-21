@@ -1,0 +1,1098 @@
+data2:
+  id: 2
+  master_growth_type_id: 1
+  lv: 2
+  bot_lv: 1
+  quantity: 2
+  gold: 5
+  hp: 1.025
+  attack_power: 1.063
+data3:
+  id: 3
+  master_growth_type_id: 1
+  lv: 3
+  bot_lv: 1
+  quantity: 6
+  gold: 10
+  hp: 1.05
+  attack_power: 1.125
+data4:
+  id: 4
+  master_growth_type_id: 1
+  lv: 4
+  bot_lv: 2
+  quantity: 16
+  gold: 30
+  hp: 1.075
+  attack_power: 1.188
+data5:
+  id: 5
+  master_growth_type_id: 1
+  lv: 5
+  bot_lv: 2
+  quantity: 36
+  gold: 120
+  hp: 1.1
+  attack_power: 1.25
+data6:
+  id: 6
+  master_growth_type_id: 1
+  lv: 6
+  bot_lv: 2
+  quantity: 76
+  gold: 600
+  hp: 1.125
+  attack_power: 1.313
+data7:
+  id: 7
+  master_growth_type_id: 1
+  lv: 7
+  bot_lv: 3
+  quantity: 156
+  gold: 1200
+  hp: 1.15
+  attack_power: 1.375
+data8:
+  id: 8
+  master_growth_type_id: 1
+  lv: 8
+  bot_lv: 3
+  quantity: 306
+  gold: 2400
+  hp: 1.175
+  attack_power: 1.438
+data9:
+  id: 9
+  master_growth_type_id: 1
+  lv: 9
+  bot_lv: 3
+  quantity: 606
+  gold: 4800
+  hp: 1.2
+  attack_power: 1.5
+data10:
+  id: 10
+  master_growth_type_id: 1
+  lv: 10
+  bot_lv: 4
+  quantity: 1056
+  gold: 7200
+  hp: 1.225
+  attack_power: 1.563
+data11:
+  id: 11
+  master_growth_type_id: 1
+  lv: 11
+  bot_lv: 4
+  quantity: 1706
+  gold: 10000
+  hp: 1.25
+  attack_power: 1.625
+data12:
+  id: 12
+  master_growth_type_id: 1
+  lv: 12
+  bot_lv: 4
+  quantity: 2556
+  gold: 15000
+  hp: 1.275
+  attack_power: 1.688
+data13:
+  id: 13
+  master_growth_type_id: 1
+  lv: 13
+  bot_lv: 5
+  quantity: 3806
+  gold: 30000
+  hp: 1.3
+  attack_power: 1.75
+data14:
+  id: 14
+  master_growth_type_id: 1
+  lv: 14
+  bot_lv: 5
+  quantity: 5306
+  gold: 60000
+  hp: 1.325
+  attack_power: 1.813
+data15:
+  id: 15
+  master_growth_type_id: 1
+  lv: 15
+  bot_lv: 5
+  quantity: 7306
+  gold: 100000
+  hp: 1.35
+  attack_power: 1.875
+data16:
+  id: 16
+  master_growth_type_id: 2
+  lv: 1
+  bot_lv: 1
+  quantity: 0
+  gold: 0
+  hp: 1
+  attack_power: 1
+data17:
+  id: 17
+  master_growth_type_id: 2
+  lv: 2
+  bot_lv: 1
+  quantity: 2
+  gold: 5
+  hp: 1.014
+  attack_power: 1.107
+data18:
+  id: 18
+  master_growth_type_id: 2
+  lv: 3
+  bot_lv: 1
+  quantity: 6
+  gold: 10
+  hp: 1.029
+  attack_power: 1.214
+data19:
+  id: 19
+  master_growth_type_id: 2
+  lv: 4
+  bot_lv: 2
+  quantity: 16
+  gold: 30
+  hp: 1.043
+  attack_power: 1.321
+data20:
+  id: 20
+  master_growth_type_id: 2
+  lv: 5
+  bot_lv: 2
+  quantity: 36
+  gold: 120
+  hp: 1.057
+  attack_power: 1.429
+data21:
+  id: 21
+  master_growth_type_id: 2
+  lv: 6
+  bot_lv: 2
+  quantity: 76
+  gold: 600
+  hp: 1.071
+  attack_power: 1.536
+data22:
+  id: 22
+  master_growth_type_id: 2
+  lv: 7
+  bot_lv: 3
+  quantity: 156
+  gold: 1200
+  hp: 1.086
+  attack_power: 1.643
+data23:
+  id: 23
+  master_growth_type_id: 2
+  lv: 8
+  bot_lv: 3
+  quantity: 306
+  gold: 2400
+  hp: 1.1
+  attack_power: 1.75
+data24:
+  id: 24
+  master_growth_type_id: 2
+  lv: 9
+  bot_lv: 3
+  quantity: 606
+  gold: 4800
+  hp: 1.114
+  attack_power: 1.857
+data25:
+  id: 25
+  master_growth_type_id: 2
+  lv: 10
+  bot_lv: 4
+  quantity: 1056
+  gold: 7200
+  hp: 1.129
+  attack_power: 1.964
+data26:
+  id: 26
+  master_growth_type_id: 2
+  lv: 11
+  bot_lv: 4
+  quantity: 1706
+  gold: 10000
+  hp: 1.143
+  attack_power: 2.071
+data27:
+  id: 27
+  master_growth_type_id: 2
+  lv: 12
+  bot_lv: 4
+  quantity: 2556
+  gold: 15000
+  hp: 1.157
+  attack_power: 2.179
+data28:
+  id: 28
+  master_growth_type_id: 2
+  lv: 13
+  bot_lv: 5
+  quantity: 3806
+  gold: 30000
+  hp: 1.171
+  attack_power: 2.286
+data29:
+  id: 29
+  master_growth_type_id: 2
+  lv: 14
+  bot_lv: 5
+  quantity: 5306
+  gold: 60000
+  hp: 1.186
+  attack_power: 2.393
+data30:
+  id: 30
+  master_growth_type_id: 2
+  lv: 15
+  bot_lv: 5
+  quantity: 7306
+  gold: 100000
+  hp: 1.2
+  attack_power: 2.5
+data31:
+  id: 31
+  master_growth_type_id: 3
+  lv: 1
+  bot_lv: 1
+  quantity: 0
+  gold: 0
+  hp: 1
+  attack_power: 1
+data32:
+  id: 32
+  master_growth_type_id: 3
+  lv: 2
+  bot_lv: 1
+  quantity: 2
+  gold: 5
+  hp: 1.036
+  attack_power: 1.054
+data33:
+  id: 33
+  master_growth_type_id: 3
+  lv: 3
+  bot_lv: 1
+  quantity: 6
+  gold: 10
+  hp: 1.071
+  attack_power: 1.107
+data34:
+  id: 34
+  master_growth_type_id: 3
+  lv: 4
+  bot_lv: 2
+  quantity: 16
+  gold: 30
+  hp: 1.107
+  attack_power: 1.161
+data35:
+  id: 35
+  master_growth_type_id: 3
+  lv: 5
+  bot_lv: 2
+  quantity: 36
+  gold: 120
+  hp: 1.143
+  attack_power: 1.214
+data36:
+  id: 36
+  master_growth_type_id: 3
+  lv: 6
+  bot_lv: 2
+  quantity: 76
+  gold: 600
+  hp: 1.179
+  attack_power: 1.268
+data37:
+  id: 37
+  master_growth_type_id: 3
+  lv: 7
+  bot_lv: 3
+  quantity: 156
+  gold: 1200
+  hp: 1.214
+  attack_power: 1.321
+data38:
+  id: 38
+  master_growth_type_id: 3
+  lv: 8
+  bot_lv: 3
+  quantity: 306
+  gold: 2400
+  hp: 1.25
+  attack_power: 1.375
+data39:
+  id: 39
+  master_growth_type_id: 3
+  lv: 9
+  bot_lv: 3
+  quantity: 606
+  gold: 4800
+  hp: 1.286
+  attack_power: 1.429
+data40:
+  id: 40
+  master_growth_type_id: 3
+  lv: 10
+  bot_lv: 4
+  quantity: 1056
+  gold: 7200
+  hp: 1.321
+  attack_power: 1.482
+data41:
+  id: 41
+  master_growth_type_id: 3
+  lv: 11
+  bot_lv: 4
+  quantity: 1706
+  gold: 10000
+  hp: 1.357
+  attack_power: 1.536
+data42:
+  id: 42
+  master_growth_type_id: 3
+  lv: 12
+  bot_lv: 4
+  quantity: 2556
+  gold: 15000
+  hp: 1.393
+  attack_power: 1.589
+data43:
+  id: 43
+  master_growth_type_id: 3
+  lv: 13
+  bot_lv: 5
+  quantity: 3806
+  gold: 30000
+  hp: 1.429
+  attack_power: 1.643
+data44:
+  id: 44
+  master_growth_type_id: 3
+  lv: 14
+  bot_lv: 5
+  quantity: 5306
+  gold: 60000
+  hp: 1.464
+  attack_power: 1.696
+data45:
+  id: 45
+  master_growth_type_id: 3
+  lv: 15
+  bot_lv: 5
+  quantity: 7306
+  gold: 100000
+  hp: 1.5
+  attack_power: 1.75
+data46:
+  id: 46
+  master_growth_type_id: 4
+  lv: 4
+  bot_lv: 1
+  quantity: 0
+  gold: 0
+  hp: 1.05
+  attack_power: 1.05
+data47:
+  id: 47
+  master_growth_type_id: 4
+  lv: 5
+  bot_lv: 1
+  quantity: 2
+  gold: 120
+  hp: 1.077
+  attack_power: 1.125
+data48:
+  id: 48
+  master_growth_type_id: 4
+  lv: 6
+  bot_lv: 1
+  quantity: 6
+  gold: 600
+  hp: 1.105
+  attack_power: 1.2
+data49:
+  id: 49
+  master_growth_type_id: 4
+  lv: 7
+  bot_lv: 2
+  quantity: 16
+  gold: 1200
+  hp: 1.132
+  attack_power: 1.275
+data50:
+  id: 50
+  master_growth_type_id: 4
+  lv: 8
+  bot_lv: 2
+  quantity: 36
+  gold: 2400
+  hp: 1.159
+  attack_power: 1.35
+data51:
+  id: 51
+  master_growth_type_id: 4
+  lv: 9
+  bot_lv: 3
+  quantity: 76
+  gold: 4800
+  hp: 1.186
+  attack_power: 1.425
+data52:
+  id: 52
+  master_growth_type_id: 4
+  lv: 10
+  bot_lv: 3
+  quantity: 156
+  gold: 7200
+  hp: 1.214
+  attack_power: 1.5
+data53:
+  id: 53
+  master_growth_type_id: 4
+  lv: 11
+  bot_lv: 4
+  quantity: 306
+  gold: 10000
+  hp: 1.241
+  attack_power: 1.575
+data54:
+  id: 54
+  master_growth_type_id: 4
+  lv: 12
+  bot_lv: 4
+  quantity: 606
+  gold: 15000
+  hp: 1.268
+  attack_power: 1.65
+data55:
+  id: 55
+  master_growth_type_id: 4
+  lv: 13
+  bot_lv: 5
+  quantity: 1056
+  gold: 30000
+  hp: 1.295
+  attack_power: 1.725
+data56:
+  id: 56
+  master_growth_type_id: 4
+  lv: 14
+  bot_lv: 5
+  quantity: 1706
+  gold: 60000
+  hp: 1.323
+  attack_power: 1.8
+data57:
+  id: 57
+  master_growth_type_id: 4
+  lv: 15
+  bot_lv: 5
+  quantity: 2556
+  gold: 100000
+  hp: 1.35
+  attack_power: 1.875
+data58:
+  id: 58
+  master_growth_type_id: 5
+  lv: 4
+  bot_lv: 1
+  quantity: 0
+  gold: 0
+  hp: 1
+  attack_power: 1.05
+data59:
+  id: 59
+  master_growth_type_id: 5
+  lv: 5
+  bot_lv: 1
+  quantity: 2
+  gold: 120
+  hp: 1.018
+  attack_power: 1.182
+data60:
+  id: 60
+  master_growth_type_id: 5
+  lv: 6
+  bot_lv: 1
+  quantity: 6
+  gold: 600
+  hp: 1.036
+  attack_power: 1.314
+data61:
+  id: 61
+  master_growth_type_id: 5
+  lv: 7
+  bot_lv: 2
+  quantity: 16
+  gold: 1200
+  hp: 1.055
+  attack_power: 1.445
+data62:
+  id: 62
+  master_growth_type_id: 5
+  lv: 8
+  bot_lv: 2
+  quantity: 36
+  gold: 2400
+  hp: 1.073
+  attack_power: 1.577
+data63:
+  id: 63
+  master_growth_type_id: 5
+  lv: 9
+  bot_lv: 3
+  quantity: 76
+  gold: 4800
+  hp: 1.091
+  attack_power: 1.709
+data64:
+  id: 64
+  master_growth_type_id: 5
+  lv: 10
+  bot_lv: 3
+  quantity: 156
+  gold: 7200
+  hp: 1.109
+  attack_power: 1.841
+data65:
+  id: 65
+  master_growth_type_id: 5
+  lv: 11
+  bot_lv: 4
+  quantity: 306
+  gold: 10000
+  hp: 1.127
+  attack_power: 1.973
+data66:
+  id: 66
+  master_growth_type_id: 5
+  lv: 12
+  bot_lv: 4
+  quantity: 606
+  gold: 15000
+  hp: 1.145
+  attack_power: 2.105
+data67:
+  id: 67
+  master_growth_type_id: 5
+  lv: 13
+  bot_lv: 5
+  quantity: 1056
+  gold: 30000
+  hp: 1.164
+  attack_power: 2.236
+data68:
+  id: 68
+  master_growth_type_id: 5
+  lv: 14
+  bot_lv: 5
+  quantity: 1706
+  gold: 60000
+  hp: 1.182
+  attack_power: 2.368
+data69:
+  id: 69
+  master_growth_type_id: 5
+  lv: 15
+  bot_lv: 5
+  quantity: 2556
+  gold: 100000
+  hp: 1.2
+  attack_power: 2.5
+data70:
+  id: 70
+  master_growth_type_id: 6
+  lv: 4
+  bot_lv: 1
+  quantity: 0
+  gold: 0
+  hp: 1
+  attack_power: 1.05
+data71:
+  id: 71
+  master_growth_type_id: 6
+  lv: 5
+  bot_lv: 1
+  quantity: 2
+  gold: 120
+  hp: 1.045
+  attack_power: 1.114
+data72:
+  id: 72
+  master_growth_type_id: 6
+  lv: 6
+  bot_lv: 1
+  quantity: 6
+  gold: 600
+  hp: 1.091
+  attack_power: 1.177
+data73:
+  id: 73
+  master_growth_type_id: 6
+  lv: 7
+  bot_lv: 2
+  quantity: 16
+  gold: 1200
+  hp: 1.136
+  attack_power: 1.241
+data74:
+  id: 74
+  master_growth_type_id: 6
+  lv: 8
+  bot_lv: 2
+  quantity: 36
+  gold: 2400
+  hp: 1.182
+  attack_power: 1.305
+data75:
+  id: 75
+  master_growth_type_id: 6
+  lv: 9
+  bot_lv: 3
+  quantity: 76
+  gold: 4800
+  hp: 1.227
+  attack_power: 1.368
+data76:
+  id: 76
+  master_growth_type_id: 6
+  lv: 10
+  bot_lv: 3
+  quantity: 156
+  gold: 7200
+  hp: 1.273
+  attack_power: 1.432
+data77:
+  id: 77
+  master_growth_type_id: 6
+  lv: 11
+  bot_lv: 4
+  quantity: 306
+  gold: 10000
+  hp: 1.318
+  attack_power: 1.495
+data78:
+  id: 78
+  master_growth_type_id: 6
+  lv: 12
+  bot_lv: 4
+  quantity: 606
+  gold: 15000
+  hp: 1.364
+  attack_power: 1.559
+data79:
+  id: 79
+  master_growth_type_id: 6
+  lv: 13
+  bot_lv: 5
+  quantity: 1056
+  gold: 30000
+  hp: 1.409
+  attack_power: 1.623
+data80:
+  id: 80
+  master_growth_type_id: 6
+  lv: 14
+  bot_lv: 5
+  quantity: 1706
+  gold: 60000
+  hp: 1.455
+  attack_power: 1.686
+data81:
+  id: 81
+  master_growth_type_id: 6
+  lv: 15
+  bot_lv: 5
+  quantity: 2556
+  gold: 100000
+  hp: 1.5
+  attack_power: 1.75
+data82:
+  id: 82
+  master_growth_type_id: 7
+  lv: 7
+  bot_lv: 1
+  quantity: 0
+  gold: 0
+  hp: 1
+  attack_power: 1.1
+data83:
+  id: 83
+  master_growth_type_id: 7
+  lv: 8
+  bot_lv: 1
+  quantity: 2
+  gold: 1000
+  hp: 1.044
+  attack_power: 1.197
+data84:
+  id: 84
+  master_growth_type_id: 7
+  lv: 9
+  bot_lv: 2
+  quantity: 6
+  gold: 3000
+  hp: 1.087
+  attack_power: 1.294
+data85:
+  id: 85
+  master_growth_type_id: 7
+  lv: 10
+  bot_lv: 2
+  quantity: 16
+  gold: 5000
+  hp: 1.131
+  attack_power: 1.391
+data86:
+  id: 86
+  master_growth_type_id: 7
+  lv: 11
+  bot_lv: 3
+  quantity: 36
+  gold: 10000
+  hp: 1.175
+  attack_power: 1.488
+data87:
+  id: 87
+  master_growth_type_id: 7
+  lv: 12
+  bot_lv: 3
+  quantity: 76
+  gold: 15000
+  hp: 1.219
+  attack_power: 1.584
+data88:
+  id: 88
+  master_growth_type_id: 7
+  lv: 13
+  bot_lv: 4
+  quantity: 156
+  gold: 30000
+  hp: 1.262
+  attack_power: 1.681
+data89:
+  id: 89
+  master_growth_type_id: 7
+  lv: 14
+  bot_lv: 4
+  quantity: 306
+  gold: 60000
+  hp: 1.306
+  attack_power: 1.778
+data90:
+  id: 90
+  master_growth_type_id: 7
+  lv: 15
+  bot_lv: 5
+  quantity: 606
+  gold: 100000
+  hp: 1.35
+  attack_power: 1.875
+data91:
+  id: 91
+  master_growth_type_id: 8
+  lv: 7
+  bot_lv: 1
+  quantity: 0
+  gold: 0
+  hp: 1
+  attack_power: 1.1
+data92:
+  id: 92
+  master_growth_type_id: 8
+  lv: 8
+  bot_lv: 1
+  quantity: 2
+  gold: 1000
+  hp: 1.025
+  attack_power: 1.275
+data93:
+  id: 93
+  master_growth_type_id: 8
+  lv: 9
+  bot_lv: 2
+  quantity: 6
+  gold: 3000
+  hp: 1.05
+  attack_power: 1.45
+data94:
+  id: 94
+  master_growth_type_id: 8
+  lv: 10
+  bot_lv: 2
+  quantity: 16
+  gold: 5000
+  hp: 1.075
+  attack_power: 1.625
+data95:
+  id: 95
+  master_growth_type_id: 8
+  lv: 11
+  bot_lv: 3
+  quantity: 36
+  gold: 10000
+  hp: 1.1
+  attack_power: 1.8
+data96:
+  id: 96
+  master_growth_type_id: 8
+  lv: 12
+  bot_lv: 3
+  quantity: 76
+  gold: 15000
+  hp: 1.125
+  attack_power: 1.975
+data97:
+  id: 97
+  master_growth_type_id: 8
+  lv: 13
+  bot_lv: 4
+  quantity: 156
+  gold: 30000
+  hp: 1.15
+  attack_power: 2.15
+data98:
+  id: 98
+  master_growth_type_id: 8
+  lv: 14
+  bot_lv: 4
+  quantity: 306
+  gold: 60000
+  hp: 1.175
+  attack_power: 2.325
+data99:
+  id: 99
+  master_growth_type_id: 8
+  lv: 15
+  bot_lv: 5
+  quantity: 606
+  gold: 100000
+  hp: 1.2
+  attack_power: 2.5
+data100:
+  id: 100
+  master_growth_type_id: 9
+  lv: 7
+  bot_lv: 1
+  quantity: 0
+  gold: 0
+  hp: 1
+  attack_power: 1.1
+data101:
+  id: 101
+  master_growth_type_id: 9
+  lv: 8
+  bot_lv: 1
+  quantity: 2
+  gold: 1000
+  hp: 1.063
+  attack_power: 1.181
+data102:
+  id: 102
+  master_growth_type_id: 9
+  lv: 9
+  bot_lv: 2
+  quantity: 6
+  gold: 3000
+  hp: 1.125
+  attack_power: 1.262
+data103:
+  id: 103
+  master_growth_type_id: 9
+  lv: 10
+  bot_lv: 2
+  quantity: 16
+  gold: 5000
+  hp: 1.188
+  attack_power: 1.344
+data104:
+  id: 104
+  master_growth_type_id: 9
+  lv: 11
+  bot_lv: 3
+  quantity: 36
+  gold: 10000
+  hp: 1.25
+  attack_power: 1.425
+data105:
+  id: 105
+  master_growth_type_id: 9
+  lv: 12
+  bot_lv: 3
+  quantity: 76
+  gold: 15000
+  hp: 1.313
+  attack_power: 1.506
+data106:
+  id: 106
+  master_growth_type_id: 9
+  lv: 13
+  bot_lv: 4
+  quantity: 156
+  gold: 30000
+  hp: 1.375
+  attack_power: 1.587
+data107:
+  id: 107
+  master_growth_type_id: 9
+  lv: 14
+  bot_lv: 4
+  quantity: 306
+  gold: 60000
+  hp: 1.438
+  attack_power: 1.669
+data108:
+  id: 108
+  master_growth_type_id: 9
+  lv: 15
+  bot_lv: 5
+  quantity: 606
+  gold: 100000
+  hp: 1.5
+  attack_power: 1.75
+data109:
+  id: 109
+  master_growth_type_id: 10
+  lv: 11
+  bot_lv: 1
+  quantity: 0
+  gold: 0
+  hp: 1
+  attack_power: 1.2
+data110:
+  id: 110
+  master_growth_type_id: 10
+  lv: 12
+  bot_lv: 2
+  quantity: 2
+  gold: 5000
+  hp: 1.087
+  attack_power: 1.369
+data111:
+  id: 111
+  master_growth_type_id: 10
+  lv: 13
+  bot_lv: 3
+  quantity: 6
+  gold: 20000
+  hp: 1.175
+  attack_power: 1.538
+data112:
+  id: 112
+  master_growth_type_id: 10
+  lv: 14
+  bot_lv: 4
+  quantity: 16
+  gold: 60000
+  hp: 1.262
+  attack_power: 1.706
+data113:
+  id: 113
+  master_growth_type_id: 10
+  lv: 15
+  bot_lv: 5
+  quantity: 36
+  gold: 100000
+  hp: 1.35
+  attack_power: 1.875
+data114:
+  id: 114
+  master_growth_type_id: 11
+  lv: 11
+  bot_lv: 1
+  quantity: 0
+  gold: 0
+  hp: 1
+  attack_power: 1.2
+data115:
+  id: 115
+  master_growth_type_id: 11
+  lv: 12
+  bot_lv: 2
+  quantity: 2
+  gold: 5000
+  hp: 1.05
+  attack_power: 1.525
+data116:
+  id: 116
+  master_growth_type_id: 11
+  lv: 13
+  bot_lv: 3
+  quantity: 6
+  gold: 20000
+  hp: 1.1
+  attack_power: 1.85
+data117:
+  id: 117
+  master_growth_type_id: 11
+  lv: 14
+  bot_lv: 4
+  quantity: 16
+  gold: 60000
+  hp: 1.15
+  attack_power: 2.175
+data118:
+  id: 118
+  master_growth_type_id: 11
+  lv: 15
+  bot_lv: 5
+  quantity: 36
+  gold: 100000
+  hp: 1.2
+  attack_power: 2.5
+data119:
+  id: 119
+  master_growth_type_id: 12
+  lv: 11
+  bot_lv: 1
+  quantity: 0
+  gold: 0
+  hp: 1
+  attack_power: 1.2
+data120:
+  id: 120
+  master_growth_type_id: 12
+  lv: 12
+  bot_lv: 2
+  quantity: 2
+  gold: 5000
+  hp: 1.125
+  attack_power: 1.337
+data121:
+  id: 121
+  master_growth_type_id: 12
+  lv: 13
+  bot_lv: 3
+  quantity: 6
+  gold: 20000
+  hp: 1.25
+  attack_power: 1.475
+data122:
+  id: 122
+  master_growth_type_id: 12
+  lv: 14
+  bot_lv: 4
+  quantity: 16
+  gold: 60000
+  hp: 1.375
+  attack_power: 1.613
+data123:
+  id: 123
+  master_growth_type_id: 12
+  lv: 15
+  bot_lv: 5
+  quantity: 36
+  gold: 100000
+  hp: 1.5
+  attack_power: 1.75

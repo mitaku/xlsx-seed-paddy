@@ -1,0 +1,396 @@
+data2:
+  id: 2
+  rank: 2
+  exp_border: 50
+data3:
+  id: 3
+  rank: 3
+  exp_border: 150
+data4:
+  id: 4
+  rank: 4
+  exp_border: 300
+data5:
+  id: 5
+  rank: 5
+  exp_border: 500
+data6:
+  id: 6
+  rank: 6
+  exp_border: 750
+data7:
+  id: 7
+  rank: 7
+  exp_border: 1050
+data8:
+  id: 8
+  rank: 8
+  exp_border: 1400
+data9:
+  id: 9
+  rank: 9
+  exp_border: 1800
+data10:
+  id: 10
+  rank: 10
+  exp_border: 2250
+data11:
+  id: 11
+  rank: 11
+  exp_border: 2750
+data12:
+  id: 12
+  rank: 12
+  exp_border: 3300
+data13:
+  id: 13
+  rank: 13
+  exp_border: 3900
+data14:
+  id: 14
+  rank: 14
+  exp_border: 4550
+data15:
+  id: 15
+  rank: 15
+  exp_border: 5250
+data16:
+  id: 16
+  rank: 16
+  exp_border: 6000
+data17:
+  id: 17
+  rank: 17
+  exp_border: 6800
+data18:
+  id: 18
+  rank: 18
+  exp_border: 7650
+data19:
+  id: 19
+  rank: 19
+  exp_border: 8550
+data20:
+  id: 20
+  rank: 20
+  exp_border: 9500
+data21:
+  id: 21
+  rank: 21
+  exp_border: 10500
+data22:
+  id: 22
+  rank: 22
+  exp_border: 11550
+data23:
+  id: 23
+  rank: 23
+  exp_border: 12650
+data24:
+  id: 24
+  rank: 24
+  exp_border: 13800
+data25:
+  id: 25
+  rank: 25
+  exp_border: 15000
+data26:
+  id: 26
+  rank: 26
+  exp_border: 16250
+data27:
+  id: 27
+  rank: 27
+  exp_border: 17550
+data28:
+  id: 28
+  rank: 28
+  exp_border: 18900
+data29:
+  id: 29
+  rank: 29
+  exp_border: 20300
+data30:
+  id: 30
+  rank: 30
+  exp_border: 21750
+data31:
+  id: 31
+  rank: 31
+  exp_border: 23250
+data32:
+  id: 32
+  rank: 32
+  exp_border: 24800
+data33:
+  id: 33
+  rank: 33
+  exp_border: 26400
+data34:
+  id: 34
+  rank: 34
+  exp_border: 28050
+data35:
+  id: 35
+  rank: 35
+  exp_border: 29750
+data36:
+  id: 36
+  rank: 36
+  exp_border: 31500
+data37:
+  id: 37
+  rank: 37
+  exp_border: 33300
+data38:
+  id: 38
+  rank: 38
+  exp_border: 35150
+data39:
+  id: 39
+  rank: 39
+  exp_border: 37050
+data40:
+  id: 40
+  rank: 40
+  exp_border: 39000
+data41:
+  id: 41
+  rank: 41
+  exp_border: 41000
+data42:
+  id: 42
+  rank: 42
+  exp_border: 43050
+data43:
+  id: 43
+  rank: 43
+  exp_border: 45150
+data44:
+  id: 44
+  rank: 44
+  exp_border: 47300
+data45:
+  id: 45
+  rank: 45
+  exp_border: 49500
+data46:
+  id: 46
+  rank: 46
+  exp_border: 51750
+data47:
+  id: 47
+  rank: 47
+  exp_border: 54050
+data48:
+  id: 48
+  rank: 48
+  exp_border: 56400
+data49:
+  id: 49
+  rank: 49
+  exp_border: 58800
+data50:
+  id: 50
+  rank: 50
+  exp_border: 61250
+data51:
+  id: 51
+  rank: 51
+  exp_border: 63750
+data52:
+  id: 52
+  rank: 52
+  exp_border: 66350
+data53:
+  id: 53
+  rank: 53
+  exp_border: 69050
+data54:
+  id: 54
+  rank: 54
+  exp_border: 71850
+data55:
+  id: 55
+  rank: 55
+  exp_border: 74750
+data56:
+  id: 56
+  rank: 56
+  exp_border: 77750
+data57:
+  id: 57
+  rank: 57
+  exp_border: 80850
+data58:
+  id: 58
+  rank: 58
+  exp_border: 84050
+data59:
+  id: 59
+  rank: 59
+  exp_border: 87350
+data60:
+  id: 60
+  rank: 60
+  exp_border: 90750
+data61:
+  id: 61
+  rank: 61
+  exp_border: 94250
+data62:
+  id: 62
+  rank: 62
+  exp_border: 97850
+data63:
+  id: 63
+  rank: 63
+  exp_border: 101550
+data64:
+  id: 64
+  rank: 64
+  exp_border: 105350
+data65:
+  id: 65
+  rank: 65
+  exp_border: 109250
+data66:
+  id: 66
+  rank: 66
+  exp_border: 113250
+data67:
+  id: 67
+  rank: 67
+  exp_border: 117350
+data68:
+  id: 68
+  rank: 68
+  exp_border: 121550
+data69:
+  id: 69
+  rank: 69
+  exp_border: 125850
+data70:
+  id: 70
+  rank: 70
+  exp_border: 130250
+data71:
+  id: 71
+  rank: 71
+  exp_border: 134750
+data72:
+  id: 72
+  rank: 72
+  exp_border: 139350
+data73:
+  id: 73
+  rank: 73
+  exp_border: 144050
+data74:
+  id: 74
+  rank: 74
+  exp_border: 148850
+data75:
+  id: 75
+  rank: 75
+  exp_border: 153750
+data76:
+  id: 76
+  rank: 76
+  exp_border: 158850
+data77:
+  id: 77
+  rank: 77
+  exp_border: 164150
+data78:
+  id: 78
+  rank: 78
+  exp_border: 169650
+data79:
+  id: 79
+  rank: 79
+  exp_border: 175350
+data80:
+  id: 80
+  rank: 80
+  exp_border: 181250
+data81:
+  id: 81
+  rank: 81
+  exp_border: 187350
+data82:
+  id: 82
+  rank: 82
+  exp_border: 193650
+data83:
+  id: 83
+  rank: 83
+  exp_border: 200150
+data84:
+  id: 84
+  rank: 84
+  exp_border: 206850
+data85:
+  id: 85
+  rank: 85
+  exp_border: 213750
+data86:
+  id: 86
+  rank: 86
+  exp_border: 220850
+data87:
+  id: 87
+  rank: 87
+  exp_border: 228150
+data88:
+  id: 88
+  rank: 88
+  exp_border: 235650
+data89:
+  id: 89
+  rank: 89
+  exp_border: 243350
+data90:
+  id: 90
+  rank: 90
+  exp_border: 251250
+data91:
+  id: 91
+  rank: 91
+  exp_border: 259350
+data92:
+  id: 92
+  rank: 92
+  exp_border: 267650
+data93:
+  id: 93
+  rank: 93
+  exp_border: 276150
+data94:
+  id: 94
+  rank: 94
+  exp_border: 284850
+data95:
+  id: 95
+  rank: 95
+  exp_border: 293750
+data96:
+  id: 96
+  rank: 96
+  exp_border: 302850
+data97:
+  id: 97
+  rank: 97
+  exp_border: 312150
+data98:
+  id: 98
+  rank: 98
+  exp_border: 321650
+data99:
+  id: 99
+  rank: 99
+  exp_border: 331350
+data100:
+  id: 100
+  rank: 100
+  exp_border: 341250

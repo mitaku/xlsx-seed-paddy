@@ -1,0 +1,54 @@
+data2:
+  id: 2
+  required_victory_point: 210
+data3:
+  id: 3
+  required_victory_point: 450
+data4:
+  id: 4
+  required_victory_point: 630
+data5:
+  id: 5
+  required_victory_point: 720
+data6:
+  id: 6
+  required_victory_point: 900
+data7:
+  id: 7
+  required_victory_point: 1140
+data8:
+  id: 8
+  required_victory_point: 1500
+data9:
+  id: 9
+  required_victory_point: 1980
+data10:
+  id: 10
+  required_victory_point: 2280
+data11:
+  id: 11
+  required_victory_point: 2400
+data12:
+  id: 12
+  required_victory_point: 2580
+data13:
+  id: 13
+  required_victory_point: 2880
+data14:
+  id: 14
+  required_victory_point: 3120
+data15:
+  id: 15
+  required_victory_point: 3600
+data16:
+  id: 16
+  required_victory_point: 4140
+data17:
+  id: 17
+  required_victory_point: 4560
+data18:
+  id: 18
+  required_victory_point: 5040
+data19:
+  id: 19
+  required_victory_point: 5700

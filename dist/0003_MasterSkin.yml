@@ -1,0 +1,680 @@
+data2:
+  id: 2
+  itemable_type: MasterJob
+  itemable_id: 1
+  client_id: 2
+  priority: 2
+  name: Standard Red
+  rarity_id: 1
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data3:
+  id: 3
+  itemable_type: MasterJob
+  itemable_id: 1
+  client_id: 3
+  priority: 3
+  name: Standard Purple
+  rarity_id: 1
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data4:
+  id: 4
+  itemable_type: MasterJob
+  itemable_id: 1
+  client_id: 4
+  priority: 4
+  name: Standard Orange
+  rarity_id: 1
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data5:
+  id: 5
+  itemable_type: MasterJob
+  itemable_id: 1
+  client_id: 5
+  priority: 5
+  name: Monochrome
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data6:
+  id: 6
+  itemable_type: MasterJob
+  itemable_id: 1
+  client_id: 6
+  priority: 6
+  name: Skilled Silver
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Mastery Reward
+data7:
+  id: 7
+  itemable_type: MasterJob
+  itemable_id: 1
+  client_id: 7
+  priority: 7
+  name: Brave Heart
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data8:
+  id: 8
+  itemable_type: MasterJob
+  itemable_id: 1
+  client_id: 8
+  priority: 8
+  name: Warning Grand
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data9:
+  id: 9
+  itemable_type: MasterJob
+  itemable_id: 1
+  client_id: 9
+  priority: 9
+  name: Fleeting Flower
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data10:
+  id: 10
+  itemable_type: MasterJob
+  itemable_id: 1
+  client_id: 10
+  priority: 10
+  name: Ukiyo-e
+  rarity_id: 3
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data11:
+  id: 11
+  itemable_type: MasterJob
+  itemable_id: 1
+  client_id: 11
+  priority: 11
+  name: Champion Gold
+  rarity_id: 3
+  is_init: 'FALSE'
+  how_to_get: Mastery Reward
+data12:
+  id: 12
+  itemable_type: MasterJob
+  itemable_id: 2
+  client_id: 1
+  priority: 1
+  name: Demolition Default
+  rarity_id: 1
+  is_init: 'TRUE'
+  how_to_get: Initial
+data13:
+  id: 13
+  itemable_type: MasterJob
+  itemable_id: 2
+  client_id: 2
+  priority: 2
+  name: Standard Red
+  rarity_id: 1
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data14:
+  id: 14
+  itemable_type: MasterJob
+  itemable_id: 2
+  client_id: 3
+  priority: 3
+  name: Standard Purple
+  rarity_id: 1
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data15:
+  id: 15
+  itemable_type: MasterJob
+  itemable_id: 2
+  client_id: 4
+  priority: 4
+  name: Standard Orange
+  rarity_id: 1
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data16:
+  id: 16
+  itemable_type: MasterJob
+  itemable_id: 2
+  client_id: 5
+  priority: 5
+  name: Monochrome
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data17:
+  id: 17
+  itemable_type: MasterJob
+  itemable_id: 2
+  client_id: 6
+  priority: 6
+  name: Skilled Silver
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Mastery Reward
+data18:
+  id: 18
+  itemable_type: MasterJob
+  itemable_id: 2
+  client_id: 7
+  priority: 7
+  name: Noble Maiden
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data19:
+  id: 19
+  itemable_type: MasterJob
+  itemable_id: 2
+  client_id: 8
+  priority: 8
+  name: Ambush Ghillie
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data20:
+  id: 20
+  itemable_type: MasterJob
+  itemable_id: 2
+  client_id: 9
+  priority: 9
+  name: Healing Ranger
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data21:
+  id: 21
+  itemable_type: MasterJob
+  itemable_id: 2
+  client_id: 10
+  priority: 10
+  name: Anti Splash
+  rarity_id: 3
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data22:
+  id: 22
+  itemable_type: MasterJob
+  itemable_id: 2
+  client_id: 11
+  priority: 11
+  name: Champion Gold
+  rarity_id: 3
+  is_init: 'FALSE'
+  how_to_get: Mastery Reward
+data23:
+  id: 23
+  itemable_type: MasterJob
+  itemable_id: 3
+  client_id: 1
+  priority: 1
+  name: Athena Default
+  rarity_id: 1
+  is_init: 'TRUE'
+  how_to_get: Initial
+data24:
+  id: 24
+  itemable_type: MasterJob
+  itemable_id: 3
+  client_id: 2
+  priority: 2
+  name: Standard Red
+  rarity_id: 1
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data25:
+  id: 25
+  itemable_type: MasterJob
+  itemable_id: 3
+  client_id: 3
+  priority: 3
+  name: Standard Purple
+  rarity_id: 1
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data26:
+  id: 26
+  itemable_type: MasterJob
+  itemable_id: 3
+  client_id: 4
+  priority: 4
+  name: Standard Orange
+  rarity_id: 1
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data27:
+  id: 27
+  itemable_type: MasterJob
+  itemable_id: 3
+  client_id: 5
+  priority: 5
+  name: Monochrome
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data28:
+  id: 28
+  itemable_type: MasterJob
+  itemable_id: 3
+  client_id: 6
+  priority: 6
+  name: Skilled Silver
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Mastery Reward
+data29:
+  id: 29
+  itemable_type: MasterJob
+  itemable_id: 3
+  client_id: 7
+  priority: 7
+  name: Future Navy
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data30:
+  id: 30
+  itemable_type: MasterJob
+  itemable_id: 3
+  client_id: 8
+  priority: 8
+  name: Honey Queen
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data31:
+  id: 31
+  itemable_type: MasterJob
+  itemable_id: 3
+  client_id: 9
+  priority: 9
+  name: Tropic Liberty
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data32:
+  id: 32
+  itemable_type: MasterJob
+  itemable_id: 3
+  client_id: 10
+  priority: 10
+  name: Triangle Vitamin
+  rarity_id: 3
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data33:
+  id: 33
+  itemable_type: MasterJob
+  itemable_id: 3
+  client_id: 11
+  priority: 11
+  name: Champion Gold
+  rarity_id: 3
+  is_init: 'FALSE'
+  how_to_get: Mastery Reward
+data34:
+  id: 34
+  itemable_type: MasterJob
+  itemable_id: 4
+  client_id: 1
+  priority: 1
+  name: Hermit Default
+  rarity_id: 1
+  is_init: 'TRUE'
+  how_to_get: Initial
+data35:
+  id: 35
+  itemable_type: MasterJob
+  itemable_id: 4
+  client_id: 2
+  priority: 2
+  name: Standard Red
+  rarity_id: 1
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data36:
+  id: 36
+  itemable_type: MasterJob
+  itemable_id: 4
+  client_id: 3
+  priority: 3
+  name: Standard Purple
+  rarity_id: 1
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data37:
+  id: 37
+  itemable_type: MasterJob
+  itemable_id: 4
+  client_id: 4
+  priority: 4
+  name: Standard Orange
+  rarity_id: 1
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data38:
+  id: 38
+  itemable_type: MasterJob
+  itemable_id: 4
+  client_id: 5
+  priority: 5
+  name: Monochrome
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data39:
+  id: 39
+  itemable_type: MasterJob
+  itemable_id: 4
+  client_id: 6
+  priority: 6
+  name: Skilled Silver
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Mastery Reward
+data40:
+  id: 40
+  itemable_type: MasterJob
+  itemable_id: 4
+  client_id: 7
+  priority: 7
+  name: Crimson Strike
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data41:
+  id: 41
+  itemable_type: MasterJob
+  itemable_id: 4
+  client_id: 8
+  priority: 8
+  name: Sky Force
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data42:
+  id: 42
+  itemable_type: MasterJob
+  itemable_id: 4
+  client_id: 9
+  priority: 9
+  name: Army Snake
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data43:
+  id: 43
+  itemable_type: MasterJob
+  itemable_id: 4
+  client_id: 10
+  priority: 10
+  name: Frontier Discovery
+  rarity_id: 3
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data44:
+  id: 44
+  itemable_type: MasterJob
+  itemable_id: 4
+  client_id: 11
+  priority: 11
+  name: Champion Gold
+  rarity_id: 3
+  is_init: 'FALSE'
+  how_to_get: Mastery Reward
+data45:
+  id: 45
+  itemable_type: MasterJob
+  itemable_id: 5
+  client_id: 1
+  priority: 1
+  name: Sunshine Default
+  rarity_id: 1
+  is_init: 'TRUE'
+  how_to_get: Initial
+data46:
+  id: 46
+  itemable_type: MasterJob
+  itemable_id: 5
+  client_id: 2
+  priority: 2
+  name: Standard Red
+  rarity_id: 1
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data47:
+  id: 47
+  itemable_type: MasterJob
+  itemable_id: 5
+  client_id: 3
+  priority: 3
+  name: Standard Purple
+  rarity_id: 1
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data48:
+  id: 48
+  itemable_type: MasterJob
+  itemable_id: 5
+  client_id: 4
+  priority: 4
+  name: Standard Orange
+  rarity_id: 1
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data49:
+  id: 49
+  itemable_type: MasterJob
+  itemable_id: 5
+  client_id: 5
+  priority: 5
+  name: Monochrome
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data50:
+  id: 50
+  itemable_type: MasterJob
+  itemable_id: 5
+  client_id: 6
+  priority: 6
+  name: Skilled Silver
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Mastery Reward
+data51:
+  id: 51
+  itemable_type: MasterJob
+  itemable_id: 5
+  client_id: 7
+  priority: 7
+  name: Sleeping Beauty
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data52:
+  id: 52
+  itemable_type: MasterJob
+  itemable_id: 5
+  client_id: 8
+  priority: 8
+  name: Oriental Hakama
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data53:
+  id: 53
+  itemable_type: MasterJob
+  itemable_id: 5
+  client_id: 9
+  priority: 9
+  name: Mandarin Twilight
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data54:
+  id: 54
+  itemable_type: MasterJob
+  itemable_id: 5
+  client_id: 10
+  priority: 10
+  name: Demonic Gaze
+  rarity_id: 3
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data55:
+  id: 55
+  itemable_type: MasterJob
+  itemable_id: 5
+  client_id: 11
+  priority: 11
+  name: Champion Gold
+  rarity_id: 3
+  is_init: 'FALSE'
+  how_to_get: Mastery Reward
+data56:
+  id: 56
+  itemable_type: MasterJob
+  itemable_id: 6
+  client_id: 1
+  priority: 1
+  name: Orca Default
+  rarity_id: 1
+  is_init: 'TRUE'
+  how_to_get: Initial
+data57:
+  id: 57
+  itemable_type: MasterJob
+  itemable_id: 6
+  client_id: 2
+  priority: 2
+  name: Standard Red
+  rarity_id: 1
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data58:
+  id: 58
+  itemable_type: MasterJob
+  itemable_id: 6
+  client_id: 3
+  priority: 3
+  name: Standard Purple
+  rarity_id: 1
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data59:
+  id: 59
+  itemable_type: MasterJob
+  itemable_id: 6
+  client_id: 4
+  priority: 4
+  name: Standard Orange
+  rarity_id: 1
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data60:
+  id: 60
+  itemable_type: MasterJob
+  itemable_id: 6
+  client_id: 5
+  priority: 5
+  name: Monochrome
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data61:
+  id: 61
+  itemable_type: MasterJob
+  itemable_id: 6
+  client_id: 6
+  priority: 6
+  name: Skilled Silver
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Mastery Reward
+data62:
+  id: 62
+  itemable_type: MasterJob
+  itemable_id: 6
+  client_id: 7
+  priority: 7
+  name: Reflection Bourbon
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data63:
+  id: 63
+  itemable_type: MasterJob
+  itemable_id: 6
+  client_id: 8
+  priority: 8
+  name: Sharp Ray
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data64:
+  id: 64
+  itemable_type: MasterJob
+  itemable_id: 6
+  client_id: 9
+  priority: 9
+  name: Deep Water
+  rarity_id: 2
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data65:
+  id: 65
+  itemable_type: MasterJob
+  itemable_id: 6
+  client_id: 10
+  priority: 10
+  name: Big Bang Wars
+  rarity_id: 3
+  is_init: 'FALSE'
+  how_to_get: Shop Purchase
+data66:
+  id: 66
+  itemable_type: MasterJob
+  itemable_id: 6
+  client_id: 11
+  priority: 11
+  name: Champion Gold
+  rarity_id: 3
+  is_init: 'FALSE'
+  how_to_get: Mastery Reward
+data67:
+  id: 67
+  itemable_type: MasterJob
+  itemable_id: 1
+  client_id: 12
+  priority: 12
+  name: Zenon
+  rarity_id: 3
+  is_init: 'FALSE'
+  how_to_get: Kickstarter Reward
+data68:
+  id: 68
+  itemable_type: MasterJob
+  itemable_id: 5
+  client_id: 12
+  priority: 12
+  name: Hail Joker
+  rarity_id: 3
+  is_init: 'FALSE'
+  how_to_get: Kickstarter Reward
+data69:
+  id: 69
+  itemable_type: MasterJob
+  itemable_id: 6
+  client_id: 12
+  priority: 12
+  name: Admiral
+  rarity_id: 3
+  is_init: 'FALSE'
+  how_to_get: Kickstarter Reward

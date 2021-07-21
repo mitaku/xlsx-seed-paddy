@@ -1,0 +1,100 @@
+data2:
+  id: 2
+  player_indicator: 2
+  bot_routine_id: 2
+  is_forced: 'TRUE'
+data3:
+  id: 3
+  player_indicator: 3
+  bot_routine_id: 3
+  is_forced: 'TRUE'
+data4:
+  id: 4
+  player_indicator: 4
+  bot_routine_id: 4
+  is_forced: 'FALSE'
+data5:
+  id: 5
+  player_indicator: 5
+  bot_routine_id: 5
+  is_forced: 'FALSE'
+data6:
+  id: 6
+  player_indicator: 6
+  bot_routine_id: 6
+  is_forced: 'FALSE'
+data7:
+  id: 7
+  player_indicator: 7
+  bot_routine_id: 7
+  is_forced: 'FALSE'
+data8:
+  id: 8
+  player_indicator: 8
+  bot_routine_id: 8
+  is_forced: 'FALSE'
+data9:
+  id: 9
+  player_indicator: 9
+  bot_routine_id: 9
+  is_forced: 'FALSE'
+data10:
+  id: 10
+  player_indicator: 10
+  bot_routine_id: 10
+  is_forced: 'FALSE'
+data11:
+  id: 11
+  player_indicator: 11
+  bot_routine_id: 11
+  is_forced: 'FALSE'
+data12:
+  id: 12
+  player_indicator: 12
+  bot_routine_id: 12
+  is_forced: 'FALSE'
+data13:
+  id: 13
+  player_indicator: 13
+  bot_routine_id: 13
+  is_forced: 'FALSE'
+data14:
+  id: 14
+  player_indicator: 14
+  bot_routine_id: 14
+  is_forced: 'FALSE'
+data15:
+  id: 15
+  player_indicator: 15
+  bot_routine_id: 15
+  is_forced: 'FALSE'
+data16:
+  id: 16
+  player_indicator: 16
+  bot_routine_id: 16
+  is_forced: 'FALSE'
+data17:
+  id: 17
+  player_indicator: 17
+  bot_routine_id: 17
+  is_forced: 'FALSE'
+data18:
+  id: 18
+  player_indicator: 18
+  bot_routine_id: 18
+  is_forced: 'FALSE'
+data19:
+  id: 19
+  player_indicator: -1
+  bot_routine_id: -1
+  is_forced: 'TRUE'
+data20:
+  id: 20
+  player_indicator: -998
+  bot_routine_id: -998
+  is_forced: 'TRUE'
+data21:
+  id: 21
+  player_indicator: -999
+  bot_routine_id: -999
+  is_forced: 'TRUE'

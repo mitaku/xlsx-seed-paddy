@@ -1,0 +1,234 @@
+data2:
+  id: 2
+  shop_id: 1
+  panel_category_id: 1
+  shop_panelable_type: ShopFixedPanel
+  shop_panelable_id: 2
+  name: StartDashSalePanel
+  description: null
+  thumbnail: thumbnail_start_dash_sale_panel
+  priority: 18
+  event_id: null
+  start_at: null
+  end_at: null
+data3:
+  id: 3
+  shop_id: 1
+  panel_category_id: 1
+  shop_panelable_type: ShopFixedPanel
+  shop_panelable_id: 3
+  name: PremierStartDashSalePanel
+  description: null
+  thumbnail: thumbnail_premier_start_dash_sale_panel
+  priority: 19
+  event_id: null
+  start_at: null
+  end_at: null
+data4:
+  id: 4
+  shop_id: 1
+  panel_category_id: 2
+  shop_panelable_type: ShopFixedPanel
+  shop_panelable_id: 4
+  name: Gem
+  description: null
+  thumbnail: null
+  priority: 16
+  event_id: null
+  start_at: null
+  end_at: null
+data5:
+  id: 5
+  shop_id: 1
+  panel_category_id: 3
+  shop_panelable_type: ShopFixedPanel
+  shop_panelable_id: 5
+  name: Credit
+  description: null
+  thumbnail: null
+  priority: 13
+  event_id: null
+  start_at: null
+  end_at: null
+data6:
+  id: 6
+  shop_id: 1
+  panel_category_id: 4
+  shop_panelable_type: ShopFixedPanel
+  shop_panelable_id: 6
+  name: Champion Token
+  description: null
+  thumbnail: null
+  priority: 14
+  event_id: null
+  start_at: null
+  end_at: null
+data7:
+  id: 7
+  shop_id: 1
+  panel_category_id: 5
+  shop_panelable_type: ShopFixedPanel
+  shop_panelable_id: 7
+  name: Skin Ticket
+  description: null
+  thumbnail: null
+  priority: 15
+  event_id: null
+  start_at: null
+  end_at: null
+data8:
+  id: 8
+  shop_id: 1
+  panel_category_id: 6
+  shop_panelable_type: ShopFixedPanel
+  shop_panelable_id: 8
+  name: Crate
+  description: Purchased Crates opens immidiatery
+  thumbnail: null
+  priority: 12
+  event_id: null
+  start_at: null
+  end_at: null
+data9:
+  id: 9
+  shop_id: 1
+  panel_category_id: 1
+  shop_panelable_type: ShopFixedPanel
+  shop_panelable_id: 9
+  name: ChampionSkinBundlePanel
+  description: null
+  thumbnail: thumbnail_job_skin_bundle_panel
+  priority: 17
+  event_id: null
+  start_at: null
+  end_at: null
+data10:
+  id: 10
+  shop_id: 1
+  panel_category_id: 1
+  shop_panelable_type: ShopFixedPanel
+  shop_panelable_id: 10
+  name: RankUpBundlePanel5-40
+  description: null
+  thumbnail: thumbnail_rank_up_bundle_panel_5-40
+  priority: 5
+  event_id: null
+  start_at: null
+  end_at: null
+data11:
+  id: 11
+  shop_id: 1
+  panel_category_id: 1
+  shop_panelable_type: ShopFixedPanel
+  shop_panelable_id: 11
+  name: RankUpBundlePanel50-100
+  description: null
+  thumbnail: thumbnail_rank_up_bundle_panel_50-100
+  priority: 6
+  event_id: null
+  start_at: null
+  end_at: null
+data12:
+  id: 12
+  shop_id: 1
+  panel_category_id: 1
+  shop_panelable_type: ShopFixedPanel
+  shop_panelable_id: 12
+  name: CrateChampionBundlePanel
+  description: null
+  thumbnail: thumbnail_treasure_box_job_bundle_panel
+  priority: 7
+  event_id: null
+  start_at: null
+  end_at: null
+data13:
+  id: 13
+  shop_id: 1
+  panel_category_id: 1
+  shop_panelable_type: ShopFixedPanel
+  shop_panelable_id: 13
+  name: GrowthBundlePanel
+  description: null
+  thumbnail: thumbnail_growth_bundle_panel
+  priority: 9
+  event_id: null
+  start_at: null
+  end_at: null
+data14:
+  id: 14
+  shop_id: 1
+  panel_category_id: 1
+  shop_panelable_type: ShopFixedPanel
+  shop_panelable_id: 14
+  name: PremierBundlePanel
+  description: null
+  thumbnail: thumbnail_premier_bundle_panel
+  priority: 8
+  event_id: null
+  start_at: null
+  end_at: null
+data15:
+  id: 15
+  shop_id: 1
+  panel_category_id: 9
+  shop_panelable_type: ShopFixedPanel
+  shop_panelable_id: 15
+  name: Champion
+  description: null
+  thumbnail: null
+  priority: 11
+  event_id: null
+  start_at: null
+  end_at: null
+data16:
+  id: 16
+  shop_id: 1
+  panel_category_id: 7
+  shop_panelable_type: ShopLotteryPanel
+  shop_panelable_id: 16
+  name: Daily Sale
+  description: null
+  thumbnail: null
+  priority: 10
+  event_id: null
+  start_at: null
+  end_at: null
+data17:
+  id: 17
+  shop_id: 1
+  panel_category_id: 10
+  shop_panelable_type: ShopFixedPanel
+  shop_panelable_id: 17
+  name: Reward Shop
+  description: Collect Research Data
+  thumbnail: thumbnail_shop_event_001
+  priority: 3
+  event_id: 1
+  start_at: '2021-04-01 4:00:00'
+  end_at: '2021-05-26 3:59:59'
+data18:
+  id: 18
+  shop_id: 1
+  panel_category_id: 11
+  shop_panelable_type: ShopFixedPanel
+  shop_panelable_id: 18
+  name: Reward Shop
+  description: Collect Research Data
+  thumbnail: thumbnail_small_blue
+  priority: 4
+  event_id: 1
+  start_at: '2021-04-01 4:00:00'
+  end_at: '2021-05-26 3:59:59'
+data19:
+  id: 19
+  shop_id: 1
+  panel_category_id: 1
+  shop_panelable_type: ShopFixedPanel
+  shop_panelable_id: 19
+  name: Credit & Gem Bundle
+  description: null
+  thumbnail: thumbnail_credit_gem_bundle_panel
+  priority: 2
+  event_id: null
+  start_at: '2021-04-01 4:00:00'
+  end_at: '2021-05-19 3:59:59'

@@ -1,0 +1,693 @@
+data2:
+  id: 2
+  master_player_rank_id: 2
+  exp_border: 50
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 7
+  quantity: 1
+data3:
+  id: 3
+  master_player_rank_id: 3
+  exp_border: 150
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 54
+  quantity: 1
+data4:
+  id: 4
+  master_player_rank_id: 4
+  exp_border: 300
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 8
+  quantity: 1
+data5:
+  id: 5
+  master_player_rank_id: 5
+  exp_border: 500
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 28
+  quantity: 1
+data6:
+  id: 6
+  master_player_rank_id: 6
+  exp_border: 750
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 5
+  quantity: 1
+data7:
+  id: 7
+  master_player_rank_id: 7
+  exp_border: 1050
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 7
+  quantity: 1
+data8:
+  id: 8
+  master_player_rank_id: 8
+  exp_border: 1400
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 77
+  quantity: 1
+data9:
+  id: 9
+  master_player_rank_id: 9
+  exp_border: 1800
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 8
+  quantity: 1
+data10:
+  id: 10
+  master_player_rank_id: 10
+  exp_border: 2250
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 28
+  quantity: 1
+data11:
+  id: 11
+  master_player_rank_id: 11
+  exp_border: 2750
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 5
+  quantity: 1
+data12:
+  id: 12
+  master_player_rank_id: 12
+  exp_border: 3300
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 7
+  quantity: 1
+data13:
+  id: 13
+  master_player_rank_id: 13
+  exp_border: 3900
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 55
+  quantity: 1
+data14:
+  id: 14
+  master_player_rank_id: 14
+  exp_border: 4550
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 8
+  quantity: 1
+data15:
+  id: 15
+  master_player_rank_id: 15
+  exp_border: 5250
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 28
+  quantity: 1
+data16:
+  id: 16
+  master_player_rank_id: 16
+  exp_border: 6000
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 7
+  quantity: 1
+data17:
+  id: 17
+  master_player_rank_id: 17
+  exp_border: 6800
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 7
+  quantity: 1
+data18:
+  id: 18
+  master_player_rank_id: 18
+  exp_border: 7650
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 78
+  quantity: 1
+data19:
+  id: 19
+  master_player_rank_id: 19
+  exp_border: 8550
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 8
+  quantity: 1
+data20:
+  id: 20
+  master_player_rank_id: 20
+  exp_border: 9500
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 3
+  quantity: 1
+data21:
+  id: 21
+  master_player_rank_id: 21
+  exp_border: 10500
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 7
+  quantity: 1
+data22:
+  id: 22
+  master_player_rank_id: 22
+  exp_border: 11550
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 7
+  quantity: 1
+data23:
+  id: 23
+  master_player_rank_id: 23
+  exp_border: 12650
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 57
+  quantity: 1
+data24:
+  id: 24
+  master_player_rank_id: 24
+  exp_border: 13800
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 8
+  quantity: 1
+data25:
+  id: 25
+  master_player_rank_id: 25
+  exp_border: 15000
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 4
+  quantity: 1
+data26:
+  id: 26
+  master_player_rank_id: 26
+  exp_border: 16250
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 7
+  quantity: 1
+data27:
+  id: 27
+  master_player_rank_id: 27
+  exp_border: 17550
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 7
+  quantity: 1
+data28:
+  id: 28
+  master_player_rank_id: 28
+  exp_border: 18900
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 79
+  quantity: 1
+data29:
+  id: 29
+  master_player_rank_id: 29
+  exp_border: 20300
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 8
+  quantity: 1
+data30:
+  id: 30
+  master_player_rank_id: 30
+  exp_border: 21750
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 29
+  quantity: 1
+data31:
+  id: 31
+  master_player_rank_id: 31
+  exp_border: 23250
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 7
+  quantity: 1
+data32:
+  id: 32
+  master_player_rank_id: 32
+  exp_border: 24800
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 7
+  quantity: 1
+data33:
+  id: 33
+  master_player_rank_id: 33
+  exp_border: 26400
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 59
+  quantity: 1
+data34:
+  id: 34
+  master_player_rank_id: 34
+  exp_border: 28050
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 8
+  quantity: 1
+data35:
+  id: 35
+  master_player_rank_id: 35
+  exp_border: 29750
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 3
+  quantity: 1
+data36:
+  id: 36
+  master_player_rank_id: 36
+  exp_border: 31500
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 10
+  quantity: 1
+data37:
+  id: 37
+  master_player_rank_id: 37
+  exp_border: 33300
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 7
+  quantity: 1
+data38:
+  id: 38
+  master_player_rank_id: 38
+  exp_border: 35150
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 81
+  quantity: 1
+data39:
+  id: 39
+  master_player_rank_id: 39
+  exp_border: 37050
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 8
+  quantity: 1
+data40:
+  id: 40
+  master_player_rank_id: 40
+  exp_border: 39000
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 4
+  quantity: 1
+data41:
+  id: 41
+  master_player_rank_id: 41
+  exp_border: 41000
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 10
+  quantity: 1
+data42:
+  id: 42
+  master_player_rank_id: 42
+  exp_border: 43050
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 7
+  quantity: 1
+data43:
+  id: 43
+  master_player_rank_id: 43
+  exp_border: 45150
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 60
+  quantity: 1
+data44:
+  id: 44
+  master_player_rank_id: 44
+  exp_border: 47300
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 8
+  quantity: 1
+data45:
+  id: 45
+  master_player_rank_id: 45
+  exp_border: 49500
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 29
+  quantity: 1
+data46:
+  id: 46
+  master_player_rank_id: 46
+  exp_border: 51750
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 10
+  quantity: 1
+data47:
+  id: 47
+  master_player_rank_id: 47
+  exp_border: 54050
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 7
+  quantity: 1
+data48:
+  id: 48
+  master_player_rank_id: 48
+  exp_border: 56400
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 81
+  quantity: 1
+data49:
+  id: 49
+  master_player_rank_id: 49
+  exp_border: 58800
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 8
+  quantity: 1
+data50:
+  id: 50
+  master_player_rank_id: 50
+  exp_border: 61250
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 3
+  quantity: 1
+data51:
+  id: 51
+  master_player_rank_id: 51
+  exp_border: 63750
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 13
+  quantity: 1
+data52:
+  id: 52
+  master_player_rank_id: 52
+  exp_border: 66350
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 7
+  quantity: 1
+data53:
+  id: 53
+  master_player_rank_id: 53
+  exp_border: 69050
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 61
+  quantity: 1
+data54:
+  id: 54
+  master_player_rank_id: 54
+  exp_border: 71850
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 8
+  quantity: 1
+data55:
+  id: 55
+  master_player_rank_id: 55
+  exp_border: 74750
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 4
+  quantity: 1
+data56:
+  id: 56
+  master_player_rank_id: 56
+  exp_border: 77750
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 13
+  quantity: 1
+data57:
+  id: 57
+  master_player_rank_id: 57
+  exp_border: 80850
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 7
+  quantity: 1
+data58:
+  id: 58
+  master_player_rank_id: 58
+  exp_border: 84050
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 82
+  quantity: 1
+data59:
+  id: 59
+  master_player_rank_id: 59
+  exp_border: 87350
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 8
+  quantity: 1
+data60:
+  id: 60
+  master_player_rank_id: 60
+  exp_border: 90750
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 31
+  quantity: 1
+data61:
+  id: 61
+  master_player_rank_id: 61
+  exp_border: 94250
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 13
+  quantity: 1
+data62:
+  id: 62
+  master_player_rank_id: 62
+  exp_border: 97850
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 7
+  quantity: 1
+data63:
+  id: 63
+  master_player_rank_id: 63
+  exp_border: 101550
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 63
+  quantity: 1
+data64:
+  id: 64
+  master_player_rank_id: 64
+  exp_border: 105350
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 8
+  quantity: 1
+data65:
+  id: 65
+  master_player_rank_id: 65
+  exp_border: 109250
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 3
+  quantity: 1
+data66:
+  id: 66
+  master_player_rank_id: 66
+  exp_border: 113250
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 18
+  quantity: 1
+data67:
+  id: 67
+  master_player_rank_id: 67
+  exp_border: 117350
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 7
+  quantity: 1
+data68:
+  id: 68
+  master_player_rank_id: 68
+  exp_border: 121550
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 83
+  quantity: 1
+data69:
+  id: 69
+  master_player_rank_id: 69
+  exp_border: 125850
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 8
+  quantity: 1
+data70:
+  id: 70
+  master_player_rank_id: 70
+  exp_border: 130250
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 4
+  quantity: 1
+data71:
+  id: 71
+  master_player_rank_id: 71
+  exp_border: 134750
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 18
+  quantity: 1
+data72:
+  id: 72
+  master_player_rank_id: 72
+  exp_border: 139350
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 7
+  quantity: 1
+data73:
+  id: 73
+  master_player_rank_id: 73
+  exp_border: 144050
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 64
+  quantity: 1
+data74:
+  id: 74
+  master_player_rank_id: 74
+  exp_border: 148850
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 8
+  quantity: 1
+data75:
+  id: 75
+  master_player_rank_id: 75
+  exp_border: 153750
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 31
+  quantity: 1
+data76:
+  id: 76
+  master_player_rank_id: 76
+  exp_border: 158850
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 18
+  quantity: 1
+data77:
+  id: 77
+  master_player_rank_id: 77
+  exp_border: 164150
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 7
+  quantity: 1
+data78:
+  id: 78
+  master_player_rank_id: 78
+  exp_border: 169650
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 85
+  quantity: 1
+data79:
+  id: 79
+  master_player_rank_id: 79
+  exp_border: 175350
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 8
+  quantity: 1
+data80:
+  id: 80
+  master_player_rank_id: 80
+  exp_border: 181250
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 3
+  quantity: 1
+data81:
+  id: 81
+  master_player_rank_id: 81
+  exp_border: 187350
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 18
+  quantity: 1
+data82:
+  id: 82
+  master_player_rank_id: 82
+  exp_border: 193650
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 7
+  quantity: 1
+data83:
+  id: 83
+  master_player_rank_id: 83
+  exp_border: 200150
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 65
+  quantity: 1
+data84:
+  id: 84
+  master_player_rank_id: 84
+  exp_border: 206850
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 8
+  quantity: 1
+data85:
+  id: 85
+  master_player_rank_id: 85
+  exp_border: 213750
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 4
+  quantity: 1
+data86:
+  id: 86
+  master_player_rank_id: 86
+  exp_border: 220850
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 18
+  quantity: 1
+data87:
+  id: 87
+  master_player_rank_id: 87
+  exp_border: 228150
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 7
+  quantity: 1
+data88:
+  id: 88
+  master_player_rank_id: 88
+  exp_border: 235650
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 86
+  quantity: 1
+data89:
+  id: 89
+  master_player_rank_id: 89
+  exp_border: 243350
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 8
+  quantity: 1
+data90:
+  id: 90
+  master_player_rank_id: 90
+  exp_border: 251250
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 31
+  quantity: 1
+data91:
+  id: 91
+  master_player_rank_id: 91
+  exp_border: 259350
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 18
+  quantity: 1
+data92:
+  id: 92
+  master_player_rank_id: 92
+  exp_border: 267650
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 7
+  quantity: 1
+data93:
+  id: 93
+  master_player_rank_id: 93
+  exp_border: 276150
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 65
+  quantity: 1
+data94:
+  id: 94
+  master_player_rank_id: 94
+  exp_border: 284850
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 8
+  quantity: 1
+data95:
+  id: 95
+  master_player_rank_id: 95
+  exp_border: 293750
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 3
+  quantity: 1
+data96:
+  id: 96
+  master_player_rank_id: 96
+  exp_border: 302850
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 18
+  quantity: 1
+data97:
+  id: 97
+  master_player_rank_id: 97
+  exp_border: 312150
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 7
+  quantity: 1
+data98:
+  id: 98
+  master_player_rank_id: 98
+  exp_border: 321650
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 88
+  quantity: 1
+data99:
+  id: 99
+  master_player_rank_id: 99
+  exp_border: 331350
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 8
+  quantity: 1
+data100:
+  id: 100
+  master_player_rank_id: 100
+  exp_border: 341250
+  rewardable_type: MasterTreasureBox
+  rewardable_id: 4
+  quantity: 1

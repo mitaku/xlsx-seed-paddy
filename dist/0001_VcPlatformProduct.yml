@@ -1,0 +1,112 @@
+data2:
+  id: 2
+  name: Gemサブスク：大
+  description: Premier Gem Pass
+  product_id: com.graffity.leaptrigger.emerald.subscription02
+  price: 14.99
+  quantity: 1
+  get_paid_point: 300
+data3:
+  id: 3
+  name: スタートダッシュパック：小
+  description: Release Bundle
+  product_id: com.graffity.leaptrigger.startdash.pack01
+  price: 1.99
+  quantity: 1
+  get_paid_point: 55
+data4:
+  id: 4
+  name: スタートダッシュパック：中
+  description: Special Release Bundle
+  product_id: com.graffity.leaptrigger.startdash.pack02
+  price: 9.99
+  quantity: 1
+  get_paid_point: 150
+data5:
+  id: 5
+  name: スタートダッシュパック：大
+  description: Grand Release Bundle
+  product_id: com.graffity.leaptrigger.startdash.pack03
+  price: 19.99
+  quantity: 1
+  get_paid_point: 300
+data6:
+  id: 6
+  name: スタートダッシュ限定プレミアセット
+  description: Premier Release Bundle
+  product_id: com.graffity.leaptrigger.startdash.pack04
+  price: 39.99
+  quantity: 1
+  get_paid_point: 1450
+data7:
+  id: 7
+  name: エメラルド１
+  description: 'Gems: 80'
+  product_id: com.graffity.leaptrigger.emerald01
+  price: 0.99
+  quantity: 1
+  get_paid_point: 80
+data8:
+  id: 8
+  name: エメラルド２
+  description: 'Pile of Gems: 500'
+  product_id: com.graffity.leaptrigger.emerald02
+  price: 4.99
+  quantity: 1
+  get_paid_point: 500
+data9:
+  id: 9
+  name: エメラルド３
+  description: 'Box of Gems: 1,200'
+  product_id: com.graffity.leaptrigger.emerald03
+  price: 9.99
+  quantity: 1
+  get_paid_point: 1200
+data10:
+  id: 10
+  name: エメラルド４
+  description: 'Crate of Gems: 2,500'
+  product_id: com.graffity.leaptrigger.emerald04
+  price: 19.99
+  quantity: 1
+  get_paid_point: 2500
+data11:
+  id: 11
+  name: エメラルド５
+  description: 'Gem Trunk: 6,500'
+  product_id: com.graffity.leaptrigger.emerald05
+  price: 49.99
+  quantity: 1
+  get_paid_point: 6500
+data12:
+  id: 12
+  name: エメラルド６
+  description: 'Gem Vault: 14,000'
+  product_id: com.graffity.leaptrigger.emerald06
+  price: 99.99
+  quantity: 1
+  get_paid_point: 14000
+data13:
+  id: 13
+  name: Gem＋Creditパック：小
+  description: Credit & Gem Bundle
+  product_id: com.graffity.leaptrigger.emerald.gold.pack01
+  price: 1.99
+  quantity: 1
+  get_paid_point: 80
+data14:
+  id: 14
+  name: Gem＋Creditパック：中
+  description: Special Credit & Gem Bundle
+  product_id: com.graffity.leaptrigger.emerald.gold.pack02
+  price: 9.99
+  quantity: 1
+  get_paid_point: 750
+data15:
+  id: 15
+  name: Gem＋Creditパック：大
+  description: Grand Credit & Gem Bundle
+  product_id: com.graffity.leaptrigger.emerald.gold.pack03
+  price: 19.99
+  quantity: 1
+  get_paid_point: 1500

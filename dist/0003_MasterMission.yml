@@ -1,0 +1,1460 @@
+data2:
+  id: 2
+  master_mission_group_id: 2
+  master_mission_category_id: 1
+  name: Daily Log In
+  description: ログインする
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 1
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data3:
+  id: 3
+  master_mission_group_id: 3
+  master_mission_category_id: 1
+  name: League Match Played
+  description: リーグマッチ回数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 3
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data4:
+  id: 4
+  master_mission_group_id: 4
+  master_mission_category_id: 1
+  name: League Match Victories
+  description: リーグバトル勝利数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 2
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data5:
+  id: 5
+  master_mission_group_id: 5
+  master_mission_category_id: 1
+  name: Defeated Champions
+  description: プレイヤー撃破数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 3
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data6:
+  id: 6
+  master_mission_group_id: 5
+  master_mission_category_id: 1
+  name: Defeated Champions
+  description: プレイヤー撃破数
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 6
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data7:
+  id: 7
+  master_mission_group_id: 5
+  master_mission_category_id: 1
+  name: Defeated Champions
+  description: プレイヤー撃破数
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 12
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data8:
+  id: 8
+  master_mission_group_id: 6
+  master_mission_category_id: 1
+  name: Summoned Buddies
+  description: モンスター召喚数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data9:
+  id: 9
+  master_mission_group_id: 7
+  master_mission_category_id: 3
+  name: 'Tutorial: Clear All Tutorials'
+  description: チュートリアルミッションを全てクリア
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 8
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data10:
+  id: 10
+  master_mission_group_id: 8
+  master_mission_category_id: 3
+  name: 'Tutorial: Win Tutorial Battle'
+  description: チュートリアルバトルをクリア
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 1
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data11:
+  id: 11
+  master_mission_group_id: 9
+  master_mission_category_id: 3
+  name: 'Tutorial: Power Up a Buddy'
+  description: モンスターのLvをあげる
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 1
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data12:
+  id: 12
+  master_mission_group_id: 10
+  master_mission_category_id: 3
+  name: 'Tutorial: Edit the Deck'
+  description: デッキを編集する
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 1
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data13:
+  id: 13
+  master_mission_group_id: 11
+  master_mission_category_id: 3
+  name: 'Tutorial: Change Champion Skin'
+  description: 武器のスキンを変更する
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 1
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data14:
+  id: 14
+  master_mission_group_id: 12
+  master_mission_category_id: 3
+  name: |-
+    Tutorial: Purchase a 
+    Daily Sale
+  description: ゴールドShopでアイテムを購入する
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 1
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data15:
+  id: 15
+  master_mission_group_id: 13
+  master_mission_category_id: 3
+  name: 'Tutorial: Send a Friend Request'
+  description: フレンド申請を一回行う
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 1
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data16:
+  id: 16
+  master_mission_group_id: 14
+  master_mission_category_id: 3
+  name: 'Tutorial: Make Friends'
+  description: フレンドを1人獲得
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 1
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data17:
+  id: 17
+  master_mission_group_id: 15
+  master_mission_category_id: 3
+  name: |-
+    Tutorial: Play a 
+    Friend Match
+  description: フレンドマッチを行う
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 1
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data18:
+  id: 18
+  master_mission_group_id: 16
+  master_mission_category_id: 2
+  name: Locally Match with 1 New Friend
+  description: ローカルフレンドマッチ人数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 1
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data19:
+  id: 19
+  master_mission_group_id: 16
+  master_mission_category_id: 2
+  name: Locally Match with 5 New Friends
+  description: ローカルフレンドマッチ人数
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data20:
+  id: 20
+  master_mission_group_id: 16
+  master_mission_category_id: 2
+  name: Locally Match with 10 New Friends
+  description: ローカルフレンドマッチ人数
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data21:
+  id: 21
+  master_mission_group_id: 17
+  master_mission_category_id: 2
+  name: Online Match with 1 New Friend
+  description: オンラインフレンドマッチ人数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 1
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data22:
+  id: 22
+  master_mission_group_id: 17
+  master_mission_category_id: 2
+  name: Online Match with 5 New Friends
+  description: オンラインフレンドマッチ人数
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data23:
+  id: 23
+  master_mission_group_id: 17
+  master_mission_category_id: 2
+  name: Online Match with 10 New Friends
+  description: オンラインフレンドマッチ人数
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data24:
+  id: 24
+  master_mission_group_id: 18
+  master_mission_category_id: 2
+  name: 'Total Log In Days '
+  description: トータルのログイン日数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 30
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data25:
+  id: 25
+  master_mission_group_id: 18
+  master_mission_category_id: 2
+  name: 'Total Log In Days '
+  description: トータルのログイン日数
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 180
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data26:
+  id: 26
+  master_mission_group_id: 18
+  master_mission_category_id: 2
+  name: 'Total Log In Days '
+  description: トータルのログイン日数
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 360
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data27:
+  id: 27
+  master_mission_group_id: 19
+  master_mission_category_id: 2
+  name: Log In Streak
+  description: 連続ログイン日数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 7
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data28:
+  id: 28
+  master_mission_group_id: 19
+  master_mission_category_id: 2
+  name: Log In Streak
+  description: 連続ログイン日数
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 14
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data29:
+  id: 29
+  master_mission_group_id: 19
+  master_mission_category_id: 2
+  name: Log In Streak
+  description: 連続ログイン日数
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 30
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data30:
+  id: 30
+  master_mission_group_id: 20
+  master_mission_category_id: 2
+  name: Days Since You Joined
+  description: アカウント作成からの日数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 365
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data31:
+  id: 31
+  master_mission_group_id: 20
+  master_mission_category_id: 2
+  name: Days Since You Joined
+  description: アカウント作成からの日数
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 730
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data32:
+  id: 32
+  master_mission_group_id: 20
+  master_mission_category_id: 2
+  name: Days Since You Joined
+  description: アカウント作成からの日数
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 1095
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data33:
+  id: 33
+  master_mission_group_id: 21
+  master_mission_category_id: 2
+  name: Crates Opened
+  description: 時限式の宝箱開封数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 500
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data34:
+  id: 34
+  master_mission_group_id: 21
+  master_mission_category_id: 2
+  name: Crates Opened
+  description: 時限式の宝箱開封数
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 1000
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data35:
+  id: 35
+  master_mission_group_id: 21
+  master_mission_category_id: 2
+  name: Crates Opened
+  description: 時限式の宝箱開封数
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 1500
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data36:
+  id: 36
+  master_mission_group_id: 22
+  master_mission_category_id: 2
+  name: Collected Buddies
+  description: モンスターの取得数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 1000
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data37:
+  id: 37
+  master_mission_group_id: 22
+  master_mission_category_id: 2
+  name: Collected Buddies
+  description: モンスターの取得数
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 4000
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data38:
+  id: 38
+  master_mission_group_id: 22
+  master_mission_category_id: 2
+  name: Collected Buddies
+  description: モンスターの取得数
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 7500
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data39:
+  id: 39
+  master_mission_group_id: 23
+  master_mission_category_id: 2
+  name: 'Used 250,000 Credits'
+  description: ゴールド消費量
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 250000
+  is_percent: 'TRUE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data40:
+  id: 40
+  master_mission_group_id: 23
+  master_mission_category_id: 2
+  name: 'Used 500,000 Credits'
+  description: ゴールド消費量
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 500000
+  is_percent: 'TRUE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data41:
+  id: 41
+  master_mission_group_id: 23
+  master_mission_category_id: 2
+  name: 'Used 1,000,000 Credits'
+  description: ゴールド消費量
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 1000000
+  is_percent: 'TRUE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data42:
+  id: 42
+  master_mission_group_id: 24
+  master_mission_category_id: 2
+  name: Kinds of Buddies You Have Collected
+  description: 獲得モンスター種類
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data43:
+  id: 43
+  master_mission_group_id: 24
+  master_mission_category_id: 2
+  name: Kinds of Buddies You Have Collected
+  description: 獲得モンスター種類
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 20
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data44:
+  id: 44
+  master_mission_group_id: 24
+  master_mission_category_id: 2
+  name: Kinds of Buddies You Have Collected
+  description: 獲得モンスター種類
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 40
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data45:
+  id: 45
+  master_mission_group_id: 25
+  master_mission_category_id: 2
+  name: Collected Champions
+  description: 獲得武器種類
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 3
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data46:
+  id: 46
+  master_mission_group_id: 25
+  master_mission_category_id: 2
+  name: Collected Champions
+  description: 獲得武器種類
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 6
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data47:
+  id: 47
+  master_mission_group_id: 25
+  master_mission_category_id: 2
+  name: Collected Champions
+  description: 獲得武器種類
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data48:
+  id: 48
+  master_mission_group_id: 26
+  master_mission_category_id: 2
+  name: Collected Champion Skins
+  description: 獲得武器スキン種類
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data49:
+  id: 49
+  master_mission_group_id: 26
+  master_mission_category_id: 2
+  name: Collected Champion Skins
+  description: 獲得武器スキン種類
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data50:
+  id: 50
+  master_mission_group_id: 26
+  master_mission_category_id: 2
+  name: Collected Champion Skins
+  description: 獲得武器スキン種類
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 30
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data51:
+  id: 51
+  master_mission_group_id: 27
+  master_mission_category_id: 2
+  name: Enter League 2
+  description: リーグ到達
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 2
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data52:
+  id: 52
+  master_mission_group_id: 27
+  master_mission_category_id: 2
+  name: Enter League 3
+  description: リーグ到達
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 3
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data53:
+  id: 53
+  master_mission_group_id: 27
+  master_mission_category_id: 2
+  name: Enter League 4
+  description: リーグ到達
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 4
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data54:
+  id: 54
+  master_mission_group_id: 27
+  master_mission_category_id: 2
+  name: Enter League 5
+  description: リーグ到達
+  priority: 4
+  is_condition_require_all: 'FALSE'
+  count: 4
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data55:
+  id: 55
+  master_mission_group_id: 28
+  master_mission_category_id: 2
+  name: Played League Matches
+  description: リーグマッチ回数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 500
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data56:
+  id: 56
+  master_mission_group_id: 28
+  master_mission_category_id: 2
+  name: Played League Matches
+  description: リーグマッチ回数
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 1500
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data57:
+  id: 57
+  master_mission_group_id: 28
+  master_mission_category_id: 2
+  name: Played League Matches
+  description: リーグマッチ回数
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 3000
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data58:
+  id: 58
+  master_mission_group_id: 29
+  master_mission_category_id: 2
+  name: Played Friend Matches
+  description: フレンドマッチ回数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data59:
+  id: 59
+  master_mission_group_id: 29
+  master_mission_category_id: 2
+  name: Played Friend Matches
+  description: フレンドマッチ回数
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 20
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data60:
+  id: 60
+  master_mission_group_id: 29
+  master_mission_category_id: 2
+  name: Played Friend Matches
+  description: フレンドマッチ回数
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 30
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data61:
+  id: 61
+  master_mission_group_id: 30
+  master_mission_category_id: 2
+  name: League Match Victories
+  description: リーグバトル勝利数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data62:
+  id: 62
+  master_mission_group_id: 30
+  master_mission_category_id: 2
+  name: League Match Victories
+  description: リーグバトル勝利数
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 500
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data63:
+  id: 63
+  master_mission_group_id: 30
+  master_mission_category_id: 2
+  name: League Match Victories
+  description: リーグバトル勝利数
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 1500
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data64:
+  id: 64
+  master_mission_group_id: 31
+  master_mission_category_id: 2
+  name: League Match Winning Streak
+  description: リーグバトル連勝数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data65:
+  id: 65
+  master_mission_group_id: 31
+  master_mission_category_id: 2
+  name: League Match Winning Streak
+  description: リーグバトル連勝数
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data66:
+  id: 66
+  master_mission_group_id: 31
+  master_mission_category_id: 2
+  name: League Match Winning Streak
+  description: リーグバトル連勝数
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 30
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data67:
+  id: 67
+  master_mission_group_id: 32
+  master_mission_category_id: 2
+  name: League Match Perfect Wins
+  description: リーグ完勝数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 7
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data68:
+  id: 68
+  master_mission_group_id: 32
+  master_mission_category_id: 2
+  name: League Match Perfect Wins
+  description: リーグ完勝数
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 12
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data69:
+  id: 69
+  master_mission_group_id: 32
+  master_mission_category_id: 2
+  name: League Match Perfect Wins
+  description: リーグ完勝数
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 18
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data70:
+  id: 70
+  master_mission_group_id: 33
+  master_mission_category_id: 2
+  name: Champions Defeated
+  description: プレイヤー撃破数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data71:
+  id: 71
+  master_mission_group_id: 33
+  master_mission_category_id: 2
+  name: Champions Defeated
+  description: プレイヤー撃破数
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 1000
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data72:
+  id: 72
+  master_mission_group_id: 33
+  master_mission_category_id: 2
+  name: Champions Defeated
+  description: プレイヤー撃破数
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 5000
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data73:
+  id: 73
+  master_mission_group_id: 34
+  master_mission_category_id: 2
+  name: Buddies Defeated
+  description: モンスター撃破数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data74:
+  id: 74
+  master_mission_group_id: 34
+  master_mission_category_id: 2
+  name: Buddies Defeated
+  description: モンスター撃破数
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 1000
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data75:
+  id: 75
+  master_mission_group_id: 34
+  master_mission_category_id: 2
+  name: Buddies Defeated
+  description: モンスター撃破数
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 5000
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data76:
+  id: 76
+  master_mission_group_id: 35
+  master_mission_category_id: 2
+  name: Buddies Summoned
+  description: モンスター召喚数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data77:
+  id: 77
+  master_mission_group_id: 35
+  master_mission_category_id: 2
+  name: Buddies Summoned
+  description: モンスター召喚数
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 1500
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data78:
+  id: 78
+  master_mission_group_id: 35
+  master_mission_category_id: 2
+  name: Buddies Summoned
+  description: モンスター召喚数
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 6000
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data79:
+  id: 79
+  master_mission_group_id: 36
+  master_mission_category_id: 2
+  name: Short Run
+  description: バトル移動距離
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 5000
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data80:
+  id: 80
+  master_mission_group_id: 36
+  master_mission_category_id: 2
+  name: Half Marathon
+  description: バトル移動距離
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 20000
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data81:
+  id: 81
+  master_mission_group_id: 36
+  master_mission_category_id: 2
+  name: Full Marathon
+  description: バトル移動距離
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 42195
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data82:
+  id: 82
+  master_mission_group_id: 37
+  master_mission_category_id: 2
+  name: Activate Ultimate
+  description: ULT発動
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 200
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data83:
+  id: 83
+  master_mission_group_id: 37
+  master_mission_category_id: 2
+  name: Activate Ultimate
+  description: ULT発動
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 2000
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data84:
+  id: 84
+  master_mission_group_id: 37
+  master_mission_category_id: 2
+  name: Activate Ultimate
+  description: ULT発動
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 7500
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data85:
+  id: 85
+  master_mission_group_id: 38
+  master_mission_category_id: 2
+  name: Activate Buddy Skill
+  description: モンスタースキル発動
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 200
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data86:
+  id: 86
+  master_mission_group_id: 38
+  master_mission_category_id: 2
+  name: Activate Buddy Skill
+  description: モンスタースキル発動
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 2000
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data87:
+  id: 87
+  master_mission_group_id: 38
+  master_mission_category_id: 2
+  name: Activate Buddy Skill
+  description: モンスタースキル発動
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 7500
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: null
+  start_at: null
+  end_at: null
+data93:
+  id: 93
+  master_mission_group_id: 53
+  master_mission_category_id: 6
+  name: League Match Played
+  description: イベントリーグマッチプレイ回数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 1
+  start_at: null
+  end_at: null
+data94:
+  id: 94
+  master_mission_group_id: 53
+  master_mission_category_id: 6
+  name: League Match Played
+  description: イベントリーグマッチプレイ回数
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 1
+  start_at: null
+  end_at: null
+data95:
+  id: 95
+  master_mission_group_id: 53
+  master_mission_category_id: 6
+  name: League Match Played
+  description: イベントリーグマッチプレイ回数
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 1
+  start_at: null
+  end_at: null
+data96:
+  id: 96
+  master_mission_group_id: 53
+  master_mission_category_id: 6
+  name: League Match Played
+  description: イベントリーグマッチプレイ回数
+  priority: 4
+  is_condition_require_all: 'FALSE'
+  count: 30
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 1
+  start_at: null
+  end_at: null
+data97:
+  id: 97
+  master_mission_group_id: 53
+  master_mission_category_id: 6
+  name: League Match Played
+  description: イベントリーグマッチプレイ回数
+  priority: 5
+  is_condition_require_all: 'FALSE'
+  count: 60
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 1
+  start_at: null
+  end_at: null
+data98:
+  id: 98
+  master_mission_group_id: 54
+  master_mission_category_id: 6
+  name: League Match Perfect Wins
+  description: リーグ完勝数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 3
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 1
+  start_at: null
+  end_at: null
+data99:
+  id: 99
+  master_mission_group_id: 54
+  master_mission_category_id: 6
+  name: League Match Perfect Wins
+  description: リーグ完勝数
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 1
+  start_at: null
+  end_at: null
+data100:
+  id: 100
+  master_mission_group_id: 55
+  master_mission_category_id: 6
+  name: League Match Winning Streak
+  description: リーグバトル連勝数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 1
+  start_at: null
+  end_at: null
+data101:
+  id: 101
+  master_mission_group_id: 56
+  master_mission_category_id: 6
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 1
+  start_at: null
+  end_at: null
+data102:
+  id: 102
+  master_mission_group_id: 56
+  master_mission_category_id: 6
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 30
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 1
+  start_at: null
+  end_at: null
+data103:
+  id: 103
+  master_mission_group_id: 56
+  master_mission_category_id: 6
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 70
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 1
+  start_at: null
+  end_at: null
+data104:
+  id: 104
+  master_mission_group_id: 57
+  master_mission_category_id: 6
+  name: Activate Ultimate
+  description: イベントULT発動回数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 1
+  start_at: null
+  end_at: null
+data105:
+  id: 105
+  master_mission_group_id: 57
+  master_mission_category_id: 6
+  name: Activate Ultimate
+  description: イベントULT発動回数
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 30
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 1
+  start_at: null
+  end_at: null
+data106:
+  id: 106
+  master_mission_group_id: 57
+  master_mission_category_id: 6
+  name: Activate Ultimate
+  description: イベントULT発動回数
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 70
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 1
+  start_at: null
+  end_at: null
+data107:
+  id: 107
+  master_mission_group_id: 58
+  master_mission_category_id: 6
+  name: Moved Distance During the Battle
+  description: バトル移動距離
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 1000
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 1
+  start_at: null
+  end_at: null
+data108:
+  id: 108
+  master_mission_group_id: 59
+  master_mission_category_id: 5
+  name: '[Daily update] Log In'
+  description: イベント_ログイン
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 1
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 2
+  start_at: null
+  end_at: null
+data109:
+  id: 109
+  master_mission_group_id: 60
+  master_mission_category_id: 5
+  name: '[Daily update] League Match Played'
+  description: イベント_リーグマッチ回数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 1
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 2
+  start_at: null
+  end_at: null
+data110:
+  id: 110
+  master_mission_group_id: 61
+  master_mission_category_id: 5
+  name: '[Daily update] League Match Victories'
+  description: イベント_リーグバトル勝利数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 1
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 2
+  start_at: null
+  end_at: null

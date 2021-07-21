@@ -1,0 +1,33 @@
+data2:
+  id: 2
+  name: コモン_攻撃型
+data3:
+  id: 3
+  name: コモン_耐久型
+data4:
+  id: 4
+  name: レア_バランス
+data5:
+  id: 5
+  name: レア_攻撃型
+data6:
+  id: 6
+  name: レア_耐久型
+data7:
+  id: 7
+  name: エピック_バランス
+data8:
+  id: 8
+  name: エピック_攻撃型
+data9:
+  id: 9
+  name: エピック_耐久型
+data10:
+  id: 10
+  name: レジェンダリー_バランス
+data11:
+  id: 11
+  name: レジェンダリー_攻撃型
+data12:
+  id: 12
+  name: レジェンダリー_耐久型

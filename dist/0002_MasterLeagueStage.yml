@@ -1,0 +1,154 @@
+data2:
+  id: 2
+  master_league_id: 1
+  priority: 2
+  stage_rulable_type: SimpleLeagueStage
+  stage_rulable_id: 2
+  is_ghost: 'FALSE'
+data3:
+  id: 3
+  master_league_id: 1
+  priority: 3
+  stage_rulable_type: SimpleLeagueStage
+  stage_rulable_id: 3
+  is_ghost: 'FALSE'
+data4:
+  id: 4
+  master_league_id: 1
+  priority: 4
+  stage_rulable_type: SimpleLeagueStage
+  stage_rulable_id: 4
+  is_ghost: 'FALSE'
+data5:
+  id: 5
+  master_league_id: 1
+  priority: 5
+  stage_rulable_type: AchievementLeagueStage
+  stage_rulable_id: 1
+  is_ghost: 'FALSE'
+data6:
+  id: 6
+  master_league_id: 2
+  priority: 1
+  stage_rulable_type: SimpleLeagueStage
+  stage_rulable_id: 5
+  is_ghost: 'FALSE'
+data7:
+  id: 7
+  master_league_id: 2
+  priority: 2
+  stage_rulable_type: SimpleLeagueStage
+  stage_rulable_id: 6
+  is_ghost: 'FALSE'
+data8:
+  id: 8
+  master_league_id: 2
+  priority: 3
+  stage_rulable_type: SimpleLeagueStage
+  stage_rulable_id: 7
+  is_ghost: 'FALSE'
+data9:
+  id: 9
+  master_league_id: 2
+  priority: 4
+  stage_rulable_type: SimpleLeagueStage
+  stage_rulable_id: 8
+  is_ghost: 'FALSE'
+data10:
+  id: 10
+  master_league_id: 2
+  priority: 5
+  stage_rulable_type: SimpleLeagueStage
+  stage_rulable_id: 9
+  is_ghost: 'FALSE'
+data11:
+  id: 11
+  master_league_id: 2
+  priority: 6
+  stage_rulable_type: SimpleLeagueStage
+  stage_rulable_id: 10
+  is_ghost: 'FALSE'
+data12:
+  id: 12
+  master_league_id: 2
+  priority: 7
+  stage_rulable_type: AchievementLeagueStage
+  stage_rulable_id: 2
+  is_ghost: 'FALSE'
+data13:
+  id: 13
+  master_league_id: 3
+  priority: 1
+  stage_rulable_type: SimpleLeagueStage
+  stage_rulable_id: 11
+  is_ghost: 'FALSE'
+data14:
+  id: 14
+  master_league_id: 3
+  priority: 2
+  stage_rulable_type: SimpleLeagueStage
+  stage_rulable_id: 12
+  is_ghost: 'FALSE'
+data15:
+  id: 15
+  master_league_id: 3
+  priority: 3
+  stage_rulable_type: SimpleLeagueStage
+  stage_rulable_id: 13
+  is_ghost: 'FALSE'
+data16:
+  id: 16
+  master_league_id: 3
+  priority: 4
+  stage_rulable_type: SimpleLeagueStage
+  stage_rulable_id: 14
+  is_ghost: 'FALSE'
+data17:
+  id: 17
+  master_league_id: 3
+  priority: 5
+  stage_rulable_type: SimpleLeagueStage
+  stage_rulable_id: 15
+  is_ghost: 'FALSE'
+data18:
+  id: 18
+  master_league_id: 3
+  priority: 6
+  stage_rulable_type: SimpleLeagueStage
+  stage_rulable_id: 16
+  is_ghost: 'FALSE'
+data19:
+  id: 19
+  master_league_id: 3
+  priority: 7
+  stage_rulable_type: SimpleLeagueStage
+  stage_rulable_id: 17
+  is_ghost: 'FALSE'
+data20:
+  id: 20
+  master_league_id: 3
+  priority: 8
+  stage_rulable_type: SimpleLeagueStage
+  stage_rulable_id: 18
+  is_ghost: 'FALSE'
+data21:
+  id: 21
+  master_league_id: 3
+  priority: 9
+  stage_rulable_type: SimpleLeagueStage
+  stage_rulable_id: 19
+  is_ghost: 'FALSE'
+data22:
+  id: 22
+  master_league_id: 3
+  priority: 10
+  stage_rulable_type: AchievementLeagueStage
+  stage_rulable_id: 3
+  is_ghost: 'FALSE'
+data23:
+  id: 23
+  master_league_id: 4
+  priority: 1
+  stage_rulable_type: AchievementLeagueStage
+  stage_rulable_id: 4
+  is_ghost: 'TRUE'

@@ -1,0 +1,20 @@
+data2:
+  id: 2
+  name: 格下
+  threshold: 1
+  get_point: 28
+data3:
+  id: 3
+  name: 同格：下限
+  threshold: 299
+  get_point: 30
+data4:
+  id: 4
+  name: 同格：上限
+  threshold: 300
+  get_point: 30
+data5:
+  id: 5
+  name: 格上
+  threshold: 9999
+  get_point: 34

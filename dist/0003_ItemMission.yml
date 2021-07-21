@@ -1,0 +1,6538 @@
+data2:
+  id: 2
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterJob
+  itemable_id: 1
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data3:
+  id: 3
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterJob
+  itemable_id: 1
+  priority: 3
+  count: 14
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data4:
+  id: 4
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterJob
+  itemable_id: 1
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data5:
+  id: 5
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterJob
+  itemable_id: 1
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data6:
+  id: 6
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterJob
+  itemable_id: 1
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data7:
+  id: 7
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterJob
+  itemable_id: 1
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data8:
+  id: 8
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterJob
+  itemable_id: 1
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data9:
+  id: 9
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterJob
+  itemable_id: 1
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data10:
+  id: 10
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterJob
+  itemable_id: 1
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data11:
+  id: 11
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterJob
+  itemable_id: 1
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data12:
+  id: 12
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterJob
+  itemable_id: 1
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data19:
+  id: 19
+  master_mission_group_id: 45
+  master_mission_category_id: 4
+  name: Activate Ultimate
+  description: ULT発動数_愛着
+  itemable_type: MasterJob
+  itemable_id: 1
+  priority: 1
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data20:
+  id: 20
+  master_mission_group_id: 45
+  master_mission_category_id: 4
+  name: Activate Ultimate
+  description: ULT発動数_愛着
+  itemable_type: MasterJob
+  itemable_id: 1
+  priority: 2
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data21:
+  id: 21
+  master_mission_group_id: 45
+  master_mission_category_id: 4
+  name: Activate Ultimate
+  description: ULT発動数_愛着
+  itemable_type: MasterJob
+  itemable_id: 1
+  priority: 3
+  count: 200
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data22:
+  id: 22
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterJob
+  itemable_id: 2
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data23:
+  id: 23
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterJob
+  itemable_id: 2
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data24:
+  id: 24
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterJob
+  itemable_id: 2
+  priority: 3
+  count: 14
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data25:
+  id: 25
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterJob
+  itemable_id: 2
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data26:
+  id: 26
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterJob
+  itemable_id: 2
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data27:
+  id: 27
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterJob
+  itemable_id: 2
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data28:
+  id: 28
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterJob
+  itemable_id: 2
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data29:
+  id: 29
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterJob
+  itemable_id: 2
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data30:
+  id: 30
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterJob
+  itemable_id: 2
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data31:
+  id: 31
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterJob
+  itemable_id: 2
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data32:
+  id: 32
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterJob
+  itemable_id: 2
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data33:
+  id: 33
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterJob
+  itemable_id: 2
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data40:
+  id: 40
+  master_mission_group_id: 45
+  master_mission_category_id: 4
+  name: Activate Ultimate
+  description: ULT発動数_愛着
+  itemable_type: MasterJob
+  itemable_id: 2
+  priority: 1
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data41:
+  id: 41
+  master_mission_group_id: 45
+  master_mission_category_id: 4
+  name: Activate Ultimate
+  description: ULT発動数_愛着
+  itemable_type: MasterJob
+  itemable_id: 2
+  priority: 2
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data42:
+  id: 42
+  master_mission_group_id: 45
+  master_mission_category_id: 4
+  name: Activate Ultimate
+  description: ULT発動数_愛着
+  itemable_type: MasterJob
+  itemable_id: 2
+  priority: 3
+  count: 200
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data43:
+  id: 43
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterJob
+  itemable_id: 3
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data44:
+  id: 44
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterJob
+  itemable_id: 3
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data45:
+  id: 45
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterJob
+  itemable_id: 3
+  priority: 3
+  count: 14
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data46:
+  id: 46
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterJob
+  itemable_id: 3
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data47:
+  id: 47
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterJob
+  itemable_id: 3
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data48:
+  id: 48
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterJob
+  itemable_id: 3
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data49:
+  id: 49
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterJob
+  itemable_id: 3
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data50:
+  id: 50
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterJob
+  itemable_id: 3
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data51:
+  id: 51
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterJob
+  itemable_id: 3
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data52:
+  id: 52
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterJob
+  itemable_id: 3
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data53:
+  id: 53
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterJob
+  itemable_id: 3
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data54:
+  id: 54
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterJob
+  itemable_id: 3
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data61:
+  id: 61
+  master_mission_group_id: 45
+  master_mission_category_id: 4
+  name: Activate Ultimate
+  description: ULT発動数_愛着
+  itemable_type: MasterJob
+  itemable_id: 3
+  priority: 1
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data62:
+  id: 62
+  master_mission_group_id: 45
+  master_mission_category_id: 4
+  name: Activate Ultimate
+  description: ULT発動数_愛着
+  itemable_type: MasterJob
+  itemable_id: 3
+  priority: 2
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data63:
+  id: 63
+  master_mission_group_id: 45
+  master_mission_category_id: 4
+  name: Activate Ultimate
+  description: ULT発動数_愛着
+  itemable_type: MasterJob
+  itemable_id: 3
+  priority: 3
+  count: 200
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data64:
+  id: 64
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterJob
+  itemable_id: 4
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data65:
+  id: 65
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterJob
+  itemable_id: 4
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data66:
+  id: 66
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterJob
+  itemable_id: 4
+  priority: 3
+  count: 14
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data67:
+  id: 67
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterJob
+  itemable_id: 4
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data68:
+  id: 68
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterJob
+  itemable_id: 4
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data69:
+  id: 69
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterJob
+  itemable_id: 4
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data70:
+  id: 70
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterJob
+  itemable_id: 4
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data71:
+  id: 71
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterJob
+  itemable_id: 4
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data72:
+  id: 72
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterJob
+  itemable_id: 4
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data73:
+  id: 73
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterJob
+  itemable_id: 4
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data74:
+  id: 74
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterJob
+  itemable_id: 4
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data75:
+  id: 75
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterJob
+  itemable_id: 4
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data82:
+  id: 82
+  master_mission_group_id: 45
+  master_mission_category_id: 4
+  name: Activate Ultimate
+  description: ULT発動数_愛着
+  itemable_type: MasterJob
+  itemable_id: 4
+  priority: 1
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data83:
+  id: 83
+  master_mission_group_id: 45
+  master_mission_category_id: 4
+  name: Activate Ultimate
+  description: ULT発動数_愛着
+  itemable_type: MasterJob
+  itemable_id: 4
+  priority: 2
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data84:
+  id: 84
+  master_mission_group_id: 45
+  master_mission_category_id: 4
+  name: Activate Ultimate
+  description: ULT発動数_愛着
+  itemable_type: MasterJob
+  itemable_id: 4
+  priority: 3
+  count: 200
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data85:
+  id: 85
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterJob
+  itemable_id: 5
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data86:
+  id: 86
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterJob
+  itemable_id: 5
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data87:
+  id: 87
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterJob
+  itemable_id: 5
+  priority: 3
+  count: 14
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data88:
+  id: 88
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterJob
+  itemable_id: 5
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data89:
+  id: 89
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterJob
+  itemable_id: 5
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data90:
+  id: 90
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterJob
+  itemable_id: 5
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data91:
+  id: 91
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterJob
+  itemable_id: 5
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data92:
+  id: 92
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterJob
+  itemable_id: 5
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data93:
+  id: 93
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterJob
+  itemable_id: 5
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data94:
+  id: 94
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterJob
+  itemable_id: 5
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data95:
+  id: 95
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterJob
+  itemable_id: 5
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data96:
+  id: 96
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterJob
+  itemable_id: 5
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data103:
+  id: 103
+  master_mission_group_id: 45
+  master_mission_category_id: 4
+  name: Activate Ultimate
+  description: ULT発動数_愛着
+  itemable_type: MasterJob
+  itemable_id: 5
+  priority: 1
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data104:
+  id: 104
+  master_mission_group_id: 45
+  master_mission_category_id: 4
+  name: Activate Ultimate
+  description: ULT発動数_愛着
+  itemable_type: MasterJob
+  itemable_id: 5
+  priority: 2
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data105:
+  id: 105
+  master_mission_group_id: 45
+  master_mission_category_id: 4
+  name: Activate Ultimate
+  description: ULT発動数_愛着
+  itemable_type: MasterJob
+  itemable_id: 5
+  priority: 3
+  count: 200
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data106:
+  id: 106
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterJob
+  itemable_id: 6
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data107:
+  id: 107
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterJob
+  itemable_id: 6
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data108:
+  id: 108
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterJob
+  itemable_id: 6
+  priority: 3
+  count: 14
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data109:
+  id: 109
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterJob
+  itemable_id: 6
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data110:
+  id: 110
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterJob
+  itemable_id: 6
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data111:
+  id: 111
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterJob
+  itemable_id: 6
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data112:
+  id: 112
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterJob
+  itemable_id: 6
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data113:
+  id: 113
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterJob
+  itemable_id: 6
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data114:
+  id: 114
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterJob
+  itemable_id: 6
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data115:
+  id: 115
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterJob
+  itemable_id: 6
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data116:
+  id: 116
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterJob
+  itemable_id: 6
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data117:
+  id: 117
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterJob
+  itemable_id: 6
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data124:
+  id: 124
+  master_mission_group_id: 45
+  master_mission_category_id: 4
+  name: Activate Ultimate
+  description: ULT発動数_愛着
+  itemable_type: MasterJob
+  itemable_id: 6
+  priority: 1
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data125:
+  id: 125
+  master_mission_group_id: 45
+  master_mission_category_id: 4
+  name: Activate Ultimate
+  description: ULT発動数_愛着
+  itemable_type: MasterJob
+  itemable_id: 6
+  priority: 2
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data126:
+  id: 126
+  master_mission_group_id: 45
+  master_mission_category_id: 4
+  name: Activate Ultimate
+  description: ULT発動数_愛着
+  itemable_type: MasterJob
+  itemable_id: 6
+  priority: 3
+  count: 200
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data127:
+  id: 127
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 1
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data128:
+  id: 128
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 1
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data129:
+  id: 129
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 1
+  priority: 3
+  count: 17
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data130:
+  id: 130
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 1
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data131:
+  id: 131
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 1
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data132:
+  id: 132
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 1
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data133:
+  id: 133
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 1
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data134:
+  id: 134
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 1
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data135:
+  id: 135
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 1
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data136:
+  id: 136
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 1
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data137:
+  id: 137
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 1
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data138:
+  id: 138
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 1
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data145:
+  id: 145
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 1
+  priority: 1
+  count: 25
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data146:
+  id: 146
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 1
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data147:
+  id: 147
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 1
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data148:
+  id: 148
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 1
+  priority: 1
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data149:
+  id: 149
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 1
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data150:
+  id: 150
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 1
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data151:
+  id: 151
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 8
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data152:
+  id: 152
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 8
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data153:
+  id: 153
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 8
+  priority: 3
+  count: 17
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data154:
+  id: 154
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 8
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data155:
+  id: 155
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 8
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data156:
+  id: 156
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 8
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data157:
+  id: 157
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 8
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data158:
+  id: 158
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 8
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data159:
+  id: 159
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 8
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data160:
+  id: 160
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 8
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data161:
+  id: 161
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 8
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data162:
+  id: 162
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 8
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data169:
+  id: 169
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 8
+  priority: 1
+  count: 25
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data170:
+  id: 170
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 8
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data171:
+  id: 171
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 8
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data172:
+  id: 172
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 8
+  priority: 1
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data173:
+  id: 173
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 8
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data174:
+  id: 174
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 8
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data175:
+  id: 175
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 11
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data176:
+  id: 176
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 11
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data177:
+  id: 177
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 11
+  priority: 3
+  count: 17
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data178:
+  id: 178
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 11
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data179:
+  id: 179
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 11
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data180:
+  id: 180
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 11
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data181:
+  id: 181
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 11
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data182:
+  id: 182
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 11
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data183:
+  id: 183
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 11
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data184:
+  id: 184
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 11
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data185:
+  id: 185
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 11
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data186:
+  id: 186
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 11
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data193:
+  id: 193
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 11
+  priority: 1
+  count: 25
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data194:
+  id: 194
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 11
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data195:
+  id: 195
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 11
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data196:
+  id: 196
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 11
+  priority: 1
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data197:
+  id: 197
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 11
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data198:
+  id: 198
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 11
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data199:
+  id: 199
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 6
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data200:
+  id: 200
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 6
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data201:
+  id: 201
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 6
+  priority: 3
+  count: 17
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data202:
+  id: 202
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 6
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data203:
+  id: 203
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 6
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data204:
+  id: 204
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 6
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data205:
+  id: 205
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 6
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data206:
+  id: 206
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 6
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data207:
+  id: 207
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 6
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data208:
+  id: 208
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 6
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data209:
+  id: 209
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 6
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data210:
+  id: 210
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 6
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data217:
+  id: 217
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 6
+  priority: 1
+  count: 25
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data218:
+  id: 218
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 6
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data219:
+  id: 219
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 6
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data220:
+  id: 220
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 6
+  priority: 1
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data221:
+  id: 221
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 6
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data222:
+  id: 222
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 6
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data223:
+  id: 223
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 3
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data224:
+  id: 224
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 3
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data225:
+  id: 225
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 3
+  priority: 3
+  count: 17
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data226:
+  id: 226
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 3
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data227:
+  id: 227
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 3
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data228:
+  id: 228
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 3
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data229:
+  id: 229
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 3
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data230:
+  id: 230
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 3
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data231:
+  id: 231
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 3
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data232:
+  id: 232
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 3
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data233:
+  id: 233
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 3
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data234:
+  id: 234
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 3
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data241:
+  id: 241
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 3
+  priority: 1
+  count: 25
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data242:
+  id: 242
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 3
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data243:
+  id: 243
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 3
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data244:
+  id: 244
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 3
+  priority: 1
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data245:
+  id: 245
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 3
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data246:
+  id: 246
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 3
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data247:
+  id: 247
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 14
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data248:
+  id: 248
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 14
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data249:
+  id: 249
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 14
+  priority: 3
+  count: 17
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data250:
+  id: 250
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 14
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data251:
+  id: 251
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 14
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data252:
+  id: 252
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 14
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data253:
+  id: 253
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 14
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data254:
+  id: 254
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 14
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data255:
+  id: 255
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 14
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data256:
+  id: 256
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 14
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data257:
+  id: 257
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 14
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data258:
+  id: 258
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 14
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data265:
+  id: 265
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 14
+  priority: 1
+  count: 25
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data266:
+  id: 266
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 14
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data267:
+  id: 267
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 14
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data268:
+  id: 268
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 14
+  priority: 1
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data269:
+  id: 269
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 14
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data270:
+  id: 270
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 14
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data271:
+  id: 271
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 7
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data272:
+  id: 272
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 7
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data273:
+  id: 273
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 7
+  priority: 3
+  count: 17
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data274:
+  id: 274
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 7
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data275:
+  id: 275
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 7
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data276:
+  id: 276
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 7
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data277:
+  id: 277
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 7
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data278:
+  id: 278
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 7
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data279:
+  id: 279
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 7
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data280:
+  id: 280
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 7
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data281:
+  id: 281
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 7
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data282:
+  id: 282
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 7
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data289:
+  id: 289
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 7
+  priority: 1
+  count: 25
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data290:
+  id: 290
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 7
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data291:
+  id: 291
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 7
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data292:
+  id: 292
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 7
+  priority: 1
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data293:
+  id: 293
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 7
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data294:
+  id: 294
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 7
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data295:
+  id: 295
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 19
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data296:
+  id: 296
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 19
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data297:
+  id: 297
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 19
+  priority: 3
+  count: 17
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data298:
+  id: 298
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 19
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data299:
+  id: 299
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 19
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data300:
+  id: 300
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 19
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data301:
+  id: 301
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 19
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data302:
+  id: 302
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 19
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data303:
+  id: 303
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 19
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data304:
+  id: 304
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 19
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data305:
+  id: 305
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 19
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data306:
+  id: 306
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 19
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data313:
+  id: 313
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 19
+  priority: 1
+  count: 25
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data314:
+  id: 314
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 19
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data315:
+  id: 315
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 19
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data316:
+  id: 316
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 19
+  priority: 1
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data317:
+  id: 317
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 19
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data318:
+  id: 318
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 19
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data319:
+  id: 319
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 17
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data320:
+  id: 320
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 17
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data321:
+  id: 321
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 17
+  priority: 3
+  count: 17
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data322:
+  id: 322
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 17
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data323:
+  id: 323
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 17
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data324:
+  id: 324
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 17
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data325:
+  id: 325
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 17
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data326:
+  id: 326
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 17
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data327:
+  id: 327
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 17
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data328:
+  id: 328
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 17
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data329:
+  id: 329
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 17
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data330:
+  id: 330
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 17
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data337:
+  id: 337
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddies Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 17
+  priority: 1
+  count: 25
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data338:
+  id: 338
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddies Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 17
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data339:
+  id: 339
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddies Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 17
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data340:
+  id: 340
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 17
+  priority: 1
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data341:
+  id: 341
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 17
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data342:
+  id: 342
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 17
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data343:
+  id: 343
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 10
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data344:
+  id: 344
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 10
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data345:
+  id: 345
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 10
+  priority: 3
+  count: 17
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data346:
+  id: 346
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 10
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data347:
+  id: 347
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 10
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data348:
+  id: 348
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 10
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data349:
+  id: 349
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 10
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data350:
+  id: 350
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 10
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data351:
+  id: 351
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 10
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data352:
+  id: 352
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 10
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data353:
+  id: 353
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 10
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data354:
+  id: 354
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 10
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data361:
+  id: 361
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 10
+  priority: 1
+  count: 25
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data362:
+  id: 362
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 10
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data363:
+  id: 363
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 10
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data364:
+  id: 364
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 10
+  priority: 1
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data365:
+  id: 365
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 10
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data366:
+  id: 366
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 10
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data367:
+  id: 367
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 21
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data368:
+  id: 368
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 21
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data369:
+  id: 369
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 21
+  priority: 3
+  count: 17
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data370:
+  id: 370
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 21
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data371:
+  id: 371
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 21
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data372:
+  id: 372
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 21
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data373:
+  id: 373
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 21
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data374:
+  id: 374
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 21
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data375:
+  id: 375
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 21
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data376:
+  id: 376
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 21
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data377:
+  id: 377
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 21
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data378:
+  id: 378
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 21
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data385:
+  id: 385
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 21
+  priority: 1
+  count: 25
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data386:
+  id: 386
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 21
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data387:
+  id: 387
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 21
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data388:
+  id: 388
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 21
+  priority: 1
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data389:
+  id: 389
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 21
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data390:
+  id: 390
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 21
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data391:
+  id: 391
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 4
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data392:
+  id: 392
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 4
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data393:
+  id: 393
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 4
+  priority: 3
+  count: 17
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data394:
+  id: 394
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 4
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data395:
+  id: 395
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 4
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data396:
+  id: 396
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 4
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data397:
+  id: 397
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 4
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data398:
+  id: 398
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 4
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data399:
+  id: 399
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 4
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data400:
+  id: 400
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 4
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data401:
+  id: 401
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 4
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data402:
+  id: 402
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 4
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data409:
+  id: 409
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 4
+  priority: 1
+  count: 25
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data410:
+  id: 410
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 4
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data411:
+  id: 411
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 4
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data412:
+  id: 412
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 4
+  priority: 1
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data413:
+  id: 413
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 4
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data414:
+  id: 414
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 4
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data415:
+  id: 415
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 16
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data416:
+  id: 416
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 16
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data417:
+  id: 417
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 16
+  priority: 3
+  count: 17
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data418:
+  id: 418
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 16
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data419:
+  id: 419
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 16
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data420:
+  id: 420
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 16
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data421:
+  id: 421
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 16
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data422:
+  id: 422
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 16
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data423:
+  id: 423
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 16
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data424:
+  id: 424
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 16
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data425:
+  id: 425
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 16
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data426:
+  id: 426
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 16
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data433:
+  id: 433
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 16
+  priority: 1
+  count: 25
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data434:
+  id: 434
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 16
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data435:
+  id: 435
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 16
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data436:
+  id: 436
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 16
+  priority: 1
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data437:
+  id: 437
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 16
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data438:
+  id: 438
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 16
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data439:
+  id: 439
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 5
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data440:
+  id: 440
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 5
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data441:
+  id: 441
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 5
+  priority: 3
+  count: 17
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data442:
+  id: 442
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 5
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data443:
+  id: 443
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 5
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data444:
+  id: 444
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 5
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data445:
+  id: 445
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 5
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data446:
+  id: 446
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 5
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data447:
+  id: 447
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 5
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data448:
+  id: 448
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 5
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data449:
+  id: 449
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 5
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data450:
+  id: 450
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 5
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data457:
+  id: 457
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 5
+  priority: 1
+  count: 25
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data458:
+  id: 458
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 5
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data459:
+  id: 459
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 5
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data460:
+  id: 460
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 5
+  priority: 1
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data461:
+  id: 461
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 5
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data462:
+  id: 462
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 5
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data463:
+  id: 463
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 15
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data464:
+  id: 464
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 15
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data465:
+  id: 465
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 15
+  priority: 3
+  count: 17
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data466:
+  id: 466
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 15
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data467:
+  id: 467
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 15
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data468:
+  id: 468
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 15
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data469:
+  id: 469
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 15
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data470:
+  id: 470
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 15
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data471:
+  id: 471
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 15
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data472:
+  id: 472
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 15
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data473:
+  id: 473
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 15
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data474:
+  id: 474
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 15
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data481:
+  id: 481
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 15
+  priority: 1
+  count: 25
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data482:
+  id: 482
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 15
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data483:
+  id: 483
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 15
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data484:
+  id: 484
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 15
+  priority: 1
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data485:
+  id: 485
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 15
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data486:
+  id: 486
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 15
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data487:
+  id: 487
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 2
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data488:
+  id: 488
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 2
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data489:
+  id: 489
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 2
+  priority: 3
+  count: 17
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data490:
+  id: 490
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 2
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data491:
+  id: 491
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 2
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data492:
+  id: 492
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 2
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data493:
+  id: 493
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 2
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data494:
+  id: 494
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 2
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data495:
+  id: 495
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 2
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data496:
+  id: 496
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 2
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data497:
+  id: 497
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 2
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data498:
+  id: 498
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 2
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data505:
+  id: 505
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 2
+  priority: 1
+  count: 25
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data506:
+  id: 506
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 2
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data507:
+  id: 507
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 2
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data508:
+  id: 508
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 2
+  priority: 1
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data509:
+  id: 509
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 2
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data510:
+  id: 510
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 2
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data511:
+  id: 511
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 13
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data512:
+  id: 512
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 13
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data513:
+  id: 513
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 13
+  priority: 3
+  count: 17
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data514:
+  id: 514
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 13
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data515:
+  id: 515
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 13
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data516:
+  id: 516
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 13
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data517:
+  id: 517
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 13
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data518:
+  id: 518
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 13
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data519:
+  id: 519
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 13
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data520:
+  id: 520
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 13
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data521:
+  id: 521
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 13
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data522:
+  id: 522
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 13
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data529:
+  id: 529
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 13
+  priority: 1
+  count: 25
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data530:
+  id: 530
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 13
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data531:
+  id: 531
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 13
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data532:
+  id: 532
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 13
+  priority: 1
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data533:
+  id: 533
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 13
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data534:
+  id: 534
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 13
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data535:
+  id: 535
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 18
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data536:
+  id: 536
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 18
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data537:
+  id: 537
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 18
+  priority: 3
+  count: 17
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data538:
+  id: 538
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 18
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data539:
+  id: 539
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 18
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data540:
+  id: 540
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 18
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data541:
+  id: 541
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 18
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data542:
+  id: 542
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 18
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data543:
+  id: 543
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 18
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data544:
+  id: 544
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 18
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data545:
+  id: 545
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 18
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data546:
+  id: 546
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 18
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data553:
+  id: 553
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 18
+  priority: 1
+  count: 25
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data554:
+  id: 554
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 18
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data555:
+  id: 555
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 18
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data556:
+  id: 556
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 18
+  priority: 1
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data557:
+  id: 557
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 18
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data558:
+  id: 558
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 18
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data559:
+  id: 559
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 12
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data560:
+  id: 560
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 12
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data561:
+  id: 561
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 12
+  priority: 3
+  count: 17
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data562:
+  id: 562
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 12
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data563:
+  id: 563
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 12
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data564:
+  id: 564
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 12
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data565:
+  id: 565
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 12
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data566:
+  id: 566
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 12
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data567:
+  id: 567
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 12
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data568:
+  id: 568
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 12
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data569:
+  id: 569
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 12
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data570:
+  id: 570
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 12
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data577:
+  id: 577
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 12
+  priority: 1
+  count: 25
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data578:
+  id: 578
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 12
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data579:
+  id: 579
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 12
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data580:
+  id: 580
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 12
+  priority: 1
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data581:
+  id: 581
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 12
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data582:
+  id: 582
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 12
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data583:
+  id: 583
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 20
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data584:
+  id: 584
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 20
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data585:
+  id: 585
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 20
+  priority: 3
+  count: 17
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data586:
+  id: 586
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 20
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data587:
+  id: 587
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 20
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data588:
+  id: 588
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 20
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data589:
+  id: 589
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 20
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data590:
+  id: 590
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 20
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data591:
+  id: 591
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 20
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data592:
+  id: 592
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 20
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data593:
+  id: 593
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 20
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data594:
+  id: 594
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 20
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data601:
+  id: 601
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 20
+  priority: 1
+  count: 25
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data602:
+  id: 602
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 20
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data603:
+  id: 603
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 20
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data604:
+  id: 604
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 20
+  priority: 1
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data605:
+  id: 605
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 20
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data606:
+  id: 606
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 20
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data607:
+  id: 607
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 9
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data608:
+  id: 608
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 9
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data609:
+  id: 609
+  master_mission_group_id: 39
+  master_mission_category_id: 4
+  name: Cleared Mastery
+  description: 愛着ミッションクリア数
+  itemable_type: MasterMonster
+  itemable_id: 9
+  priority: 3
+  count: 17
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data610:
+  id: 610
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 9
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data611:
+  id: 611
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 9
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data612:
+  id: 612
+  master_mission_group_id: 40
+  master_mission_category_id: 4
+  name: Played League Matches
+  description: リーグバトル数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 9
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data613:
+  id: 613
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 9
+  priority: 1
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data614:
+  id: 614
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 9
+  priority: 2
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data615:
+  id: 615
+  master_mission_group_id: 41
+  master_mission_category_id: 4
+  name: League Match Victories
+  description: リーグバトル勝利数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 9
+  priority: 3
+  count: 100
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data616:
+  id: 616
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 9
+  priority: 1
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data617:
+  id: 617
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 9
+  priority: 2
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data618:
+  id: 618
+  master_mission_group_id: 42
+  master_mission_category_id: 4
+  name: League Match Perfect Wins
+  description: リーグバトル完勝数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 9
+  priority: 3
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data625:
+  id: 625
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 9
+  priority: 1
+  count: 25
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data626:
+  id: 626
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 9
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data627:
+  id: 627
+  master_mission_group_id: 46
+  master_mission_category_id: 4
+  name: Buddy Summoned
+  description: モンスター召喚数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 9
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data628:
+  id: 628
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 9
+  priority: 1
+  count: 50
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data629:
+  id: 629
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 9
+  priority: 2
+  count: 75
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null
+data630:
+  id: 630
+  master_mission_group_id: 47
+  master_mission_category_id: 4
+  name: Activate Buddy Skill
+  description: モンスタースキル発動数_愛着
+  itemable_type: MasterMonster
+  itemable_id: 9
+  priority: 3
+  count: 150
+  is_percent: 'FALSE'
+  league_num: null
+  start_at: null
+  end_at: null

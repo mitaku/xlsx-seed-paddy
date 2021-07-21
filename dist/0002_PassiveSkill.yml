@@ -1,0 +1,10 @@
+data2:
+  id: 2
+  role_id: Attacker
+  type: 2
+  description: Attackerの基本パッシブ
+data3:
+  id: 3
+  role_id: Forcer
+  type: 3
+  description: Forcerの基本パッシブ

@@ -1,0 +1,49 @@
+data2:
+  id: 2
+  treasure_box_group_id: 2
+  battle_mode: online_match
+  master_league_id: 2
+  drop_rate: 1
+  event_id: null
+data3:
+  id: 3
+  treasure_box_group_id: 3
+  battle_mode: online_match
+  master_league_id: 3
+  drop_rate: 1
+  event_id: null
+data4:
+  id: 4
+  treasure_box_group_id: 4
+  battle_mode: online_match
+  master_league_id: 4
+  drop_rate: 1
+  event_id: null
+data5:
+  id: 5
+  treasure_box_group_id: 5
+  battle_mode: online_match
+  master_league_id: 5
+  drop_rate: 1
+  event_id: null
+data6:
+  id: 6
+  treasure_box_group_id: 11
+  battle_mode: online_match
+  master_league_id: 1
+  drop_rate: 1
+  event_id: 1
+data7:
+  id: 7
+  treasure_box_group_id: 12
+  battle_mode: online_match
+  master_league_id: 2
+  drop_rate: 1
+  event_id: 1
+data8:
+  id: 8
+  treasure_box_group_id: 13
+  battle_mode: online_match
+  master_league_id: 3
+  drop_rate: 1
+  event_id: 1

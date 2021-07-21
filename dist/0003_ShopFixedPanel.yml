@@ -1,0 +1,51 @@
+data2:
+  id: 2
+  label: StartDashSalePanel
+data3:
+  id: 3
+  label: PremierStartDashSalePanel
+data4:
+  id: 4
+  label: Gem
+data5:
+  id: 5
+  label: Credit
+data6:
+  id: 6
+  label: Champion Token
+data7:
+  id: 7
+  label: Skin Ticket
+data8:
+  id: 8
+  label: Crate
+data9:
+  id: 9
+  label: ChampionSkinBundlePanel
+data10:
+  id: 10
+  label: RankUpBundlePanel5-40
+data11:
+  id: 11
+  label: RankUpBundlePanel50-100
+data12:
+  id: 12
+  label: CrateChampionBundlePanel
+data13:
+  id: 13
+  label: GrowthBundlePanel
+data14:
+  id: 14
+  label: PremierBundlePanel
+data15:
+  id: 15
+  label: Champion
+data17:
+  id: 17
+  label: Reward Shop
+data18:
+  id: 18
+  label: Reward Shop
+data19:
+  id: 19
+  label: Credit & Gem Bundle

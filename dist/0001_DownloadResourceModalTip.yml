@@ -1,0 +1,123 @@
+data2:
+  id: 2
+  title: What's an Striker?
+  body: >-
+    An Striker is an aggressive role. They can penetrate the armor that
+    defenders have and deal damage, so aim aggressively if you are using an
+    Striker.
+  header_text: Role
+  footer_text: Striker
+  image: TipsImage_2
+data3:
+  id: 3
+  title: What's a Defender?
+  body: >-
+    The Defender has armor that reduces a certain amount of damage. While you
+    have an armor, you won't be subject to the jamming effects of Jammer
+    attacks.
+  header_text: Role
+  footer_text: Defender
+  image: TipsImage_3
+data4:
+  id: 4
+  title: What's a Jammer?
+  body: >-
+    Opponents damaged by the Jammer's attacks will be unable to attack for a
+    certain amount of time, and if the opponent is a Monster, they can be blown
+    away. 
+  header_text: Role
+  footer_text: Jammer
+  image: TipsImage_4
+data5:
+  id: 5
+  title: Buddy Instructions
+  body: >-
+    You can give instructions to your summoned Buddies in a number of ways.
+    Cooperation with your Buddy through optimal instructions is the key to
+    victory!
+  header_text: Bud
+  footer_text: dies
+  image: TipsImage_5
+data6:
+  id: 6
+  title: Target
+  body: >-
+    You can instruct your summoned Buddy to go after either the opposing
+    Champion or their Buddy.
+  header_text: Target
+  footer_text: Order
+  image: TipsImage_6
+data7:
+  id: 7
+  title: Charge
+  body: >-
+    When you tell your Buddy to charge, they'll act to close the distance
+    between them and their target.
+  header_text: Charge
+  footer_text: Order
+  image: TipsImage_7
+data8:
+  id: 8
+  title: Follow
+  body: >-
+    If you tell your Buddy to follow you, they'll act as if they're following
+    you from a certain distance.
+  header_text: Follow
+  footer_text: Order
+  image: TipsImage_8
+data9:
+  id: 9
+  title: Stay
+  body: |-
+    If you tell your Buddy to stay, they'll stay in place and act accordingly.
+    Control your Buddy's position well and use their skills effectively.
+  header_text: Stay
+  footer_text: Order
+  image: TipsImage_9
+data10:
+  id: 10
+  title: What's a Boost Time?
+  body: >-
+    When the match time is running low, Boost Time will begin. You'll be able to
+    complete your normal attacks faster and Monster summoning time charges
+    faster.
+  header_text: Boost
+  footer_text: Time
+  image: TipsImage_10
+data11:
+  id: 11
+  title: Avoid Playing in Dangerous Places
+  body: >-
+    Leap Trigger is a game you play by moving around in the real world, so
+    please do not play it in public places as it is dangerous. Remember to be
+    alert at all times.
+  header_text: Play
+  footer_text: Safely
+  image: TipsImage_11
+data12:
+  id: 12
+  title: Avoid Playing in Dangerous Places
+  body: >-
+    Please note that the game will not work properly when you are in a vehicle
+    such as a car or a train.
+  header_text: Play
+  footer_text: Safely
+  image: TipsImage_12
+data13:
+  id: 13
+  title: What are Crates?
+  body: >-
+    Crates, which are available as rewards from fighting in the League Battles,
+    will drop more Buddies as you move up in leagues.
+  header_text: Crate
+  footer_text: Reward
+  image: TipsImage_13
+data14:
+  id: 14
+  title: What's a Mastery Challenge?
+  body: |-
+    Every Champion and Buddy has an individual Mastery Challenge.
+    Use your favorite Champions and Buddies to achieve Mastery.
+  header_text: Mastery
+  footer_text: Challenge
+  image: TipsImage_14

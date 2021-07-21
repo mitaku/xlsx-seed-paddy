@@ -1,0 +1,240 @@
+data2:
+  id: 2
+  group_id: 1
+  priority: 1
+  weight: 0.07
+  name: Leader Crate
+  description: Leader Crate
+  image: null
+  player_rank_border: 1
+  price: 0
+  quantity: 1
+  purchase_resource_type: gold
+  stock: 1
+  start_at: null
+  end_at: null
+data3:
+  id: 3
+  group_id: 1
+  priority: 1
+  weight: 0.29
+  name: 'Credits: 300'
+  description: 300 Credits
+  image: null
+  player_rank_border: 1
+  price: 0
+  quantity: 1
+  purchase_resource_type: gold
+  stock: 1
+  start_at: null
+  end_at: null
+data4:
+  id: 4
+  group_id: 1
+  priority: 1
+  weight: 0.07
+  name: 'Gems: 10'
+  description: 10 Gems
+  image: null
+  player_rank_border: 1
+  price: 0
+  quantity: 1
+  purchase_resource_type: gold
+  stock: 1
+  start_at: null
+  end_at: null
+data5:
+  id: 5
+  group_id: 1
+  priority: 1
+  weight: 0.07
+  name: 'Champion Token: 3'
+  description: 3 Champion Tokens
+  image: null
+  player_rank_border: 1
+  price: 0
+  quantity: 1
+  purchase_resource_type: gold
+  stock: 1
+  start_at: null
+  end_at: null
+data6:
+  id: 6
+  group_id: 1
+  priority: 1
+  weight: 0.07
+  name: 'Skin Tickets: 8'
+  description: 8 Skin Tickets
+  image: null
+  player_rank_border: 1
+  price: 0
+  quantity: 1
+  purchase_resource_type: gold
+  stock: 1
+  start_at: null
+  end_at: null
+data7:
+  id: 7
+  group_id: 1
+  priority: 1
+  weight: 0.21
+  name: Common
+  description: 10 Common Buddies
+  image: null
+  player_rank_border: 1
+  price: 0
+  quantity: 10
+  purchase_resource_type: gold
+  stock: 1
+  start_at: null
+  end_at: null
+data8:
+  id: 8
+  group_id: 1
+  priority: 2
+  weight: 0.6
+  name: Common
+  description: 15 Common Buddies
+  image: null
+  player_rank_border: 1
+  price: 150
+  quantity: 15
+  purchase_resource_type: gold
+  stock: 1
+  start_at: null
+  end_at: null
+data9:
+  id: 9
+  group_id: 1
+  priority: 2
+  weight: 0.4
+  name: Rare
+  description: 3 Rare Buddies
+  image: null
+  player_rank_border: 1
+  price: 600
+  quantity: 3
+  purchase_resource_type: gold
+  stock: 1
+  start_at: null
+  end_at: null
+data10:
+  id: 10
+  group_id: 1
+  priority: 3
+  weight: 0.5
+  name: Common
+  description: 20 Common Buddies
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 20
+  purchase_resource_type: gold
+  stock: 1
+  start_at: null
+  end_at: null
+data11:
+  id: 11
+  group_id: 1
+  priority: 3
+  weight: 0.5
+  name: Rare
+  description: 3 Rare Buddies
+  image: null
+  player_rank_border: 1
+  price: 600
+  quantity: 3
+  purchase_resource_type: gold
+  stock: 1
+  start_at: null
+  end_at: null
+data12:
+  id: 12
+  group_id: 1
+  priority: 4
+  weight: 0.3
+  name: Rare
+  description: 3 Rare Buddies
+  image: null
+  player_rank_border: 5
+  price: 600
+  quantity: 3
+  purchase_resource_type: gold
+  stock: 1
+  start_at: null
+  end_at: null
+data13:
+  id: 13
+  group_id: 1
+  priority: 4
+  weight: 0.7
+  name: Epic
+  description: 1 Epic Buddy
+  image: null
+  player_rank_border: 5
+  price: 3000
+  quantity: 1
+  purchase_resource_type: gold
+  stock: 1
+  start_at: null
+  end_at: null
+data14:
+  id: 14
+  group_id: 1
+  priority: 5
+  weight: 0.2
+  name: Rare
+  description: 5 Rare Buddies
+  image: null
+  player_rank_border: 15
+  price: 1000
+  quantity: 5
+  purchase_resource_type: gold
+  stock: 1
+  start_at: null
+  end_at: null
+data15:
+  id: 15
+  group_id: 1
+  priority: 5
+  weight: 0.8
+  name: Epic
+  description: 1 Epic Buddy
+  image: null
+  player_rank_border: 15
+  price: 3000
+  quantity: 1
+  purchase_resource_type: gold
+  stock: 1
+  start_at: null
+  end_at: null
+data16:
+  id: 16
+  group_id: 1
+  priority: 6
+  weight: 0.87
+  name: Epic
+  description: 1 Epic Buddy
+  image: null
+  player_rank_border: 25
+  price: 3000
+  quantity: 1
+  purchase_resource_type: gold
+  stock: 1
+  start_at: null
+  end_at: null
+data17:
+  id: 17
+  group_id: 1
+  priority: 6
+  weight: 0.13
+  name: Legendary
+  description: 1 Legendary Buddy
+  image: null
+  player_rank_border: 25
+  price: 40000
+  quantity: 1
+  purchase_resource_type: gold
+  stock: 1
+  start_at: null
+  end_at: null

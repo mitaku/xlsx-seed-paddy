@@ -1,0 +1,12 @@
+data2:
+  id: 2
+  required_victory_count: 5
+  defeats_count: 3
+data3:
+  id: 3
+  required_victory_count: 10
+  defeats_count: 3
+data4:
+  id: 4
+  required_victory_count: 0
+  defeats_count: 0
