@@ -386,7 +386,7 @@ data36:
 data37:
   id: 37
   view_id: 37
-  monster: 'card_monster_{id}'
+  monster: 'square_monster_{id}'
   job: 'middle_job_{id}'
   skill: '-'
   skin: '-'
@@ -469,5 +469,49 @@ data44:
   skin: '-'
   treasure_box: 'tutorial_card_treasure_box_{category}_{rarity_id}'
   consumption_resource: 'tutorial_card_consumption_resource_{kind}_{size}'
+  medal: '-'
+  experience: '-'
+data45:
+  id: 45
+  view_id: 45
+  monster: 'tutorial_card_monster_{id}'
+  job: 'tutorial_full_job_{id}'
+  skill: '-'
+  skin: '-'
+  treasure_box: '-'
+  consumption_resource: '-'
+  medal: '-'
+  experience: '-'
+data46:
+  id: 46
+  view_id: 46
+  monster: '-'
+  job: 'tutorial_middle_job_{id}'
+  skill: '-'
+  skin: '-'
+  treasure_box: '-'
+  consumption_resource: '-'
+  medal: '-'
+  experience: '-'
+data47:
+  id: 47
+  view_id: 47
+  monster: 'info_area_monster_{id}'
+  job: 'info_area_job_{id}'
+  skill: '-'
+  skin: '-'
+  treasure_box: '-'
+  consumption_resource: '-'
+  medal: '-'
+  experience: '-'
+data48:
+  id: 48
+  view_id: 48
+  monster: 'tutorial_info_area_monster_{id}'
+  job: 'tutorial_info_area_job_{id}'
+  skill: '-'
+  skin: '-'
+  treasure_box: '-'
+  consumption_resource: '-'
   medal: '-'
   experience: '-'

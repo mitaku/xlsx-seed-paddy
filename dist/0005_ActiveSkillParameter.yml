@@ -17,22 +17,22 @@ data5:
   id: 5
   active_skill_id: 1
   name: bullet_speed
-  value: 3
+  value: 7.5
 data6:
   id: 6
   active_skill_id: 1
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data7:
   id: 7
   active_skill_id: 1
   name: charge_time
-  value: 1.2
+  value: 0.9
 data8:
   id: 8
   active_skill_id: 1
   name: push_back_effect
-  value: 0
+  value: 0.5
 data9:
   id: 9
   active_skill_id: 2
@@ -97,22 +97,22 @@ data21:
   id: 21
   active_skill_id: 3
   name: bullet_speed
-  value: 3
+  value: 7.5
 data22:
   id: 22
   active_skill_id: 3
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data23:
   id: 23
   active_skill_id: 3
   name: charge_time
-  value: 1.2
+  value: 0.9
 data24:
   id: 24
   active_skill_id: 3
   name: push_back_effect
-  value: 0
+  value: 0.3
 data25:
   id: 25
   active_skill_id: 4
@@ -137,12 +137,12 @@ data29:
   id: 29
   active_skill_id: 4
   name: bullet_speed
-  value: 4
+  value: 8.5
 data30:
   id: 30
   active_skill_id: 4
   name: bullet_size
-  value: 0.15
+  value: 0.6
 data31:
   id: 31
   active_skill_id: 4
@@ -212,12 +212,12 @@ data44:
   id: 44
   active_skill_id: 5
   name: bullet_speed
-  value: 1.8
+  value: 7.5
 data45:
   id: 45
   active_skill_id: 5
   name: bullet_size
-  value: 0.15
+  value: 0.6
 data46:
   id: 46
   active_skill_id: 5
@@ -247,7 +247,7 @@ data51:
   id: 51
   active_skill_id: 6
   name: area_attack_pretime
-  value: 0.3
+  value: 0.8
 data52:
   id: 52
   active_skill_id: 6
@@ -282,17 +282,17 @@ data58:
   id: 58
   active_skill_id: 7
   name: range
-  value: 3
+  value: 5
 data59:
   id: 59
   active_skill_id: 7
   name: bullet_speed
-  value: 1.8
+  value: 7.5
 data60:
   id: 60
   active_skill_id: 7
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data61:
   id: 61
   active_skill_id: 7
@@ -342,7 +342,7 @@ data70:
   id: 70
   active_skill_id: 8
   name: area_size_z
-  value: 2
+  value: 1.5
 data71:
   id: 71
   active_skill_id: 8
@@ -377,12 +377,12 @@ data77:
   id: 77
   active_skill_id: 9
   name: bullet_speed
-  value: 1.8
+  value: 7.5
 data78:
   id: 78
   active_skill_id: 9
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data79:
   id: 79
   active_skill_id: 9
@@ -462,12 +462,12 @@ data94:
   id: 94
   active_skill_id: 11
   name: bullet_speed
-  value: 1.8
+  value: 7.5
 data95:
   id: 95
   active_skill_id: 11
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data96:
   id: 96
   active_skill_id: 11
@@ -552,12 +552,12 @@ data112:
   id: 112
   active_skill_id: 13
   name: bullet_speed
-  value: 1.8
+  value: 7.5
 data113:
   id: 113
   active_skill_id: 13
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data114:
   id: 114
   active_skill_id: 13
@@ -627,12 +627,12 @@ data127:
   id: 127
   active_skill_id: 15
   name: bullet_speed
-  value: 1.8
+  value: 7.5
 data128:
   id: 128
   active_skill_id: 15
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data129:
   id: 129
   active_skill_id: 15
@@ -702,12 +702,12 @@ data142:
   id: 142
   active_skill_id: 17
   name: bullet_speed
-  value: 1.8
+  value: 7.5
 data143:
   id: 143
   active_skill_id: 17
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data144:
   id: 144
   active_skill_id: 17
@@ -777,12 +777,12 @@ data157:
   id: 157
   active_skill_id: 19
   name: bullet_speed
-  value: 1.8
+  value: 7.5
 data158:
   id: 158
   active_skill_id: 19
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data159:
   id: 159
   active_skill_id: 19
@@ -887,22 +887,22 @@ data179:
   id: 179
   active_skill_id: 21
   name: bullet_speed
-  value: 3
+  value: 6.5
 data180:
   id: 180
   active_skill_id: 21
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data181:
   id: 181
   active_skill_id: 21
   name: charge_time
-  value: 1.2
+  value: 0.9
 data182:
   id: 182
   active_skill_id: 21
   name: push_back_effect
-  value: 0
+  value: 0.5
 data183:
   id: 183
   active_skill_id: 22
@@ -977,22 +977,22 @@ data197:
   id: 197
   active_skill_id: 23
   name: bullet_speed
-  value: 4.5
+  value: 6.5
 data198:
   id: 198
   active_skill_id: 23
   name: bullet_size
-  value: 0.1
+  value: 0.6
 data199:
   id: 199
   active_skill_id: 23
   name: charge_time
-  value: 1.5
+  value: 0.9
 data200:
   id: 200
   active_skill_id: 23
   name: push_back_effect
-  value: 0
+  value: 0.5
 data201:
   id: 201
   active_skill_id: 24
@@ -1017,12 +1017,12 @@ data205:
   id: 205
   active_skill_id: 24
   name: bullet_speed
-  value: 5
+  value: 7.5
 data206:
   id: 206
   active_skill_id: 24
   name: bullet_size
-  value: 0.3
+  value: 0.6
 data207:
   id: 207
   active_skill_id: 24
@@ -1067,22 +1067,22 @@ data215:
   id: 215
   active_skill_id: 25
   name: bullet_speed
-  value: 4.5
+  value: 8.5
 data216:
   id: 216
   active_skill_id: 25
   name: bullet_size
-  value: 0.1
+  value: 0.6
 data217:
   id: 217
   active_skill_id: 25
   name: charge_time
-  value: 1.5
+  value: 0.9
 data218:
   id: 218
   active_skill_id: 25
   name: push_back_effect
-  value: 0
+  value: 0.5
 data219:
   id: 219
   active_skill_id: 26
@@ -1157,22 +1157,22 @@ data233:
   id: 233
   active_skill_id: 27
   name: bullet_speed
-  value: 3.5
+  value: 8.5
 data234:
   id: 234
   active_skill_id: 27
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data235:
   id: 235
   active_skill_id: 27
   name: charge_time
-  value: 1.2
+  value: 0.9
 data236:
   id: 236
   active_skill_id: 27
   name: push_back_effect
-  value: 0
+  value: 0.5
 data237:
   id: 237
   active_skill_id: 28
@@ -1252,12 +1252,12 @@ data252:
   id: 252
   active_skill_id: 29
   name: bullet_speed
-  value: 1.8
+  value: 7.5
 data253:
   id: 253
   active_skill_id: 29
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data254:
   id: 254
   active_skill_id: 29
@@ -1337,12 +1337,12 @@ data269:
   id: 269
   active_skill_id: 31
   name: bullet_speed
-  value: 1.8
+  value: 7.5
 data270:
   id: 270
   active_skill_id: 31
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data271:
   id: 271
   active_skill_id: 31
@@ -1422,12 +1422,12 @@ data286:
   id: 286
   active_skill_id: 33
   name: bullet_speed
-  value: 1.8
+  value: 7.5
 data287:
   id: 287
   active_skill_id: 33
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data288:
   id: 288
   active_skill_id: 33
@@ -1477,7 +1477,7 @@ data297:
   id: 297
   active_skill_id: 34
   name: effect_duration
-  value: 7.5
+  value: 5
 data298:
   id: 298
   active_skill_id: 34
@@ -1527,12 +1527,12 @@ data307:
   id: 307
   active_skill_id: 35
   name: bullet_speed
-  value: 1.8
+  value: 7.5
 data308:
   id: 308
   active_skill_id: 35
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data309:
   id: 309
   active_skill_id: 35
@@ -1562,7 +1562,7 @@ data314:
   id: 314
   active_skill_id: 36
   name: bullet_speed
-  value: 1
+  value: 3
 data315:
   id: 315
   active_skill_id: 36
@@ -1632,12 +1632,12 @@ data328:
   id: 328
   active_skill_id: 37
   name: bullet_speed
-  value: 1.8
+  value: 7.5
 data329:
   id: 329
   active_skill_id: 37
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data330:
   id: 330
   active_skill_id: 37
@@ -1722,12 +1722,12 @@ data346:
   id: 346
   active_skill_id: 39
   name: bullet_speed
-  value: 1.8
+  value: 7.5
 data347:
   id: 347
   active_skill_id: 39
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data348:
   id: 348
   active_skill_id: 39
@@ -1812,12 +1812,12 @@ data364:
   id: 364
   active_skill_id: 41
   name: bullet_speed
-  value: 1.8
+  value: 7.5
 data365:
   id: 365
   active_skill_id: 41
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data366:
   id: 366
   active_skill_id: 41
@@ -1837,7 +1837,7 @@ data369:
   id: 369
   active_skill_id: 42
   name: hp
-  value: 900
+  value: 1200
 data370:
   id: 370
   active_skill_id: 42
@@ -1857,7 +1857,7 @@ data373:
   id: 373
   active_skill_id: 42
   name: summon_place_adjust_side
-  value: 0.1
+  value: 0.5
 data374:
   id: 374
   active_skill_id: 43
@@ -1882,12 +1882,12 @@ data378:
   id: 378
   active_skill_id: 43
   name: bullet_speed
-  value: 1.8
+  value: 7.5
 data379:
   id: 379
   active_skill_id: 43
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data380:
   id: 380
   active_skill_id: 43
@@ -1962,12 +1962,12 @@ data394:
   id: 394
   active_skill_id: 45
   name: bullet_speed
-  value: 1.8
+  value: 7.5
 data395:
   id: 395
   active_skill_id: 45
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data396:
   id: 396
   active_skill_id: 45
@@ -2012,12 +2012,12 @@ data404:
   id: 404
   active_skill_id: 47
   name: bullet_speed
-  value: 1.8
+  value: 7.5
 data405:
   id: 405
   active_skill_id: 47
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data406:
   id: 406
   active_skill_id: 47
@@ -2092,12 +2092,12 @@ data420:
   id: 420
   active_skill_id: 49
   name: bullet_speed
-  value: 1.8
+  value: 7.5
 data421:
   id: 421
   active_skill_id: 49
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data422:
   id: 422
   active_skill_id: 49
@@ -2142,7 +2142,7 @@ data430:
   id: 430
   active_skill_id: 50
   name: summon_place_adjust_forward
-  value: 0.25
+  value: 0.5
 data431:
   id: 431
   active_skill_id: 50
@@ -2177,12 +2177,12 @@ data437:
   id: 437
   active_skill_id: 51
   name: bullet_speed
-  value: 1.8
+  value: 7.5
 data438:
   id: 438
   active_skill_id: 51
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data439:
   id: 439
   active_skill_id: 51
@@ -2267,12 +2267,12 @@ data455:
   id: 455
   active_skill_id: 53
   name: bullet_speed
-  value: 1.8
+  value: 7.5
 data456:
   id: 456
   active_skill_id: 53
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data457:
   id: 457
   active_skill_id: 53
@@ -2322,22 +2322,22 @@ data466:
   id: 466
   active_skill_id: 55
   name: range
-  value: 3
+  value: 5
 data467:
   id: 467
   active_skill_id: 55
   name: bullet_speed
-  value: 1.2
+  value: 7.5
 data468:
   id: 468
   active_skill_id: 55
   name: bullet_size
-  value: 0.25
+  value: 0.6
 data469:
   id: 469
   active_skill_id: 55
   name: charge_time
-  value: 1.2
+  value: 0.9
 data470:
   id: 470
   active_skill_id: 55

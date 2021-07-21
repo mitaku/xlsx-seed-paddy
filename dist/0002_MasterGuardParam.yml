@@ -1,0 +1,35 @@
+data2:
+  id: 2
+  damage_cut_rate: 0.3
+  guard_hp: 750
+  guard_decrease_hp_per_sec: 100
+  guard_regenerate_hp_per_sec: 200
+  guard_break_stun_time: 3
+data3:
+  id: 3
+  damage_cut_rate: 0.3
+  guard_hp: 1250
+  guard_decrease_hp_per_sec: 100
+  guard_regenerate_hp_per_sec: 200
+  guard_break_stun_time: 3
+data4:
+  id: 4
+  damage_cut_rate: 0.3
+  guard_hp: 750
+  guard_decrease_hp_per_sec: 100
+  guard_regenerate_hp_per_sec: 200
+  guard_break_stun_time: 3
+data5:
+  id: 5
+  damage_cut_rate: 0.3
+  guard_hp: 500
+  guard_decrease_hp_per_sec: 100
+  guard_regenerate_hp_per_sec: 200
+  guard_break_stun_time: 3
+data6:
+  id: 6
+  damage_cut_rate: 0.3
+  guard_hp: 1250
+  guard_decrease_hp_per_sec: 100
+  guard_regenerate_hp_per_sec: 200
+  guard_break_stun_time: 3

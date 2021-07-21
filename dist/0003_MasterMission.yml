@@ -1458,3 +1458,213 @@ data110:
   event_id: 2
   start_at: null
   end_at: null
+data111:
+  id: 111
+  master_mission_group_id: 62
+  master_mission_category_id: 6
+  name: League Match Played
+  description: v1.1.0 イベントリーグマッチプレイ回数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 3
+  start_at: null
+  end_at: null
+data112:
+  id: 112
+  master_mission_group_id: 62
+  master_mission_category_id: 6
+  name: League Match Played
+  description: v1.1.0 イベントリーグマッチプレイ回数
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 3
+  start_at: null
+  end_at: null
+data113:
+  id: 113
+  master_mission_group_id: 62
+  master_mission_category_id: 6
+  name: League Match Played
+  description: v1.1.0 イベントリーグマッチプレイ回数
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 15
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 3
+  start_at: null
+  end_at: null
+data114:
+  id: 114
+  master_mission_group_id: 62
+  master_mission_category_id: 6
+  name: League Match Played
+  description: v1.1.0 イベントリーグマッチプレイ回数
+  priority: 4
+  is_condition_require_all: 'FALSE'
+  count: 30
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 3
+  start_at: null
+  end_at: null
+data115:
+  id: 115
+  master_mission_group_id: 62
+  master_mission_category_id: 6
+  name: League Match Played
+  description: v1.1.0 イベントリーグマッチプレイ回数
+  priority: 5
+  is_condition_require_all: 'FALSE'
+  count: 60
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 3
+  start_at: null
+  end_at: null
+data116:
+  id: 116
+  master_mission_group_id: 63
+  master_mission_category_id: 6
+  name: League Match Perfect Wins
+  description: v1.1.0 リーグ完勝数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 3
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 3
+  start_at: null
+  end_at: null
+data117:
+  id: 117
+  master_mission_group_id: 63
+  master_mission_category_id: 6
+  name: League Match Perfect Wins
+  description: v1.1.0 リーグ完勝数
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 3
+  start_at: null
+  end_at: null
+data118:
+  id: 118
+  master_mission_group_id: 64
+  master_mission_category_id: 6
+  name: League Match Winning Streak
+  description: v1.1.0 リーグバトル連勝数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 5
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 3
+  start_at: null
+  end_at: null
+data119:
+  id: 119
+  master_mission_group_id: 65
+  master_mission_category_id: 6
+  name: Buddy Summoned
+  description: v1.1.0 モンスター召喚数_愛着
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 3
+  start_at: null
+  end_at: null
+data120:
+  id: 120
+  master_mission_group_id: 65
+  master_mission_category_id: 6
+  name: Buddy Summoned
+  description: v1.1.0 モンスター召喚数_愛着
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 30
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 3
+  start_at: null
+  end_at: null
+data121:
+  id: 121
+  master_mission_group_id: 65
+  master_mission_category_id: 6
+  name: Buddy Summoned
+  description: v1.1.0 モンスター召喚数_愛着
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 70
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 3
+  start_at: null
+  end_at: null
+data122:
+  id: 122
+  master_mission_group_id: 66
+  master_mission_category_id: 6
+  name: Activate Ultimate
+  description: v1.1.0 イベントULT発動回数
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 10
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 3
+  start_at: null
+  end_at: null
+data123:
+  id: 123
+  master_mission_group_id: 66
+  master_mission_category_id: 6
+  name: Activate Ultimate
+  description: v1.1.0 イベントULT発動回数
+  priority: 2
+  is_condition_require_all: 'FALSE'
+  count: 30
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 3
+  start_at: null
+  end_at: null
+data124:
+  id: 124
+  master_mission_group_id: 66
+  master_mission_category_id: 6
+  name: Activate Ultimate
+  description: v1.1.0 イベントULT発動回数
+  priority: 3
+  is_condition_require_all: 'FALSE'
+  count: 70
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 3
+  start_at: null
+  end_at: null
+data125:
+  id: 125
+  master_mission_group_id: 67
+  master_mission_category_id: 6
+  name: Moved Distance During the Battle
+  description: v1.1.0 バトル移動距離
+  priority: 1
+  is_condition_require_all: 'FALSE'
+  count: 500
+  is_percent: 'FALSE'
+  league_num: null
+  event_id: 3
+  start_at: null
+  end_at: null

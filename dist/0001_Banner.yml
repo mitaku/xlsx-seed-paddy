@@ -4,4 +4,25 @@ data2:
   url: 'https://leaptrigger.com/news/join-discord'
   start_at: null
   end_at: null
+  priority: 99999
+data3:
+  id: 3
+  image: 05_DiscordParty
+  url: 'https://leaptrigger.com/news/v110-discord-party'
+  start_at: '2021-07-28 3:59:59'
+  end_at: '2021-08-04 3:59:59'
+  priority: 3
+data4:
+  id: 4
+  image: 06_hermit
+  url: 'https://leaptrigger.com/news/warrior-training-hermit'
+  start_at: '2021-05-26 3:59:59'
+  end_at: '2021-08-04 3:59:59'
+  priority: 1
+data5:
+  id: 5
+  image: 07_PowerUpBundle
+  url: 'https://leaptrigger.com/news/power-up-bundle-sale'
+  start_at: '2021-05-26 3:59:59'
+  end_at: '2021-08-04 3:59:59'
   priority: 2

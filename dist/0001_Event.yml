@@ -6,3 +6,11 @@ data2:
   start_at: '2021-06-02 4:00:00'
   end_at: '2021-06-16 3:59:59'
   expire_at: '2021-06-16 3:59:59'
+data3:
+  id: 3
+  title: v1.1.0 event
+  description: Hermit's shugyo
+  kind: shop_event
+  start_at: '2021-05-26 3:59:59'
+  end_at: '2021-08-04 3:59:59'
+  expire_at: '2021-08-11 3:59:59'

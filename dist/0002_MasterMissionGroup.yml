@@ -238,3 +238,27 @@ data61:
   id: 61
   master_mission_category_id: event_daily
   name: league_battle_win
+data62:
+  id: 62
+  master_mission_category_id: event_general
+  name: v1.1.0_league_battle_num
+data63:
+  id: 63
+  master_mission_category_id: event_general
+  name: v1.1.0_league_battle_perfect_win
+data64:
+  id: 64
+  master_mission_category_id: event_general
+  name: v1.1.0_league_battle_winning_streak
+data65:
+  id: 65
+  master_mission_category_id: event_general
+  name: v1.1.0_summon_monster
+data66:
+  id: 66
+  master_mission_category_id: event_general
+  name: v1.1.0_activate_ult
+data67:
+  id: 67
+  master_mission_category_id: event_general
+  name: v1.1.0_battle_move_distance

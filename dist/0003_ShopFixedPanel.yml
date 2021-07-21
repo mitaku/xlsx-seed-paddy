@@ -49,3 +49,15 @@ data18:
 data19:
   id: 19
   label: Credit & Gem Bundle
+data20:
+  id: 20
+  label: Reward Shop
+data21:
+  id: 21
+  label: Reward Shop
+data22:
+  id: 22
+  label: WelcomeSalePanel
+data23:
+  id: 23
+  label: PremierWelcomSalePanel

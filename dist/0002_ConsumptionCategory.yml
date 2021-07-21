@@ -23,3 +23,8 @@ data6:
   name: event_token1
   kind: 10001
   event_id: 1
+data7:
+  id: 7
+  name: event_token2
+  kind: 10002
+  event_id: 3

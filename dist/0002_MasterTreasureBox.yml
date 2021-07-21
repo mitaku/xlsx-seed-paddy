@@ -994,3 +994,171 @@ data84:
   seconds_to_open: 86400
   opening_emerald_max_price: 144
   opening_emerald_min_price: 1
+data85:
+  id: 85
+  name: Supply Crate
+  category: random
+  rarity_id: Common
+  unlock_league_num: 1
+  item_num: 3
+  item_group_id: 5
+  is_immidiately_open: 'FALSE'
+  seconds_to_open: 10800
+  opening_emerald_max_price: 18
+  opening_emerald_min_price: 1
+data86:
+  id: 86
+  name: Leader Crate
+  category: random
+  rarity_id: Rare
+  unlock_league_num: 1
+  item_num: 10
+  item_group_id: 5
+  is_immidiately_open: 'FALSE'
+  seconds_to_open: 28800
+  opening_emerald_max_price: 48
+  opening_emerald_min_price: 1
+data87:
+  id: 87
+  name: Pro Crate
+  category: random
+  rarity_id: Epic
+  unlock_league_num: 1
+  item_num: 20
+  item_group_id: 5
+  is_immidiately_open: 'FALSE'
+  seconds_to_open: 43200
+  opening_emerald_max_price: 72
+  opening_emerald_min_price: 1
+data88:
+  id: 88
+  name: Ace Crate
+  category: random
+  rarity_id: Legendary
+  unlock_league_num: 1
+  item_num: 30
+  item_group_id: 5
+  is_immidiately_open: 'FALSE'
+  seconds_to_open: 43200
+  opening_emerald_max_price: 72
+  opening_emerald_min_price: 1
+data89:
+  id: 89
+  name: Supply Crate
+  category: random
+  rarity_id: Common
+  unlock_league_num: 2
+  item_num: 4
+  item_group_id: 5
+  is_immidiately_open: 'FALSE'
+  seconds_to_open: 10800
+  opening_emerald_max_price: 18
+  opening_emerald_min_price: 1
+data90:
+  id: 90
+  name: Leader Crate
+  category: random
+  rarity_id: Rare
+  unlock_league_num: 2
+  item_num: 14
+  item_group_id: 5
+  is_immidiately_open: 'FALSE'
+  seconds_to_open: 28800
+  opening_emerald_max_price: 48
+  opening_emerald_min_price: 1
+data91:
+  id: 91
+  name: Pro Crate
+  category: random
+  rarity_id: Epic
+  unlock_league_num: 2
+  item_num: 27
+  item_group_id: 5
+  is_immidiately_open: 'FALSE'
+  seconds_to_open: 43200
+  opening_emerald_max_price: 72
+  opening_emerald_min_price: 1
+data92:
+  id: 92
+  name: Ace Crate
+  category: random
+  rarity_id: Legendary
+  unlock_league_num: 2
+  item_num: 41
+  item_group_id: 5
+  is_immidiately_open: 'FALSE'
+  seconds_to_open: 43200
+  opening_emerald_max_price: 72
+  opening_emerald_min_price: 1
+data93:
+  id: 93
+  name: Supply Crate
+  category: random
+  rarity_id: Common
+  unlock_league_num: 3
+  item_num: 5
+  item_group_id: 5
+  is_immidiately_open: 'FALSE'
+  seconds_to_open: 10800
+  opening_emerald_max_price: 18
+  opening_emerald_min_price: 1
+data94:
+  id: 94
+  name: Leader Crate
+  category: random
+  rarity_id: Rare
+  unlock_league_num: 3
+  item_num: 17
+  item_group_id: 5
+  is_immidiately_open: 'FALSE'
+  seconds_to_open: 28800
+  opening_emerald_max_price: 48
+  opening_emerald_min_price: 1
+data95:
+  id: 95
+  name: Pro Crate
+  category: random
+  rarity_id: Epic
+  unlock_league_num: 3
+  item_num: 34
+  item_group_id: 5
+  is_immidiately_open: 'FALSE'
+  seconds_to_open: 43200
+  opening_emerald_max_price: 72
+  opening_emerald_min_price: 1
+data96:
+  id: 96
+  name: Ace Crate
+  category: random
+  rarity_id: Legendary
+  unlock_league_num: 3
+  item_num: 51
+  item_group_id: 5
+  is_immidiately_open: 'FALSE'
+  seconds_to_open: 43200
+  opening_emerald_max_price: 72
+  opening_emerald_min_price: 1
+data97:
+  id: 97
+  name: Legendary Crate
+  category: fix
+  rarity_id: Legendary
+  unlock_league_num: 1
+  item_num: 1
+  item_group_id: 4
+  is_immidiately_open: 'FALSE'
+  seconds_to_open: 86400
+  opening_emerald_max_price: 144
+  opening_emerald_min_price: 1
+data98:
+  id: 98
+  name: Royale Crate
+  category: shop
+  rarity_id: Legendary
+  unlock_league_num: 1
+  item_num: 170
+  item_group_id: 6
+  is_immidiately_open: 'TRUE'
+  seconds_to_open: 0
+  opening_emerald_max_price: 0
+  opening_emerald_min_price: 0

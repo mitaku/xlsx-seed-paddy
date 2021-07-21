@@ -7550,3 +7550,123 @@ data944:
   rewardable_type: MasterTreasureBox
   rewardable_id: 7
   quantity: 1
+data945:
+  id: 945
+  missionable_type: MasterMission
+  missionable_id: 111
+  name: League Match Played
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 165
+  quantity: 1
+data946:
+  id: 946
+  missionable_type: MasterMission
+  missionable_id: 112
+  name: League Match Played
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 166
+  quantity: 1
+data947:
+  id: 947
+  missionable_type: MasterMission
+  missionable_id: 113
+  name: League Match Played
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 170
+  quantity: 1
+data948:
+  id: 948
+  missionable_type: MasterMission
+  missionable_id: 114
+  name: League Match Played
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 172
+  quantity: 1
+data949:
+  id: 949
+  missionable_type: MasterMission
+  missionable_id: 115
+  name: League Match Played
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 175
+  quantity: 1
+data950:
+  id: 950
+  missionable_type: MasterMission
+  missionable_id: 116
+  name: League Match Perfect Wins
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 166
+  quantity: 1
+data951:
+  id: 951
+  missionable_type: MasterMission
+  missionable_id: 117
+  name: League Match Perfect Wins
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 168
+  quantity: 1
+data952:
+  id: 952
+  missionable_type: MasterMission
+  missionable_id: 118
+  name: League Match Winning Streak
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 173
+  quantity: 1
+data953:
+  id: 953
+  missionable_type: MasterMission
+  missionable_id: 119
+  name: Buddy Summoned
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 165
+  quantity: 1
+data954:
+  id: 954
+  missionable_type: MasterMission
+  missionable_id: 120
+  name: Buddy Summoned
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 166
+  quantity: 1
+data955:
+  id: 955
+  missionable_type: MasterMission
+  missionable_id: 121
+  name: Buddy Summoned
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 170
+  quantity: 1
+data956:
+  id: 956
+  missionable_type: MasterMission
+  missionable_id: 122
+  name: Activate Ultimate
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 165
+  quantity: 1
+data957:
+  id: 957
+  missionable_type: MasterMission
+  missionable_id: 123
+  name: Activate Ultimate
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 166
+  quantity: 1
+data958:
+  id: 958
+  missionable_type: MasterMission
+  missionable_id: 124
+  name: Activate Ultimate
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 170
+  quantity: 1
+data959:
+  id: 959
+  missionable_type: MasterMission
+  missionable_id: 125
+  name: Moved Distance During the Battle
+  rewardable_type: ConsumptionResourceItem
+  rewardable_id: 168
+  quantity: 1

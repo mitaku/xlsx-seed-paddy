@@ -8,13 +8,18 @@ data2:
   role_id: Attacker
   passive_skill_id: 2
   hp: 2200
-  attack_power: 150
+  attack_power: 140
+  normal_skill_id: null
+  ult_skill_id: null
   unlock_league_num: 1
   master_growth_type_id: 11
   rarity_id: Legendary
+  ai_id: 2
+  target_logic_id: Player
   default_state: 2
   able_to_push_back: 0
-  summon_cool_down: 2.5
+  summon_cool_down: 0.01
+  master_summon_param_id: 1
   action_cool_down: 3
   move_speed: 0.6
   distance_limit: 1.25
@@ -28,14 +33,19 @@ data3:
     manipulating the power of nature.
   role_id: Forcer
   passive_skill_id: 3
-  hp: 1800
-  attack_power: 100
+  hp: 2200
+  attack_power: 130
+  normal_skill_id: null
+  ult_skill_id: null
   unlock_league_num: 1
   master_growth_type_id: 3
   rarity_id: Common
+  ai_id: 3
+  target_logic_id: Player
   default_state: 1
   able_to_push_back: 1
-  summon_cool_down: 1
+  summon_cool_down: 0.01
+  master_summon_param_id: 1
   action_cool_down: 2.75
   move_speed: 0.5
   distance_limit: 1.25
@@ -49,14 +59,19 @@ data4:
     it stops appearing.
   role_id: Forcer
   passive_skill_id: 3
-  hp: 1800
-  attack_power: 110
+  hp: 2350
+  attack_power: 130
+  normal_skill_id: null
+  ult_skill_id: null
   unlock_league_num: 1
   master_growth_type_id: 4
   rarity_id: Rare
+  ai_id: 4
+  target_logic_id: Player
   default_state: 0
   able_to_push_back: 1
-  summon_cool_down: 1.5
+  summon_cool_down: 0.01
+  master_summon_param_id: 1
   action_cool_down: 2.75
   move_speed: 0.5
   distance_limit: 1.25
@@ -69,14 +84,19 @@ data5:
     Its heat is like an explosion, damaging all enemies around it.
   role_id: Attacker
   passive_skill_id: 2
-  hp: 1700
+  hp: 2000
   attack_power: 150
+  normal_skill_id: null
+  ult_skill_id: null
   unlock_league_num: 2
   master_growth_type_id: 5
   rarity_id: Rare
+  ai_id: 5
+  target_logic_id: Player
   default_state: 2
   able_to_push_back: 0
-  summon_cool_down: 1.5
+  summon_cool_down: 0.01
+  master_summon_param_id: 1
   action_cool_down: 2.75
   move_speed: 0.6
   distance_limit: 0.7
@@ -90,18 +110,23 @@ data6:
     avoiding danger.
   role_id: Attacker
   passive_skill_id: 2
-  hp: 1700
-  attack_power: 150
+  hp: 2200
+  attack_power: 140
+  normal_skill_id: null
+  ult_skill_id: null
   unlock_league_num: 3
   master_growth_type_id: 7
   rarity_id: Epic
+  ai_id: 6
+  target_logic_id: Player
   default_state: 1
   able_to_push_back: 0
-  summon_cool_down: 2
+  summon_cool_down: 0.01
+  master_summon_param_id: 1
   action_cool_down: 3
   move_speed: 0.6
   distance_limit: 1.5
-  push_back_resist: 0.5
+  push_back_resist: 0
 data7:
   id: 7
   name: BACKSTICKER
@@ -111,14 +136,19 @@ data7:
     front.
   role_id: Attacker
   passive_skill_id: 2
-  hp: 1800
-  attack_power: 130
+  hp: 2000
+  attack_power: 140
+  normal_skill_id: null
+  ult_skill_id: null
   unlock_league_num: 1
   master_growth_type_id: 2
   rarity_id: Common
+  ai_id: 7
+  target_logic_id: Player
   default_state: 1
   able_to_push_back: 0
-  summon_cool_down: 1
+  summon_cool_down: 0.01
+  master_summon_param_id: 1
   action_cool_down: 3
   move_speed: 0.6
   distance_limit: 1.25
@@ -132,18 +162,23 @@ data8:
     well.
   role_id: Forcer
   passive_skill_id: 3
-  hp: 1800
-  attack_power: 120
+  hp: 2600
+  attack_power: 130
+  normal_skill_id: null
+  ult_skill_id: null
   unlock_league_num: 1
   master_growth_type_id: 7
   rarity_id: Epic
+  ai_id: 8
+  target_logic_id: Player
   default_state: 1
   able_to_push_back: 1
-  summon_cool_down: 2
+  summon_cool_down: 0.01
+  master_summon_param_id: 1
   action_cool_down: 2.75
   move_speed: 0.5
   distance_limit: 1.25
-  push_back_resist: 0.3
+  push_back_resist: 0
 data11:
   id: 11
   name: SOMNIRD
@@ -153,18 +188,23 @@ data11:
     something to do with departed souls.
   role_id: Tank
   passive_skill_id: 1
-  hp: 1900
-  attack_power: 110
+  hp: 2350
+  attack_power: 140
+  normal_skill_id: null
+  ult_skill_id: null
   unlock_league_num: 2
   master_growth_type_id: 8
   rarity_id: Epic
+  ai_id: 11
+  target_logic_id: Player
   default_state: 0
   able_to_push_back: 0
-  summon_cool_down: 2
+  summon_cool_down: 0.01
+  master_summon_param_id: 1
   action_cool_down: 3
   move_speed: 0.4
   distance_limit: 1.5
-  push_back_resist: 0.75
+  push_back_resist: 0
 data12:
   id: 12
   name: GRADION
@@ -174,18 +214,23 @@ data12:
     sleeps for many years.
   role_id: Tank
   passive_skill_id: 1
-  hp: 2000
+  hp: 2600
   attack_power: 150
+  normal_skill_id: null
+  ult_skill_id: null
   unlock_league_num: 2
   master_growth_type_id: 12
   rarity_id: Legendary
+  ai_id: 12
+  target_logic_id: Player
   default_state: 1
   able_to_push_back: 0
-  summon_cool_down: 2.5
+  summon_cool_down: 0.01
+  master_summon_param_id: 1
   action_cool_down: 3
   move_speed: 0.4
   distance_limit: 1.5
-  push_back_resist: 0.75
+  push_back_resist: 0
 data13:
   id: 13
   name: BOOSTER
@@ -195,18 +240,23 @@ data13:
     activated and deploying a shield.
   role_id: Attacker
   passive_skill_id: 2
-  hp: 2100
-  attack_power: 120
+  hp: 2200
+  attack_power: 130
+  normal_skill_id: null
+  ult_skill_id: null
   unlock_league_num: 3
   master_growth_type_id: 6
   rarity_id: Rare
+  ai_id: 13
+  target_logic_id: Player
   default_state: 0
   able_to_push_back: 0
-  summon_cool_down: 1.5
+  summon_cool_down: 0.01
+  master_summon_param_id: 1
   action_cool_down: 3
   move_speed: 0.6
   distance_limit: 1.25
-  push_back_resist: 0.5
+  push_back_resist: 0
 data14:
   id: 14
   name: BLLURE
@@ -216,18 +266,23 @@ data14:
     of fantastic nature, it may be a BLLURE.
   role_id: Tank
   passive_skill_id: 1
-  hp: 2000
-  attack_power: 100
+  hp: 2600
+  attack_power: 130
+  normal_skill_id: null
+  ult_skill_id: null
   unlock_league_num: 1
   master_growth_type_id: 9
   rarity_id: Epic
+  ai_id: 14
+  target_logic_id: Player
   default_state: 0
   able_to_push_back: 0
-  summon_cool_down: 2
+  summon_cool_down: 0.01
+  master_summon_param_id: 1
   action_cool_down: 3
   move_speed: 0.4
   distance_limit: 1.5
-  push_back_resist: 0.75
+  push_back_resist: 0
 data15:
   id: 15
   name: BAITER
@@ -237,18 +292,23 @@ data15:
     powerful blow.
   role_id: Tank
   passive_skill_id: 1
-  hp: 1800
+  hp: 2600
   attack_power: 120
+  normal_skill_id: null
+  ult_skill_id: null
   unlock_league_num: 3
   master_growth_type_id: 5
   rarity_id: Rare
+  ai_id: 15
+  target_logic_id: Player
   default_state: 1
   able_to_push_back: 0
-  summon_cool_down: 1.5
+  summon_cool_down: 0.01
+  master_summon_param_id: 1
   action_cool_down: 3
   move_speed: 0.4
   distance_limit: 1.25
-  push_back_resist: 0.75
+  push_back_resist: 0
 data16:
   id: 16
   name: DECERPENT
@@ -258,18 +318,23 @@ data16:
     places.
   role_id: Tank
   passive_skill_id: 1
-  hp: 1900
-  attack_power: 110
+  hp: 2600
+  attack_power: 130
+  normal_skill_id: null
+  ult_skill_id: null
   unlock_league_num: 1
   master_growth_type_id: 4
   rarity_id: Rare
+  ai_id: 16
+  target_logic_id: Player
   default_state: 2
   able_to_push_back: 0
-  summon_cool_down: 1.5
+  summon_cool_down: 0.01
+  master_summon_param_id: 1
   action_cool_down: 3
   move_speed: 0.3
   distance_limit: 0.85
-  push_back_resist: 0.75
+  push_back_resist: 0
 data17:
   id: 17
   name: SPHEROG
@@ -279,14 +344,19 @@ data17:
     it.
   role_id: Forcer
   passive_skill_id: 3
-  hp: 1700
+  hp: 2350
   attack_power: 120
+  normal_skill_id: null
+  ult_skill_id: null
   unlock_league_num: 2
   master_growth_type_id: 1
   rarity_id: Common
+  ai_id: 17
+  target_logic_id: Player
   default_state: 1
   able_to_push_back: 1
-  summon_cool_down: 1
+  summon_cool_down: 0.01
+  master_summon_param_id: 1
   action_cool_down: 2.75
   move_speed: 0.5
   distance_limit: 1.25
@@ -299,18 +369,23 @@ data18:
     investigations that involve dangers of being attacked by multiple monsters.
   role_id: Forcer
   passive_skill_id: 3
-  hp: 1800
-  attack_power: 150
+  hp: 2200
+  attack_power: 130
+  normal_skill_id: null
+  ult_skill_id: null
   unlock_league_num: 3
   master_growth_type_id: 10
   rarity_id: Legendary
+  ai_id: 18
+  target_logic_id: Player
   default_state: 1
   able_to_push_back: 0
-  summon_cool_down: 2.5
+  summon_cool_down: 0.01
+  master_summon_param_id: 1
   action_cool_down: 2.75
   move_speed: 0.5
   distance_limit: 1.25
-  push_back_resist: 0.5
+  push_back_resist: 0
 data19:
   id: 19
   name: DIATRESS
@@ -319,15 +394,20 @@ data19:
     fortress, and is useful to players who use defensive tactics.
   role_id: Tank
   passive_skill_id: 1
-  hp: 2000
-  attack_power: 90
+  hp: 2600
+  attack_power: 130
+  normal_skill_id: null
+  ult_skill_id: null
   unlock_league_num: 1
   master_growth_type_id: 3
   rarity_id: Common
+  ai_id: 19
+  target_logic_id: Player
   default_state: 1
   able_to_push_back: 0
-  summon_cool_down: 1
+  summon_cool_down: 0.01
+  master_summon_param_id: 1
   action_cool_down: 3
   move_speed: 0.4
   distance_limit: 1.5
-  push_back_resist: 0.75
+  push_back_resist: 0

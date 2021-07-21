@@ -110,3 +110,35 @@ data15:
   price: 19.99
   quantity: 1
   get_paid_point: 1500
+data16:
+  id: 16
+  name: スタートダッシュパック：小
+  description: Welcome Bundle
+  product_id: com.graffity.leaptrigger.welcome.pack01
+  price: 1.99
+  quantity: 1
+  get_paid_point: 55
+data17:
+  id: 17
+  name: スタートダッシュパック：中
+  description: Special Welcome Bundle
+  product_id: com.graffity.leaptrigger.welcome.pack02
+  price: 9.99
+  quantity: 1
+  get_paid_point: 150
+data18:
+  id: 18
+  name: スタートダッシュパック：大
+  description: Grand Welcome Bundle
+  product_id: com.graffity.leaptrigger.welcome.pack03
+  price: 19.99
+  quantity: 1
+  get_paid_point: 300
+data19:
+  id: 19
+  name: スタートダッシュ限定プレミアセット
+  description: Premier Welcome Bundle
+  product_id: com.graffity.leaptrigger.welcome.pack04
+  price: 39.99
+  quantity: 1
+  get_paid_point: 1450

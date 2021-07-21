@@ -2,7 +2,7 @@ data2:
   id: 2
   passive_skill_id: 1
   name: hp
-  value: 200
+  value: 0
 data3:
   id: 3
   passive_skill_id: 2
@@ -12,9 +12,9 @@ data4:
   id: 4
   passive_skill_id: 3
   name: push_back_effect
-  value: 0.6
+  value: 0
 data5:
   id: 5
   passive_skill_id: 3
   name: status_effect_duration
-  value: 0.75
+  value: 0

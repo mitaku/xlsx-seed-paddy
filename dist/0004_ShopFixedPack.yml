@@ -13,6 +13,7 @@ data2:
   stock: null
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data3:
   id: 3
   panelable_type: ShopFixedPanel
@@ -28,6 +29,7 @@ data3:
   stock: null
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data4:
   id: 4
   panelable_type: ShopFixedPanel
@@ -43,6 +45,7 @@ data4:
   stock: null
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data5:
   id: 5
   panelable_type: ShopFixedPanel
@@ -58,6 +61,7 @@ data5:
   stock: null
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data6:
   id: 6
   panelable_type: ShopFixedPanel
@@ -73,6 +77,7 @@ data6:
   stock: null
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data7:
   id: 7
   panelable_type: ShopFixedPanel
@@ -88,6 +93,7 @@ data7:
   stock: null
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data8:
   id: 8
   panelable_type: ShopFixedPanel
@@ -103,6 +109,7 @@ data8:
   stock: null
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data9:
   id: 9
   panelable_type: ShopFixedPanel
@@ -118,6 +125,7 @@ data9:
   stock: null
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data10:
   id: 10
   panelable_type: ShopFixedPanel
@@ -133,6 +141,7 @@ data10:
   stock: null
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data11:
   id: 11
   panelable_type: ShopFixedPanel
@@ -148,12 +157,13 @@ data11:
   stock: null
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data12:
   id: 12
   panelable_type: ShopFixedPanel
   panelable_id: 8
   priority: 3
-  name: AceCrate
+  name: RoyaleCrate
   description: 1 Royal Crate
   image: null
   player_rank_border: 1
@@ -163,6 +173,7 @@ data12:
   stock: null
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data13:
   id: 13
   panelable_type: ShopFixedPanel
@@ -176,8 +187,9 @@ data13:
   quantity: 1
   purchase_resource_type: emerald
   stock: 1
-  start_at: null
-  end_at: '2021-04-01 4:00:00'
+  start_at: '2021-04-01 4:00:00'
+  end_at: '2021-04-02 4:00:00'
+  new_player_sale_elapsed_number_of_days: null
 data14:
   id: 14
   panelable_type: ShopFixedPanel
@@ -191,8 +203,9 @@ data14:
   quantity: 1
   purchase_resource_type: emerald
   stock: 1
-  start_at: null
-  end_at: '2021-04-01 4:00:00'
+  start_at: '2021-04-01 4:00:00'
+  end_at: '2021-04-02 4:00:00'
+  new_player_sale_elapsed_number_of_days: null
 data15:
   id: 15
   panelable_type: ShopFixedPanel
@@ -206,8 +219,9 @@ data15:
   quantity: 1
   purchase_resource_type: emerald
   stock: 1
-  start_at: null
-  end_at: '2021-04-01 4:00:00'
+  start_at: '2021-04-01 4:00:00'
+  end_at: '2021-04-02 4:00:00'
+  new_player_sale_elapsed_number_of_days: null
 data16:
   id: 16
   panelable_type: ShopFixedPanel
@@ -225,6 +239,7 @@ data16:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data17:
   id: 17
   panelable_type: ShopFixedPanel
@@ -242,6 +257,7 @@ data17:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data18:
   id: 18
   panelable_type: ShopFixedPanel
@@ -259,6 +275,7 @@ data18:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data19:
   id: 19
   panelable_type: ShopFixedPanel
@@ -276,6 +293,7 @@ data19:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data20:
   id: 20
   panelable_type: ShopFixedPanel
@@ -293,6 +311,7 @@ data20:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data21:
   id: 21
   panelable_type: ShopFixedPanel
@@ -310,6 +329,7 @@ data21:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data22:
   id: 22
   panelable_type: ShopFixedPanel
@@ -327,6 +347,7 @@ data22:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data23:
   id: 23
   panelable_type: ShopFixedPanel
@@ -344,6 +365,7 @@ data23:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data24:
   id: 24
   panelable_type: ShopFixedPanel
@@ -361,6 +383,7 @@ data24:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data25:
   id: 25
   panelable_type: ShopFixedPanel
@@ -378,6 +401,7 @@ data25:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data26:
   id: 26
   panelable_type: ShopFixedPanel
@@ -395,6 +419,7 @@ data26:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data27:
   id: 27
   panelable_type: ShopFixedPanel
@@ -412,6 +437,7 @@ data27:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data28:
   id: 28
   panelable_type: ShopFixedPanel
@@ -425,8 +451,9 @@ data28:
   quantity: 1
   purchase_resource_type: emerald
   stock: 1
-  start_at: null
-  end_at: '2021-04-01 4:00:00'
+  start_at: '2021-04-01 4:00:00'
+  end_at: '2021-04-02 4:00:00'
+  new_player_sale_elapsed_number_of_days: null
 data29:
   id: 29
   panelable_type: ShopFixedPanel
@@ -440,14 +467,15 @@ data29:
   quantity: 1
   purchase_resource_type: emerald
   stock: 1
-  start_at: null
-  end_at: '2021-04-01 4:00:00'
+  start_at: '2021-04-01 4:00:00'
+  end_at: '2021-04-02 4:00:00'
+  new_player_sale_elapsed_number_of_days: null
 data30:
   id: 30
   panelable_type: ShopFixedPanel
   panelable_id: 13
   priority: 1
-  name: Power Up Bundle
+  name: Power UP Bundle
   description: 'Leader Crate + 3,500 Credits'
   image: item_pack_growth_bundle_small
   player_rank_border: 1
@@ -455,14 +483,15 @@ data30:
   quantity: 1
   purchase_resource_type: emerald
   stock: 1
-  start_at: null
-  end_at: '2021-04-01 4:00:00'
+  start_at: '2021-05-26 3:59:59'
+  end_at: '2021-08-04 3:59:59'
+  new_player_sale_elapsed_number_of_days: null
 data31:
   id: 31
   panelable_type: ShopFixedPanel
   panelable_id: 13
   priority: 2
-  name: Special Power Up Bundle
+  name: Special Power UP Bundle
   description: 'Pro Crate + 8,000 Credits'
   image: item_pack_growth_bundle_medium
   player_rank_border: 1
@@ -470,14 +499,15 @@ data31:
   quantity: 1
   purchase_resource_type: emerald
   stock: 1
-  start_at: null
-  end_at: '2021-04-01 4:00:00'
+  start_at: '2021-05-26 3:59:59'
+  end_at: '2021-08-04 3:59:59'
+  new_player_sale_elapsed_number_of_days: null
 data32:
   id: 32
   panelable_type: ShopFixedPanel
   panelable_id: 13
   priority: 3
-  name: Grand Power Up Bundle
+  name: Grand Power UP Bundle
   description: 'Royal Crate + 28,000 Credits'
   image: item_pack_growth_bundle_large
   player_rank_border: 1
@@ -485,14 +515,15 @@ data32:
   quantity: 1
   purchase_resource_type: emerald
   stock: 1
-  start_at: null
-  end_at: '2021-04-01 4:00:00'
+  start_at: '2021-05-26 3:59:59'
+  end_at: '2021-08-04 3:59:59'
+  new_player_sale_elapsed_number_of_days: null
 data33:
   id: 33
   panelable_type: ShopFixedPanel
   panelable_id: 14
   priority: 1
-  name: Premier Power Up Bundle
+  name: Premier Power UP Bundle
   description: |-
     Royal Crate + 100 Champion Tokens + 
     35 Skin Tickets + 35,000 Credits
@@ -502,8 +533,9 @@ data33:
   quantity: 1
   purchase_resource_type: emerald
   stock: 1
-  start_at: null
-  end_at: '2021-04-01 4:00:00'
+  start_at: '2021-05-26 3:59:59'
+  end_at: '2021-08-04 3:59:59'
+  new_player_sale_elapsed_number_of_days: null
 data34:
   id: 34
   panelable_type: ShopFixedPanel
@@ -519,6 +551,7 @@ data34:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data35:
   id: 35
   panelable_type: ShopFixedPanel
@@ -534,6 +567,7 @@ data35:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data36:
   id: 36
   panelable_type: ShopFixedPanel
@@ -549,6 +583,7 @@ data36:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data37:
   id: 37
   panelable_type: ShopFixedPanel
@@ -564,6 +599,7 @@ data37:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data38:
   id: 38
   panelable_type: ShopFixedPanel
@@ -579,6 +615,7 @@ data38:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data39:
   id: 39
   panelable_type: ShopFixedPanel
@@ -594,6 +631,7 @@ data39:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data40:
   id: 40
   panelable_type: ShopFixedPanel
@@ -609,6 +647,7 @@ data40:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data41:
   id: 41
   panelable_type: ShopFixedPanel
@@ -624,6 +663,7 @@ data41:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data42:
   id: 42
   panelable_type: ShopFixedPanel
@@ -639,6 +679,7 @@ data42:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data43:
   id: 43
   panelable_type: ShopFixedPanel
@@ -654,6 +695,7 @@ data43:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data44:
   id: 44
   panelable_type: ShopFixedPanel
@@ -669,6 +711,7 @@ data44:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data45:
   id: 45
   panelable_type: ShopFixedPanel
@@ -684,6 +727,7 @@ data45:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data46:
   id: 46
   panelable_type: ShopFixedPanel
@@ -699,6 +743,7 @@ data46:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data47:
   id: 47
   panelable_type: ShopFixedPanel
@@ -714,6 +759,7 @@ data47:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data48:
   id: 48
   panelable_type: ShopFixedPanel
@@ -729,6 +775,7 @@ data48:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data49:
   id: 49
   panelable_type: ShopFixedPanel
@@ -744,6 +791,7 @@ data49:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data50:
   id: 50
   panelable_type: ShopFixedPanel
@@ -759,6 +807,7 @@ data50:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data51:
   id: 51
   panelable_type: ShopFixedPanel
@@ -774,6 +823,7 @@ data51:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data52:
   id: 52
   panelable_type: ShopFixedPanel
@@ -789,6 +839,7 @@ data52:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data53:
   id: 53
   panelable_type: ShopFixedPanel
@@ -804,6 +855,7 @@ data53:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data54:
   id: 54
   panelable_type: ShopFixedPanel
@@ -819,6 +871,7 @@ data54:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data55:
   id: 55
   panelable_type: ShopFixedPanel
@@ -834,6 +887,7 @@ data55:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data56:
   id: 56
   panelable_type: ShopFixedPanel
@@ -849,6 +903,7 @@ data56:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data57:
   id: 57
   panelable_type: ShopFixedPanel
@@ -864,6 +919,7 @@ data57:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data58:
   id: 58
   panelable_type: ShopFixedPanel
@@ -879,6 +935,7 @@ data58:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data59:
   id: 59
   panelable_type: ShopFixedPanel
@@ -894,6 +951,7 @@ data59:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data60:
   id: 60
   panelable_type: ShopFixedPanel
@@ -909,6 +967,7 @@ data60:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data61:
   id: 61
   panelable_type: ShopFixedPanel
@@ -924,6 +983,7 @@ data61:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data62:
   id: 62
   panelable_type: ShopFixedPanel
@@ -939,6 +999,7 @@ data62:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data63:
   id: 63
   panelable_type: ShopFixedPanel
@@ -954,6 +1015,7 @@ data63:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data64:
   id: 64
   panelable_type: ShopFixedPanel
@@ -969,6 +1031,7 @@ data64:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data65:
   id: 65
   panelable_type: ShopFixedPanel
@@ -984,6 +1047,7 @@ data65:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data66:
   id: 66
   panelable_type: ShopFixedPanel
@@ -999,6 +1063,7 @@ data66:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data67:
   id: 67
   panelable_type: ShopFixedPanel
@@ -1014,6 +1079,7 @@ data67:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data68:
   id: 68
   panelable_type: ShopFixedPanel
@@ -1029,6 +1095,7 @@ data68:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data69:
   id: 69
   panelable_type: ShopFixedPanel
@@ -1044,6 +1111,7 @@ data69:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data70:
   id: 70
   panelable_type: ShopFixedPanel
@@ -1059,6 +1127,7 @@ data70:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data71:
   id: 71
   panelable_type: ShopFixedPanel
@@ -1074,6 +1143,7 @@ data71:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data72:
   id: 72
   panelable_type: ShopFixedPanel
@@ -1089,6 +1159,7 @@ data72:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data73:
   id: 73
   panelable_type: ShopFixedPanel
@@ -1104,6 +1175,7 @@ data73:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data74:
   id: 74
   panelable_type: ShopFixedPanel
@@ -1119,6 +1191,7 @@ data74:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data75:
   id: 75
   panelable_type: ShopFixedPanel
@@ -1134,6 +1207,7 @@ data75:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data76:
   id: 76
   panelable_type: ShopFixedPanel
@@ -1149,6 +1223,7 @@ data76:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data77:
   id: 77
   panelable_type: ShopFixedPanel
@@ -1164,6 +1239,7 @@ data77:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data78:
   id: 78
   panelable_type: ShopFixedPanel
@@ -1179,6 +1255,7 @@ data78:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data79:
   id: 79
   panelable_type: ShopFixedPanel
@@ -1194,6 +1271,7 @@ data79:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data80:
   id: 80
   panelable_type: ShopFixedPanel
@@ -1209,6 +1287,7 @@ data80:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data81:
   id: 81
   panelable_type: ShopFixedPanel
@@ -1224,6 +1303,7 @@ data81:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data82:
   id: 82
   panelable_type: ShopFixedPanel
@@ -1239,6 +1319,7 @@ data82:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data83:
   id: 83
   panelable_type: ShopFixedPanel
@@ -1254,6 +1335,7 @@ data83:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data84:
   id: 84
   panelable_type: ShopFixedPanel
@@ -1269,6 +1351,7 @@ data84:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data85:
   id: 85
   panelable_type: ShopFixedPanel
@@ -1284,6 +1367,7 @@ data85:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data86:
   id: 86
   panelable_type: ShopFixedPanel
@@ -1299,6 +1383,7 @@ data86:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data87:
   id: 87
   panelable_type: ShopFixedPanel
@@ -1314,6 +1399,7 @@ data87:
   stock: 1
   start_at: null
   end_at: null
+  new_player_sale_elapsed_number_of_days: null
 data89:
   id: 89
   panelable_type: ShopFixedPanel
@@ -1329,6 +1415,7 @@ data89:
   stock: 3
   start_at: '2021-04-01 4:00:00'
   end_at: '2021-05-26 3:59:59'
+  new_player_sale_elapsed_number_of_days: null
 data90:
   id: 90
   panelable_type: ShopFixedPanel
@@ -1344,6 +1431,7 @@ data90:
   stock: 2
   start_at: '2021-04-01 4:00:00'
   end_at: '2021-05-26 3:59:59'
+  new_player_sale_elapsed_number_of_days: null
 data91:
   id: 91
   panelable_type: ShopFixedPanel
@@ -1359,6 +1447,7 @@ data91:
   stock: 10
   start_at: '2021-04-01 4:00:00'
   end_at: '2021-05-26 3:59:59'
+  new_player_sale_elapsed_number_of_days: null
 data92:
   id: 92
   panelable_type: ShopFixedPanel
@@ -1374,6 +1463,7 @@ data92:
   stock: 2
   start_at: '2021-04-01 4:00:00'
   end_at: '2021-05-26 3:59:59'
+  new_player_sale_elapsed_number_of_days: null
 data93:
   id: 93
   panelable_type: ShopFixedPanel
@@ -1389,6 +1479,7 @@ data93:
   stock: 4
   start_at: '2021-04-01 4:00:00'
   end_at: '2021-05-26 3:59:59'
+  new_player_sale_elapsed_number_of_days: null
 data94:
   id: 94
   panelable_type: ShopFixedPanel
@@ -1404,6 +1495,7 @@ data94:
   stock: 6
   start_at: '2021-04-01 4:00:00'
   end_at: '2021-05-26 3:59:59'
+  new_player_sale_elapsed_number_of_days: null
 data95:
   id: 95
   panelable_type: ShopFixedPanel
@@ -1419,6 +1511,7 @@ data95:
   stock: null
   start_at: '2021-04-01 4:00:00'
   end_at: '2021-05-26 3:59:59'
+  new_player_sale_elapsed_number_of_days: null
 data96:
   id: 96
   panelable_type: ShopFixedPanel
@@ -1434,6 +1527,7 @@ data96:
   stock: null
   start_at: '2021-04-01 4:00:00'
   end_at: '2021-05-26 3:59:59'
+  new_player_sale_elapsed_number_of_days: null
 data97:
   id: 97
   panelable_type: ShopFixedPanel
@@ -1449,3 +1543,148 @@ data97:
   stock: null
   start_at: '2021-04-01 4:00:00'
   end_at: '2021-05-26 3:59:59'
+  new_player_sale_elapsed_number_of_days: null
+data98:
+  id: 98
+  panelable_type: ShopFixedPanel
+  panelable_id: 20
+  priority: 1
+  name: Hermit
+  description: Unlock HERMIT
+  image: null
+  player_rank_border: 1
+  price: 2000
+  quantity: 1
+  purchase_resource_type: event_token2
+  stock: 1
+  start_at: null
+  end_at: null
+  new_player_sale_elapsed_number_of_days: null
+data99:
+  id: 99
+  panelable_type: ShopFixedPanel
+  panelable_id: 20
+  priority: 2
+  name: Crimson Strike
+  description: HERMIT Skin Unlocked
+  image: null
+  player_rank_border: 1
+  price: 1500
+  quantity: 1
+  purchase_resource_type: event_token2
+  stock: 1
+  start_at: null
+  end_at: null
+  new_player_sale_elapsed_number_of_days: null
+data100:
+  id: 100
+  panelable_type: ShopFixedPanel
+  panelable_id: 20
+  priority: 3
+  name: 'Credits: 1000'
+  description: 1000 Credits
+  image: null
+  player_rank_border: 1
+  price: 200
+  quantity: 1
+  purchase_resource_type: event_token2
+  stock: 10
+  start_at: null
+  end_at: null
+  new_player_sale_elapsed_number_of_days: null
+data101:
+  id: 101
+  panelable_type: ShopFixedPanel
+  panelable_id: 20
+  priority: 4
+  name: ProCrate
+  description: 1 Pro Crate
+  image: null
+  player_rank_border: 1
+  price: 600
+  quantity: 1
+  purchase_resource_type: event_token2
+  stock: 2
+  start_at: null
+  end_at: null
+  new_player_sale_elapsed_number_of_days: null
+data102:
+  id: 102
+  panelable_type: ShopFixedPanel
+  panelable_id: 20
+  priority: 5
+  name: 'Champion Token: 5'
+  description: 5 Champion Tokens
+  image: null
+  player_rank_border: 1
+  price: 250
+  quantity: 1
+  purchase_resource_type: event_token2
+  stock: 4
+  start_at: null
+  end_at: null
+  new_player_sale_elapsed_number_of_days: null
+data103:
+  id: 103
+  panelable_type: ShopFixedPanel
+  panelable_id: 20
+  priority: 6
+  name: 'Skin Tickets: 10'
+  description: 10 Skin Tickets
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: event_token2
+  stock: 10
+  start_at: null
+  end_at: null
+  new_player_sale_elapsed_number_of_days: null
+data104:
+  id: 104
+  panelable_type: ShopFixedPanel
+  panelable_id: 21
+  priority: 1
+  name: 'Credits: 10'
+  description: 10 Credits
+  image: null
+  player_rank_border: 1
+  price: 10
+  quantity: 1
+  purchase_resource_type: event_token2
+  stock: null
+  start_at: null
+  end_at: null
+  new_player_sale_elapsed_number_of_days: null
+data105:
+  id: 105
+  panelable_type: ShopFixedPanel
+  panelable_id: 21
+  priority: 2
+  name: 'Champion Token: 1'
+  description: 1 Champion Token
+  image: null
+  player_rank_border: 1
+  price: 100
+  quantity: 1
+  purchase_resource_type: event_token2
+  stock: null
+  start_at: null
+  end_at: null
+  new_player_sale_elapsed_number_of_days: null
+data106:
+  id: 106
+  panelable_type: ShopFixedPanel
+  panelable_id: 21
+  priority: 3
+  name: 'Skin Tickets: 1'
+  description: 1 Skin Ticket
+  image: null
+  player_rank_border: 1
+  price: 50
+  quantity: 1
+  purchase_resource_type: event_token2
+  stock: null
+  start_at: null
+  end_at: null
+  new_player_sale_elapsed_number_of_days: null

@@ -298,3 +298,78 @@ data61:
   group_id: 13
   master_treasure_box_id: 84
   weight: 0.0002
+data62:
+  id: 62
+  group_id: 14
+  master_treasure_box_id: 85
+  weight: 0.8198
+data63:
+  id: 63
+  group_id: 14
+  master_treasure_box_id: 86
+  weight: 0.12
+data64:
+  id: 64
+  group_id: 14
+  master_treasure_box_id: 87
+  weight: 0.05
+data65:
+  id: 65
+  group_id: 14
+  master_treasure_box_id: 88
+  weight: 0.01
+data66:
+  id: 66
+  group_id: 14
+  master_treasure_box_id: 97
+  weight: 0.0002
+data67:
+  id: 67
+  group_id: 15
+  master_treasure_box_id: 89
+  weight: 0.8198
+data68:
+  id: 68
+  group_id: 15
+  master_treasure_box_id: 90
+  weight: 0.12
+data69:
+  id: 69
+  group_id: 15
+  master_treasure_box_id: 91
+  weight: 0.05
+data70:
+  id: 70
+  group_id: 15
+  master_treasure_box_id: 92
+  weight: 0.01
+data71:
+  id: 71
+  group_id: 15
+  master_treasure_box_id: 97
+  weight: 0.0002
+data72:
+  id: 72
+  group_id: 16
+  master_treasure_box_id: 93
+  weight: 0.8198
+data73:
+  id: 73
+  group_id: 16
+  master_treasure_box_id: 94
+  weight: 0.12
+data74:
+  id: 74
+  group_id: 16
+  master_treasure_box_id: 95
+  weight: 0.05
+data75:
+  id: 75
+  group_id: 16
+  master_treasure_box_id: 96
+  weight: 0.01
+data76:
+  id: 76
+  group_id: 16
+  master_treasure_box_id: 97
+  weight: 0.0002

@@ -458,3 +458,133 @@ data93:
   master_treasure_box_id: 84
   itemable_type: ConsumptionResourceItem
   itemable_id: 160
+data94:
+  id: 94
+  master_treasure_box_id: 85
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 102
+data95:
+  id: 95
+  master_treasure_box_id: 85
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 164
+data96:
+  id: 96
+  master_treasure_box_id: 86
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 103
+data97:
+  id: 97
+  master_treasure_box_id: 86
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 167
+data98:
+  id: 98
+  master_treasure_box_id: 87
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 104
+data99:
+  id: 99
+  master_treasure_box_id: 87
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 169
+data100:
+  id: 100
+  master_treasure_box_id: 88
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 105
+data101:
+  id: 101
+  master_treasure_box_id: 88
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 169
+data102:
+  id: 102
+  master_treasure_box_id: 89
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 106
+data103:
+  id: 103
+  master_treasure_box_id: 89
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 164
+data104:
+  id: 104
+  master_treasure_box_id: 90
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 107
+data105:
+  id: 105
+  master_treasure_box_id: 90
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 167
+data106:
+  id: 106
+  master_treasure_box_id: 91
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 108
+data107:
+  id: 107
+  master_treasure_box_id: 91
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 169
+data108:
+  id: 108
+  master_treasure_box_id: 92
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 109
+data109:
+  id: 109
+  master_treasure_box_id: 92
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 169
+data110:
+  id: 110
+  master_treasure_box_id: 93
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 110
+data111:
+  id: 111
+  master_treasure_box_id: 93
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 164
+data112:
+  id: 112
+  master_treasure_box_id: 94
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 111
+data113:
+  id: 113
+  master_treasure_box_id: 94
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 167
+data114:
+  id: 114
+  master_treasure_box_id: 95
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 112
+data115:
+  id: 115
+  master_treasure_box_id: 95
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 169
+data116:
+  id: 116
+  master_treasure_box_id: 96
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 113
+data117:
+  id: 117
+  master_treasure_box_id: 96
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 169
+data118:
+  id: 118
+  master_treasure_box_id: 97
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 174
+data119:
+  id: 119
+  master_treasure_box_id: 98
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 176

@@ -47,3 +47,24 @@ data8:
   master_league_id: 3
   drop_rate: 1
   event_id: 1
+data9:
+  id: 9
+  treasure_box_group_id: 14
+  battle_mode: online_match
+  master_league_id: 1
+  drop_rate: 1
+  event_id: 3
+data10:
+  id: 10
+  treasure_box_group_id: 15
+  battle_mode: online_match
+  master_league_id: 2
+  drop_rate: 1
+  event_id: 3
+data11:
+  id: 11
+  treasure_box_group_id: 16
+  battle_mode: online_match
+  master_league_id: 3
+  drop_rate: 1
+  event_id: 3

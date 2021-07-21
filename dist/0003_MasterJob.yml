@@ -6,12 +6,15 @@ data2:
     calculates and pursues the means to reach victory. 
   role_id: Attacker
   passive_skill_id: 2
-  hp: 1500
+  hp: 2000
   attack_power: 200
+  normal_skill_id: null
+  ult_skill_id: null
   unlock_league_num: 1
-  life_stock: 3
+  life_stock: 99
   respawn_time: 5
   cooldown_accelerration: 0.015
+  master_guard_param_id: 2
 data3:
   id: 3
   name: ATHENA
@@ -21,12 +24,15 @@ data3:
     large core fan base.
   role_id: Tank
   passive_skill_id: 1
-  hp: 2000
-  attack_power: 130
+  hp: 2600
+  attack_power: 150
+  normal_skill_id: null
+  ult_skill_id: null
   unlock_league_num: 1
-  life_stock: 3
+  life_stock: 99
   respawn_time: 5
   cooldown_accelerration: 0.015
+  master_guard_param_id: 3
 data4:
   id: 4
   name: HERMIT
@@ -35,12 +41,15 @@ data4:
     tide in a match has created many famous scenes.
   role_id: Tank
   passive_skill_id: 1
-  hp: 1700
-  attack_power: 140
+  hp: 2900
+  attack_power: 170
+  normal_skill_id: null
+  ult_skill_id: null
   unlock_league_num: 1
-  life_stock: 3
+  life_stock: 99
   respawn_time: 5
   cooldown_accelerration: 0.015
+  master_guard_param_id: 4
 data5:
   id: 5
   name: SUNSHINE
@@ -49,12 +58,15 @@ data5:
     though she is a young girl, she is a hard worker and a top player. 
   role_id: Forcer
   passive_skill_id: 3
-  hp: 1500
-  attack_power: 160
+  hp: 2000
+  attack_power: 200
+  normal_skill_id: null
+  ult_skill_id: null
   unlock_league_num: 1
-  life_stock: 3
+  life_stock: 99
   respawn_time: 5
   cooldown_accelerration: 0.015
+  master_guard_param_id: 5
 data6:
   id: 6
   name: ORCA
@@ -63,9 +75,12 @@ data6:
     his absolute confidence and high-handedness in cornering his opponents. 
   role_id: Forcer
   passive_skill_id: 3
-  hp: 1600
+  hp: 2000
   attack_power: 150
+  normal_skill_id: null
+  ult_skill_id: null
   unlock_league_num: 1
-  life_stock: 3
+  life_stock: 99
   respawn_time: 5
   cooldown_accelerration: 0.015
+  master_guard_param_id: 6

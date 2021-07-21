@@ -1,5 +1,11 @@
 data2:
   id: 2
-  game_mode: BattleRoyale
+  game_mode: 1
   time_limit: 120
   peak_time: 40
+  role_damage_ratio: 2
+  battle_win_point: 5
+  champion_kill_point: 2
+  buddy_kill_point: 1
+  skill_object_kill_point: 0
+  others_kill_point: 0

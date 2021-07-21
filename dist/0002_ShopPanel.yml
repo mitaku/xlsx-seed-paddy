@@ -7,7 +7,7 @@ data2:
   name: StartDashSalePanel
   description: null
   thumbnail: thumbnail_start_dash_sale_panel
-  priority: 18
+  priority: 10001
   event_id: null
   start_at: null
   end_at: null
@@ -20,7 +20,7 @@ data3:
   name: PremierStartDashSalePanel
   description: null
   thumbnail: thumbnail_premier_start_dash_sale_panel
-  priority: 19
+  priority: 10002
   event_id: null
   start_at: null
   end_at: null
@@ -98,7 +98,7 @@ data9:
   name: ChampionSkinBundlePanel
   description: null
   thumbnail: thumbnail_job_skin_bundle_panel
-  priority: 17
+  priority: 10003
   event_id: null
   start_at: null
   end_at: null
@@ -111,7 +111,7 @@ data10:
   name: RankUpBundlePanel5-40
   description: null
   thumbnail: thumbnail_rank_up_bundle_panel_5-40
-  priority: 5
+  priority: 8
   event_id: null
   start_at: null
   end_at: null
@@ -124,7 +124,7 @@ data11:
   name: RankUpBundlePanel50-100
   description: null
   thumbnail: thumbnail_rank_up_bundle_panel_50-100
-  priority: 6
+  priority: 9
   event_id: null
   start_at: null
   end_at: null
@@ -137,7 +137,7 @@ data12:
   name: CrateChampionBundlePanel
   description: null
   thumbnail: thumbnail_treasure_box_job_bundle_panel
-  priority: 7
+  priority: 10004
   event_id: null
   start_at: null
   end_at: null
@@ -150,10 +150,10 @@ data13:
   name: GrowthBundlePanel
   description: null
   thumbnail: thumbnail_growth_bundle_panel
-  priority: 9
+  priority: 3
   event_id: null
-  start_at: null
-  end_at: null
+  start_at: '2021-05-26 3:59:59'
+  end_at: '2021-08-04 3:59:59'
 data14:
   id: 14
   shop_id: 1
@@ -163,10 +163,10 @@ data14:
   name: PremierBundlePanel
   description: null
   thumbnail: thumbnail_premier_bundle_panel
-  priority: 8
+  priority: 4
   event_id: null
-  start_at: null
-  end_at: null
+  start_at: '2021-05-26 3:59:59'
+  end_at: '2021-08-04 3:59:59'
 data15:
   id: 15
   shop_id: 1
@@ -202,7 +202,7 @@ data17:
   name: Reward Shop
   description: Collect Research Data
   thumbnail: thumbnail_shop_event_001
-  priority: 3
+  priority: 10005
   event_id: 1
   start_at: '2021-04-01 4:00:00'
   end_at: '2021-05-26 3:59:59'
@@ -215,7 +215,7 @@ data18:
   name: Reward Shop
   description: Collect Research Data
   thumbnail: thumbnail_small_blue
-  priority: 4
+  priority: 10006
   event_id: 1
   start_at: '2021-04-01 4:00:00'
   end_at: '2021-05-26 3:59:59'
@@ -228,7 +228,59 @@ data19:
   name: Credit & Gem Bundle
   description: null
   thumbnail: thumbnail_credit_gem_bundle_panel
-  priority: 2
+  priority: 10007
   event_id: null
   start_at: '2021-04-01 4:00:00'
   end_at: '2021-05-19 3:59:59'
+data20:
+  id: 20
+  shop_id: 1
+  panel_category_id: 10
+  shop_panelable_type: ShopFixedPanel
+  shop_panelable_id: 20
+  name: Reward Shop
+  description: Warrior Training -Hermit-
+  thumbnail: thumbnail_hermit_panel
+  priority: 6
+  event_id: 3
+  start_at: null
+  end_at: null
+data21:
+  id: 21
+  shop_id: 1
+  panel_category_id: 11
+  shop_panelable_type: ShopFixedPanel
+  shop_panelable_id: 21
+  name: Reward Shop
+  description: Warrior Training -Hermit-
+  thumbnail: thumbnail_small_purple
+  priority: 7
+  event_id: 3
+  start_at: null
+  end_at: null
+data22:
+  id: 22
+  shop_id: 1
+  panel_category_id: 1
+  shop_panelable_type: ShopFixedPanel
+  shop_panelable_id: 22
+  name: WelcomeSalePanel
+  description: null
+  thumbnail: thumbnail_welcome_2d_panel
+  priority: 1
+  event_id: null
+  start_at: null
+  end_at: null
+data23:
+  id: 23
+  shop_id: 1
+  panel_category_id: 1
+  shop_panelable_type: ShopFixedPanel
+  shop_panelable_id: 23
+  name: PremierWelcomSalePanel
+  description: null
+  thumbnail: thumbnail_premier_welcome_2d_panel
+  priority: 2
+  event_id: null
+  start_at: null
+  end_at: null

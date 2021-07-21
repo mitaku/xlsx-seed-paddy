@@ -60,7 +60,7 @@ data8:
   description: >-
     Spits out a scorching flame that causes a burn effect on the opponent for
     2.5 seconds. The burn condition simultaneously damages 50% of power per
-    second to the opponent's armor and HP.
+    second to the opponent's HP.
   active_skillable_id: 2
   active_skillable_type: MasterMonster
   skill_type: ult
@@ -209,8 +209,7 @@ data24:
   name: CAUSAL RETRIBUTION
   description: >-
     Increases attack power according to damage taken, and changing the
-    performance of normal attacks. During the duration of the effect, the armor
-    will disappear.
+    performance of normal attacks.
   active_skillable_id: 4
   active_skillable_type: MasterJob
   skill_type: ult

@@ -10,15 +10,15 @@ data3:
   shop_packable_type: ShopPlatformPack
   shop_packable_id: 3
   quantity: 1
-  itemable_type: TreasureBoxGroup
+  itemable_type: MasterTreasureBox
   itemable_id: 8
 data4:
   id: 4
   shop_packable_type: ShopPlatformPack
   shop_packable_id: 4
   quantity: 1
-  itemable_type: TreasureBoxGroup
-  itemable_id: 10
+  itemable_type: MasterTreasureBox
+  itemable_id: 98
 data5:
   id: 5
   shop_packable_type: ShopPlatformPack
@@ -31,8 +31,8 @@ data6:
   shop_packable_type: ShopPlatformPack
   shop_packable_id: 5
   quantity: 2
-  itemable_type: TreasureBoxGroup
-  itemable_id: 10
+  itemable_type: MasterTreasureBox
+  itemable_id: 98
 data7:
   id: 7
   shop_packable_type: ShopPlatformPack
@@ -129,22 +129,22 @@ data20:
   shop_packable_type: ShopFixedPack
   shop_packable_id: 10
   quantity: 1
-  itemable_type: TreasureBoxGroup
+  itemable_type: MasterTreasureBox
   itemable_id: 8
 data21:
   id: 21
   shop_packable_type: ShopFixedPack
   shop_packable_id: 11
   quantity: 1
-  itemable_type: TreasureBoxGroup
+  itemable_type: MasterTreasureBox
   itemable_id: 9
 data22:
   id: 22
   shop_packable_type: ShopFixedPack
   shop_packable_id: 12
   quantity: 1
-  itemable_type: TreasureBoxGroup
-  itemable_id: 10
+  itemable_type: MasterTreasureBox
+  itemable_id: 98
 data23:
   id: 23
   shop_packable_type: ShopFixedPack
@@ -192,7 +192,7 @@ data29:
   shop_packable_type: ShopFixedPack
   shop_packable_id: 16
   quantity: 1
-  itemable_type: TreasureBoxGroup
+  itemable_type: MasterTreasureBox
   itemable_id: 9
 data30:
   id: 30
@@ -213,7 +213,7 @@ data32:
   shop_packable_type: ShopFixedPack
   shop_packable_id: 17
   quantity: 1
-  itemable_type: TreasureBoxGroup
+  itemable_type: MasterTreasureBox
   itemable_id: 9
 data33:
   id: 33
@@ -234,7 +234,7 @@ data35:
   shop_packable_type: ShopFixedPack
   shop_packable_id: 18
   quantity: 1
-  itemable_type: TreasureBoxGroup
+  itemable_type: MasterTreasureBox
   itemable_id: 9
 data36:
   id: 36
@@ -255,7 +255,7 @@ data38:
   shop_packable_type: ShopFixedPack
   shop_packable_id: 19
   quantity: 1
-  itemable_type: TreasureBoxGroup
+  itemable_type: MasterTreasureBox
   itemable_id: 9
 data39:
   id: 39
@@ -276,7 +276,7 @@ data41:
   shop_packable_type: ShopFixedPack
   shop_packable_id: 20
   quantity: 1
-  itemable_type: TreasureBoxGroup
+  itemable_type: MasterTreasureBox
   itemable_id: 9
 data42:
   id: 42
@@ -304,7 +304,7 @@ data45:
   shop_packable_type: ShopFixedPack
   shop_packable_id: 21
   quantity: 1
-  itemable_type: TreasureBoxGroup
+  itemable_type: MasterTreasureBox
   itemable_id: 9
 data46:
   id: 46
@@ -332,7 +332,7 @@ data49:
   shop_packable_type: ShopFixedPack
   shop_packable_id: 22
   quantity: 1
-  itemable_type: TreasureBoxGroup
+  itemable_type: MasterTreasureBox
   itemable_id: 9
 data50:
   id: 50
@@ -360,7 +360,7 @@ data53:
   shop_packable_type: ShopFixedPack
   shop_packable_id: 23
   quantity: 1
-  itemable_type: TreasureBoxGroup
+  itemable_type: MasterTreasureBox
   itemable_id: 9
 data54:
   id: 54
@@ -388,8 +388,8 @@ data57:
   shop_packable_type: ShopFixedPack
   shop_packable_id: 24
   quantity: 1
-  itemable_type: TreasureBoxGroup
-  itemable_id: 10
+  itemable_type: MasterTreasureBox
+  itemable_id: 98
 data58:
   id: 58
   shop_packable_type: ShopFixedPack
@@ -416,8 +416,8 @@ data61:
   shop_packable_type: ShopFixedPack
   shop_packable_id: 25
   quantity: 1
-  itemable_type: TreasureBoxGroup
-  itemable_id: 10
+  itemable_type: MasterTreasureBox
+  itemable_id: 98
 data62:
   id: 62
   shop_packable_type: ShopFixedPack
@@ -444,8 +444,8 @@ data65:
   shop_packable_type: ShopFixedPack
   shop_packable_id: 26
   quantity: 1
-  itemable_type: TreasureBoxGroup
-  itemable_id: 10
+  itemable_type: MasterTreasureBox
+  itemable_id: 98
 data66:
   id: 66
   shop_packable_type: ShopFixedPack
@@ -472,8 +472,8 @@ data69:
   shop_packable_type: ShopFixedPack
   shop_packable_id: 27
   quantity: 1
-  itemable_type: TreasureBoxGroup
-  itemable_id: 10
+  itemable_type: MasterTreasureBox
+  itemable_id: 98
 data70:
   id: 70
   shop_packable_type: ShopFixedPack
@@ -500,7 +500,7 @@ data73:
   shop_packable_type: ShopFixedPack
   shop_packable_id: 28
   quantity: 1
-  itemable_type: TreasureBoxGroup
+  itemable_type: MasterTreasureBox
   itemable_id: 9
 data74:
   id: 74
@@ -514,8 +514,8 @@ data75:
   shop_packable_type: ShopFixedPack
   shop_packable_id: 29
   quantity: 1
-  itemable_type: TreasureBoxGroup
-  itemable_id: 10
+  itemable_type: MasterTreasureBox
+  itemable_id: 98
 data76:
   id: 76
   shop_packable_type: ShopFixedPack
@@ -528,7 +528,7 @@ data77:
   shop_packable_type: ShopFixedPack
   shop_packable_id: 30
   quantity: 1
-  itemable_type: TreasureBoxGroup
+  itemable_type: MasterTreasureBox
   itemable_id: 8
 data78:
   id: 78
@@ -542,7 +542,7 @@ data79:
   shop_packable_type: ShopFixedPack
   shop_packable_id: 31
   quantity: 1
-  itemable_type: TreasureBoxGroup
+  itemable_type: MasterTreasureBox
   itemable_id: 9
 data80:
   id: 80
@@ -556,8 +556,8 @@ data81:
   shop_packable_type: ShopFixedPack
   shop_packable_id: 32
   quantity: 1
-  itemable_type: TreasureBoxGroup
-  itemable_id: 10
+  itemable_type: MasterTreasureBox
+  itemable_id: 98
 data82:
   id: 82
   shop_packable_type: ShopFixedPack
@@ -570,8 +570,8 @@ data83:
   shop_packable_type: ShopFixedPack
   shop_packable_id: 33
   quantity: 1
-  itemable_type: TreasureBoxGroup
-  itemable_id: 10
+  itemable_type: MasterTreasureBox
+  itemable_id: 98
 data84:
   id: 84
   shop_packable_type: ShopFixedPack
@@ -1165,7 +1165,7 @@ data168:
   shop_packable_type: ShopPlatformPack
   shop_packable_id: 14
   quantity: 1
-  itemable_type: TreasureBoxGroup
+  itemable_type: MasterTreasureBox
   itemable_id: 7
 data169:
   id: 169
@@ -1179,7 +1179,7 @@ data170:
   shop_packable_type: ShopPlatformPack
   shop_packable_id: 15
   quantity: 1
-  itemable_type: TreasureBoxGroup
+  itemable_type: MasterTreasureBox
   itemable_id: 7
 data171:
   id: 171
@@ -1188,3 +1188,122 @@ data171:
   quantity: 1
   itemable_type: ConsumptionResourceItem
   itemable_id: 163
+data172:
+  id: 172
+  shop_packable_type: ShopFixedPack
+  shop_packable_id: 98
+  quantity: 1
+  itemable_type: MasterJob
+  itemable_id: 4
+data173:
+  id: 173
+  shop_packable_type: ShopFixedPack
+  shop_packable_id: 99
+  quantity: 1
+  itemable_type: MasterSkin
+  itemable_id: 40
+data174:
+  id: 174
+  shop_packable_type: ShopFixedPack
+  shop_packable_id: 100
+  quantity: 1
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 10
+data175:
+  id: 175
+  shop_packable_type: ShopFixedPack
+  shop_packable_id: 101
+  quantity: 1
+  itemable_type: TreasureBoxGroup
+  itemable_id: 9
+data176:
+  id: 176
+  shop_packable_type: ShopFixedPack
+  shop_packable_id: 102
+  quantity: 1
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 146
+data177:
+  id: 177
+  shop_packable_type: ShopFixedPack
+  shop_packable_id: 103
+  quantity: 1
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 74
+data178:
+  id: 178
+  shop_packable_type: ShopFixedPack
+  shop_packable_id: 104
+  quantity: 1
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 147
+data179:
+  id: 179
+  shop_packable_type: ShopFixedPack
+  shop_packable_id: 105
+  quantity: 1
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 148
+data180:
+  id: 180
+  shop_packable_type: ShopFixedPack
+  shop_packable_id: 106
+  quantity: 1
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 149
+data181:
+  id: 181
+  shop_packable_type: ShopPlatformPack
+  shop_packable_id: 16
+  quantity: 1
+  itemable_type: MasterTreasureBox
+  itemable_id: 8
+data182:
+  id: 182
+  shop_packable_type: ShopPlatformPack
+  shop_packable_id: 17
+  quantity: 1
+  itemable_type: MasterTreasureBox
+  itemable_id: 98
+data183:
+  id: 183
+  shop_packable_type: ShopPlatformPack
+  shop_packable_id: 17
+  quantity: 1
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 15
+data184:
+  id: 184
+  shop_packable_type: ShopPlatformPack
+  shop_packable_id: 18
+  quantity: 2
+  itemable_type: MasterTreasureBox
+  itemable_id: 98
+data185:
+  id: 185
+  shop_packable_type: ShopPlatformPack
+  shop_packable_id: 18
+  quantity: 1
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 141
+data186:
+  id: 186
+  shop_packable_type: ShopPlatformPack
+  shop_packable_id: 19
+  quantity: 1
+  itemable_type: MasterTreasureBox
+  itemable_id: 6
+data187:
+  id: 187
+  shop_packable_type: ShopPlatformPack
+  shop_packable_id: 19
+  quantity: 1
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 142
+data188:
+  id: 188
+  shop_packable_type: ShopPlatformPack
+  shop_packable_id: 19
+  quantity: 1
+  itemable_type: ConsumptionResourceItem
+  itemable_id: 143
